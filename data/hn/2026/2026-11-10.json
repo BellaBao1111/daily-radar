@@ -13,12 +13,33 @@
     "title": "How hard is it to check for whitespace?",
     "url": "https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace"
   },
+  "50404969": {
+    "author": "andsoitis",
+    "comments": 14,
+    "points": 38,
+    "title": "The planet Vulcan: a cautionary tale",
+    "url": "https://kevinboone.me/vulcan.html"
+  },
+  "50406224": {
+    "author": "moooooky",
+    "comments": 3,
+    "points": 13,
+    "title": "Hacking the meta ray-ban smartglasses",
+    "url": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/"
+  },
   "50410329": {
     "author": "benbreen",
     "comments": 17,
     "points": 57,
     "title": "Simon Winchester, Author of 'The Professor and the Madman,' Has Died",
     "url": "https://www.nytimes.com/2026/11/04/obituaries/simon-winchester-dead.html"
+  },
+  "50412209": {
+    "author": "lumpa",
+    "comments": 1,
+    "points": 18,
+    "title": "Stable URLs for 42,000 Huts and Peaks",
+    "url": "https://peter-hoffmann.com/2026/stable-urls-for-huts-and-peaks.html"
   },
   "50412324": {
     "author": "moebrowne",
@@ -29,8 +50,8 @@
   },
   "50412554": {
     "author": "jaypatelani",
-    "comments": 44,
-    "points": 88,
+    "comments": 75,
+    "points": 123,
     "title": "NetBSD 11 desktop on a Raspberry Pi 4",
     "url": "https://neongd.com/articles/netbsd11-rpi4.gmi"
   },
@@ -90,6 +111,13 @@
     "title": "Here comes the sun[light]:An ambient Daylight Clock with time and space controls",
     "url": "https://hannahilea.com/blog/daylight-clock/"
   },
+  "50433216": {
+    "author": "ingve",
+    "comments": 44,
+    "points": 116,
+    "title": "Process Explorer for macOS",
+    "url": "https://github.com/microsoft/Procexp-Mac"
+  },
   "50434310": {
     "author": "bigwheels",
     "comments": 156,
@@ -118,24 +146,45 @@
     "title": "Fireworks AI security breach impacts Notion and their customers",
     "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor"
   },
+  "50437242": {
+    "author": "sorokod",
+    "comments": 101,
+    "points": 127,
+    "title": "M John Harrison becomes first science fiction author to win the Booker",
+    "url": "https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize"
+  },
   "50437790": {
     "author": "rustyhancock",
-    "comments": 98,
-    "points": 154,
-    "title": "Queens Public library under ransomware attack e-borrowing suspended",
+    "comments": 106,
+    "points": 191,
+    "title": "Queens Public Library under ransomware attack",
     "url": "https://connect.queenslibrary.org/"
+  },
+  "50438318": {
+    "author": "plun9",
+    "comments": 383,
+    "points": 346,
+    "title": "AI usage generates a fragile codebase",
+    "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/"
+  },
+  "50438480": {
+    "author": "FinnLobsien",
+    "comments": 214,
+    "points": 202,
+    "title": "What constant surveillance is doing to children and parents",
+    "url": "https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/"
   },
   "50439193": {
     "author": "ilreb",
-    "comments": 147,
-    "points": 444,
+    "comments": 174,
+    "points": 558,
     "title": "AlphaProof Code",
     "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
   },
   "50439284": {
     "author": "stevefan1999",
-    "comments": 72,
-    "points": 127,
+    "comments": 164,
+    "points": 234,
     "title": "What's new in the .NET 11 runtime",
     "url": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime"
   },
@@ -145,6 +194,13 @@
     "points": 56,
     "title": "Let over Lambda–50 Years of Lisp (2008)",
     "url": "https://letoverlambda.com/"
+  },
+  "50439695": {
+    "author": "phaser",
+    "comments": 281,
+    "points": 263,
+    "title": "Ableton Live 13",
+    "url": "https://www.ableton.com/en/live/"
   },
   "50441074": {
     "author": "bookofjoe",
@@ -162,15 +218,15 @@
   },
   "50441518": {
     "author": "leugim",
-    "comments": 17,
-    "points": 50,
+    "comments": 46,
+    "points": 180,
     "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
     "url": "https://tinyvalencia.com/"
   },
   "50441707": {
     "author": "skittleson",
-    "comments": 47,
-    "points": 103,
+    "comments": 230,
+    "points": 649,
     "title": "Smart home devices should work without the internet",
     "url": "https://docodethatmatters.com/home-automation-overnight-success/"
   },
@@ -190,8 +246,8 @@
   },
   "50442426": {
     "author": "amlib",
-    "comments": 29,
-    "points": 203,
+    "comments": 58,
+    "points": 411,
     "title": "Blender 5.3 released with Gaussian Splat support",
     "url": "https://www.blender.org/download/releases/5-3/"
   },
@@ -204,16 +260,107 @@
   },
   "50442736": {
     "author": "p4bl0",
-    "comments": 24,
-    "points": 179,
+    "comments": 140,
+    "points": 636,
     "title": ".name Grandfathered",
     "url": "https://neil.fraser.name/news/2026/11/10/"
   },
   "50443090": {
     "author": "pixelpoet",
-    "comments": 5,
-    "points": 21,
+    "comments": 62,
+    "points": 172,
     "title": "AMD's Zen 6 Family: Feeding the Beast",
     "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast"
+  },
+  "50443427": {
+    "author": "tosh",
+    "comments": 75,
+    "points": 278,
+    "title": "Val Town is winding down",
+    "url": "https://blog.val.town/winding-down"
+  },
+  "50443714": {
+    "author": "d-ramdass",
+    "comments": 8,
+    "points": 66,
+    "title": "An Open Field Guide to Inference Engineering",
+    "url": "https://docs.modelplane.ai/guides/inference-guide"
+  },
+  "50443716": {
+    "author": "Yorothegoat",
+    "comments": 115,
+    "points": 147,
+    "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+    "url": "https://claude.com/resources/articles/sheets-whiteboards-data"
+  },
+  "50443812": {
+    "author": "paulirish",
+    "comments": 64,
+    "points": 228,
+    "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+    "url": "https://github.com/GoogleChrome/modern-web-guidance"
+  },
+  "50443824": {
+    "author": "speckx",
+    "comments": 121,
+    "points": 263,
+    "title": "Synaptics patent claims stop work on DisplayLink drivers",
+    "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/"
+  },
+  "50444684": {
+    "author": "tomrittervg",
+    "comments": 25,
+    "points": 58,
+    "title": "A comprehensive study of how fingerprintable users are",
+    "url": "https://fingerprinting.study/"
+  },
+  "50445013": {
+    "author": "gmays",
+    "comments": 40,
+    "points": 84,
+    "title": "What objective is reasoning solving?",
+    "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/"
+  },
+  "50445401": {
+    "author": "NaOH",
+    "comments": 181,
+    "points": 257,
+    "title": "Toyota brand Scion is back and it's going to sell a kei truck in America",
+    "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/"
+  },
+  "50446219": {
+    "author": "hashmap",
+    "comments": 29,
+    "points": 60,
+    "title": "Sherman Anti-Trust Act (1890)",
+    "url": "https://www.archives.gov/milestone-documents/sherman-anti-trust-act"
+  },
+  "50446246": {
+    "author": "digital55",
+    "comments": 16,
+    "points": 95,
+    "title": "Six Math Essentials by Terence Tao",
+    "url": "https://teorth.github.io/tao-web/six-math-essentials.html"
+  },
+  "50446520": {
+    "author": "linolevan",
+    "comments": 40,
+    "points": 84,
+    "title": "Apple has new Mac app coming to make running local AI models easy",
+    "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/"
+  },
+  "50446714": {
+    "author": "michaelsbradley",
+    "comments": 35,
+    "points": 48,
+    "title": "rVPN – stealth VPN with end-to-end encryption",
+    "url": "https://rvpn.org/"
+  },
+  "50447074": {
+    "author": "panic",
+    "comments": 22,
+    "points": 99,
+    "title": "After 7 Months, Glasswing Overwelms Maintainers with Underwhelming Findings",
+    "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update"
   }
 }
