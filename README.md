@@ -12,7 +12,7 @@ picks a random subset of sources, so coverage varies from day to day.
 
 ## Trending on Hacker News this week
 
-`canada` ×2 · `now` ×2 · `code` ×2 · `tailscale` ×2
+`claude` ×4 · `author` ×2 · `canada` ×2 · `now` ×2 · `code` ×2 · `work` ×2 · `tailscale` ×2
 
 ## How it works
 
