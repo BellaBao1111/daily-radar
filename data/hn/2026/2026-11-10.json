@@ -1,10 +1,17 @@
 {
   "50382401": {
     "author": "speckx",
-    "comments": 7,
-    "points": 31,
+    "comments": 11,
+    "points": 45,
     "title": "I deleted all my SSH keys",
     "url": "https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/"
+  },
+  "50392733": {
+    "author": "theanonymousone",
+    "comments": 26,
+    "points": 113,
+    "title": "How hard is it to check for whitespace?",
+    "url": "https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace"
   },
   "50410329": {
     "author": "benbreen",
@@ -22,15 +29,15 @@
   },
   "50412554": {
     "author": "jaypatelani",
-    "comments": 40,
-    "points": 87,
+    "comments": 44,
+    "points": 88,
     "title": "NetBSD 11 desktop on a Raspberry Pi 4",
     "url": "https://neongd.com/articles/netbsd11-rpi4.gmi"
   },
   "50414117": {
     "author": "samuelaidoo45",
     "comments": 18,
-    "points": 85,
+    "points": 87,
     "title": "Show HN: Ghanaian street games you can play in the browser",
     "url": "https://www.ghanastreetgames.com/"
   },
@@ -44,70 +51,70 @@
   "50426294": {
     "author": "ericswpark",
     "comments": 32,
-    "points": 69,
+    "points": 71,
     "title": "Taking another shot at the cheap IP camera, part 2",
     "url": "https://ericswpark.com/blog/2026/2026-11-09-ip-camera-pt2/"
   },
   "50427362": {
     "author": "ocd",
     "comments": 329,
-    "points": 572,
+    "points": 573,
     "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
     "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy"
   },
   "50429068": {
     "author": "lairv",
-    "comments": 952,
-    "points": 822,
+    "comments": 954,
+    "points": 824,
     "title": "Claude Fable 5.2 and Mythos 5.2",
     "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
   },
   "50429734": {
     "author": "porridgeraisin",
-    "comments": 70,
-    "points": 483,
+    "comments": 71,
+    "points": 484,
     "title": "E-means: Outperforming k-means in one-tenth the epochs",
     "url": "https://e-means.github.io/"
   },
   "50431058": {
     "author": "munro",
-    "comments": 369,
-    "points": 708,
+    "comments": 370,
+    "points": 709,
     "title": "USPS now offers official ZIP Code boundary polygons",
     "url": "https://postalpro.usps.com/zcb"
   },
   "50431075": {
     "author": "evakhoury",
     "comments": 7,
-    "points": 40,
+    "points": 42,
     "title": "Here comes the sun[light]:An ambient Daylight Clock with time and space controls",
     "url": "https://hannahilea.com/blog/daylight-clock/"
   },
   "50434310": {
     "author": "bigwheels",
-    "comments": 153,
-    "points": 301,
+    "comments": 156,
+    "points": 303,
     "title": "Locating the source of a mysterious beep",
     "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/"
   },
   "50436410": {
     "author": "Curiositry",
-    "comments": 104,
-    "points": 240,
+    "comments": 105,
+    "points": 242,
     "title": "Your TV can see through walls (2025)",
     "url": "https://maurycyz.com/projects/fading/"
   },
   "50436640": {
     "author": "aloukissas",
     "comments": 211,
-    "points": 595,
+    "points": 598,
     "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
     "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/"
   },
   "50437106": {
     "author": "werrett",
     "comments": 49,
-    "points": 143,
+    "points": 144,
     "title": "Fireworks AI security breach impacts Notion and their customers",
     "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor"
   },
@@ -120,92 +127,92 @@
   },
   "50439193": {
     "author": "ilreb",
-    "comments": 142,
-    "points": 440,
+    "comments": 147,
+    "points": 444,
     "title": "AlphaProof Code",
     "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
   },
   "50439284": {
     "author": "stevefan1999",
-    "comments": 71,
-    "points": 123,
+    "comments": 72,
+    "points": 127,
     "title": "What's new in the .NET 11 runtime",
     "url": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime"
   },
   "50439448": {
     "author": "theanonymousone",
     "comments": 13,
-    "points": 53,
+    "points": 56,
     "title": "Let over Lambda–50 Years of Lisp (2008)",
     "url": "https://letoverlambda.com/"
   },
   "50441074": {
     "author": "bookofjoe",
-    "comments": 39,
+    "comments": 44,
     "points": 37,
-    "title": "The Death Knell of Digital Search",
+    "title": "The death knell of digital search",
     "url": "https://www.newyorker.com/culture/infinite-scroll/the-death-knell-of-digital-search"
   },
   "50441338": {
     "author": "thatslast",
     "comments": 10,
-    "points": 102,
+    "points": 106,
     "title": "The Hardest Tarball?",
     "url": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html"
   },
   "50441518": {
     "author": "leugim",
-    "comments": 15,
-    "points": 46,
+    "comments": 17,
+    "points": 50,
     "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
     "url": "https://tinyvalencia.com/"
   },
   "50441707": {
     "author": "skittleson",
-    "comments": 40,
-    "points": 90,
+    "comments": 47,
+    "points": 103,
     "title": "Smart home devices should work without the internet",
     "url": "https://docodethatmatters.com/home-automation-overnight-success/"
   },
   "50442202": {
     "author": "DeepLogin",
-    "comments": 91,
-    "points": 117,
+    "comments": 98,
+    "points": 119,
     "title": "Palantir hires a former Democratic senator as it faces scrutiny in new Congress",
     "url": "https://text.npr.org/nx-s1-6029641"
   },
   "50442303": {
     "author": "meetpateltech",
-    "comments": 87,
-    "points": 193,
+    "comments": 98,
+    "points": 203,
     "title": "Gemini 4 Carbon is now available",
     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
   },
   "50442426": {
     "author": "amlib",
-    "comments": 27,
-    "points": 191,
+    "comments": 29,
+    "points": 203,
     "title": "Blender 5.3 released with Gaussian Splat support",
     "url": "https://www.blender.org/download/releases/5-3/"
   },
   "50442691": {
     "author": "theanonymousone",
-    "comments": 16,
-    "points": 42,
+    "comments": 17,
+    "points": 50,
     "title": "Tailscale's DNS IPv6 spells out \"Tailscale\"",
     "url": "https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/"
   },
   "50442736": {
     "author": "p4bl0",
-    "comments": 21,
-    "points": 157,
+    "comments": 24,
+    "points": 179,
     "title": ".name Grandfathered",
     "url": "https://neil.fraser.name/news/2026/11/10/"
   },
   "50443090": {
     "author": "pixelpoet",
-    "comments": 4,
-    "points": 17,
+    "comments": 5,
+    "points": 21,
     "title": "AMD's Zen 6 Family: Feeding the Beast",
     "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast"
   }
