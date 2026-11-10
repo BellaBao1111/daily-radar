@@ -235,9 +235,15 @@ def main() -> int:
     rng = random.Random(args.seed)
     day = today()
     rnd = CONFIG["randomness"]
-    skip_p = rnd["skip_weekend"] if day.weekday() >= 5 else rnd["skip_weekday"]
-    if not args.force and not args.only and rng.random() < skip_p:
-        print(f"{day}: rolled a skip (p={skip_p}); nothing to do")
+    # Every day must end up with at least one commit: once it is late enough in
+    # the day and nothing has been collected yet, the run can no longer skip.
+    digest = ROOT / "digests" / str(day.year) / f"{day.isoformat()}.md"
+    must_run = (not digest.exists()
+                and dt.datetime.now(TZ).hour >= rnd["guarantee_after_hour"])
+    if must_run:
+        print(f"{day}: nothing collected yet today; this run will not skip")
+    elif not args.force and not args.only and rng.random() < rnd["skip"]:
+        print(f"{day}: rolled a skip (p={rnd['skip']}); nothing to do")
         return 0
 
     if args.only:
@@ -247,8 +253,12 @@ def main() -> int:
         chosen = rng.sample(list(COLLECTORS), k=k)
     print(f"{day}: running {', '.join(chosen)}")
 
+    # On a must-run, fall back to the remaining collectors if the chosen ones fail.
+    fallback = [n for n in COLLECTORS if n not in chosen] if must_run else []
     changed = False
-    for name in chosen:
+    for name in chosen + fallback:
+        if name in fallback and changed:
+            break
         try:
             message = COLLECTORS[name](day, rng)
         except Exception as exc:  # one flaky API must not sink the whole run

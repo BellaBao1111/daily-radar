@@ -2,11 +2,15 @@ name: radar
 
 on:
   schedule:
-    # Three chances a day (UTC). Each run may randomly skip itself, and starts
-    # after a random delay, so commit times and counts vary from day to day.
-    - cron: "17 15 * * *"   # ~07:17 Pacific
-    - cron: "43 20 * * *"   # ~12:43 Pacific
-    - cron: "8 3 * * *"     # ~19:08 Pacific
+    # Five chances a day (UTC). Each run starts after a random delay of up to
+    # 50 minutes and may randomly skip itself, so commit times and counts vary.
+    # The two evening slots stop skipping if nothing was collected that day,
+    # so every day gets at least one commit.
+    - cron: "17 15 * * *"   # ~07:17 Pacific (standard time)
+    - cron: "41 18 * * *"   # ~10:41
+    - cron: "23 21 * * *"   # ~13:23
+    - cron: "52 0 * * *"    # ~16:52
+    - cron: "8 4 * * *"     # ~20:08
   workflow_dispatch:
     inputs:
       force:
@@ -24,13 +28,13 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 75
     steps:
       - uses: actions/checkout@v4
 
       - name: Random delay
         if: github.event_name == 'schedule'
-        run: sleep $((RANDOM % 1500))
+        run: sleep $((RANDOM % 3000))
 
       - name: Collect
         env:
