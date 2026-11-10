@@ -161,6 +161,68 @@
     "title": "Reducing Provers in Distributed Quantum Verification",
     "url": "http://arxiv.org/abs/2611.12600v1"
   },
+  "2611.12618v1": {
+    "authors": [
+      "Richard Moot"
+    ],
+    "category": "cs.CL",
+    "summary": "We show that type-logical grammars with the standard rules for product, associativity, extraction and infixation have an NP-complete fixed recognition problem, adapting a construction for first-order linear logic from Pshenitsyn (2025), who already showed that grammars in first-order linear logic are closed under intersection and therefore not semilinear and not mildly context-sensitive. We streng",
+    "title": "Type-logical grammars and formal languages",
+    "url": "http://arxiv.org/abs/2611.12618v1"
+  },
+  "2611.12628v1": {
+    "authors": [
+      "Pujan Pant",
+      "Sagar Newpane",
+      "Hari Sitaula",
+      "Manish Sakhakarmy"
+    ],
+    "category": "cs.CL",
+    "summary": "Romanized Nepali, Nepali written in Latin script, is common in digital communication but has no standard spelling and few resources, and it is unclear how reliably small open language models can be adapted to it. We adapt three 2-3B base models from different families, Llama-3.2-3B, Qwen2.5-3B, and Gemma-2-2B, with QLoRA on 9,000 instruction examples produced by deterministic transliteration of Ne",
+    "title": "Adapting Small Language Models to Romanized Nepali: Tokenizer Fertility, Reference Likelihood, and Generation Metrics",
+    "url": "http://arxiv.org/abs/2611.12628v1"
+  },
+  "2611.12634v1": {
+    "authors": [
+      "Dezhen Lu",
+      "Zixiang Ni"
+    ],
+    "category": "cs.CL",
+    "summary": "Serving systems choose a weight format for each model and deployment. A low-cost screen predicts the resulting KL divergence from the unquantized model's Fisher information using $\\tfrac12Δ^\\top FΔ$, the expansion underlying Hessian-aware and second-order post-training quantizers. We assess the reliability of this screen in GPU batches with channel-wise int8, per-tensor fp8 and group-wise int4 on ",
+    "title": "How Far Does Second-Order Linear Response Predict Quantization Mismatch? Pre-Registered Measurements on Five Language Models",
+    "url": "http://arxiv.org/abs/2611.12634v1"
+  },
+  "2611.12640v1": {
+    "authors": [
+      "Yihan Hank Tang",
+      "Peng Yang",
+      "Jiayi Xin",
+      "Tianqi Shang",
+      "Xuyang Chen"
+    ],
+    "category": "cs.CL",
+    "summary": "AI is used in much of the clinical trial pipeline. However, selecting the statistical design of a trial, a crucial step that determines how drug doses are tested on humans and evaluated, has seen almost no AI progress. LLMs appear to be a natural fit given their strengths in biomedical knowledge and statistical reasoning. Nevertheless, there is currently no appropriate way to evaluate such abiliti",
+    "title": "TrialDesignBench: Benchmarking Language Models for Phase-I Trial Design Against Clinical Knowledge",
+    "url": "http://arxiv.org/abs/2611.12640v1"
+  },
+  "2611.12691v1": {
+    "authors": [
+      "Mehmet Emre Tiryaki"
+    ],
+    "category": "cs.CL",
+    "summary": "Ottoman Divan poetry is composed in aruz, a quantitative meter based on the weights of syllables. The meter is sensitive to specific characters recorded in the original writing in the Arabic script. This work is concerned with automatic meter finding and scansion alignment for Ottoman Divan poetry, especially on modern Turkish spelling without the special diacritics that scholarly transliterations",
+    "title": "A Lattice-Based HMM Approach to Aruz Scansion of Ottoman Poetry",
+    "url": "http://arxiv.org/abs/2611.12691v1"
+  },
+  "2611.12709v1": {
+    "authors": [
+      "Valentin Burkin"
+    ],
+    "category": "cs.CL",
+    "summary": "Objectives: To measure whether a locally hosted large language model (LLM), stacked with deterministic and clinical named-entity recognition (NER) detectors, finds more protected health information (PHI) than open tools, and at what precision. Materials and Methods: DeidSharp, an open-source .NET toolkit, combines the findings of pluggable detectors (patterns, a clinical NER model, a local 26B mix",
+    "title": "A local language model layered with rule-based and neural detectors for clinical text de-identification: an open-source toolkit and evaluation",
+    "url": "http://arxiv.org/abs/2611.12709v1"
+  },
   "2611.12716v1": {
     "authors": [
       "George Shramko",
@@ -192,7 +254,7 @@
       "Brendan P. Murphy",
       "Agustina Saenz"
     ],
-    "category": "cs.AI",
+    "category": "cs.CL",
     "summary": "Reinforcement learning with verifiable rewards is increasingly used to improve language model reasoning, yet its effects on sequential decision procedures remain poorly understood. We study this problem in clinical multi-turn agents that must decide what information to request, when to stop gathering evidence, and which action to take. We introduce three controlled environments: medication refill ",
     "title": "Safe Reinforcement Learning for Multi-Turn Clinical Agents: When Dense Rewards Beat Outcome Rewards",
     "url": "http://arxiv.org/abs/2611.12728v1"
@@ -230,7 +292,7 @@
       "Kenton Murray",
       "Ziang Xiao"
     ],
-    "category": "cs.AI",
+    "category": "cs.CL",
     "summary": "Large language models (LLMs) increasingly mediate how people seek and consume information, including accounts that differ across languages and regions, especially on contested topics. Supporting diverse information seeking requires models to help users navigate competing narratives across languages and information streams. We define six capabilities necessary for diverse multilingual information s",
     "title": "The Narrative Gap: Can LLMs Help Us Navigate Diverse Narratives Across Languages?",
     "url": "http://arxiv.org/abs/2611.12750v1"
@@ -269,7 +331,7 @@
       "Zhihui Zhu",
       "Xueru Zhang"
     ],
-    "category": "cs.AI",
+    "category": "cs.CL",
     "summary": "Preference optimization has become a central approach for aligning large language models with human values, but its effectiveness depends heavily on the quality of preference annotations. In practice, preference data is often noisy due to annotation errors and ambiguity. Existing robust preference optimization methods primarily operate at the sequence level, implicitly treating entire responses as",
     "title": "PORT: Preference Optimization via Robust Token-Level Reweighting",
     "url": "http://arxiv.org/abs/2611.12763v1"
@@ -297,6 +359,19 @@
     "summary": "Prompt-based continual learning adapts a frozen pre-trained vision transformer by tuning a small set of prompt tokens. Recently, one-prompt methods which share one single prompt across all tasks make this paradigm maximally parameter efficient. The open question is how a shared prompt can keep the knowledge of old classes while being updated for new ones. Existing methods protect old knowledge in ",
     "title": "Anchor Behavior, Not Parameters: Rehearsal-Free Continual Learning with a Single Shared Prompt",
     "url": "http://arxiv.org/abs/2611.12777v1"
+  },
+  "2611.12791v1": {
+    "authors": [
+      "Yuxuan Hu",
+      "Jihao Liu",
+      "Weikang Shi",
+      "Xijie Huang",
+      "Linda Wei"
+    ],
+    "category": "cs.CL",
+    "summary": "Developing effective machine learning models requires complex manual tuning, while current Automated Machine Learning (AutoML) frameworks remain domain-specific and isolate model architecture, training hyperparameter, and data ratio optimization. Here, we bridge this gap by proposing a universal, large language model (LLM)-based AutoML framework that jointly optimizes these configurations for the ",
+    "title": "Large Language Models as a Universal Searcher for Open-World Automated Machine Learning",
+    "url": "http://arxiv.org/abs/2611.12791v1"
   },
   "2611.12798v1": {
     "authors": [
@@ -334,6 +409,19 @@
     "title": "2D Gum-Net: Unsupervised Dense Elastic Image Registration via Symmetric Correlation and Spectral Pooling",
     "url": "http://arxiv.org/abs/2611.12805v1"
   },
+  "2611.12814v1": {
+    "authors": [
+      "Matthew Flathers",
+      "Jill Noorily",
+      "Phuong Anh Nguyen",
+      "Mark Kalinich",
+      "Mina Fallah"
+    ],
+    "category": "cs.CL",
+    "summary": "Users are asking language models mental health questions and are receiving answers. We audited what 41 language models recommend to users when the same clinical information reaches them from three footings: a clinician describing a patient, a caregiver describing a loved one, or a person describing themselves. Across 19 case vignettes and five questions, we collected 35,055 free-text responses, ex",
+    "title": "Curbside Chatbots: Auditing the Mental Health Interventions Large Language Models Recommend to Clinicians, Caregivers, and Patients",
+    "url": "http://arxiv.org/abs/2611.12814v1"
+  },
   "2611.12816v1": {
     "authors": [
       "Tim Schnieders",
@@ -358,6 +446,15 @@
     "summary": "BACKGROUND: AI-based tools are expected to play a key role in lung cancer screening (LCS). The evaluation of these tools often relied on private datasets or fragmented public datasets with inconsistent availability of clinical data and expert nodule annotations. This has hindered reproducibility, comparability, and independent assessment of AI tools. To address these gaps, we present LUCQUE, a nov",
     "title": "LUCQUE: A lung cancer screening dataset from Québec for reliable AI evaluation",
     "url": "http://arxiv.org/abs/2611.12817v1"
+  },
+  "2611.12820v1": {
+    "authors": [
+      "Paul Litvak"
+    ],
+    "category": "cs.CL",
+    "summary": "One hundred known errors were planted into 10 open-access psychology papers, and the modified papers were then run through frontier models and two commercial AI review tools. The best single system caught 71 of the 100 errors, while the worst caught 30. Pooling every system's output caught 93. Models are only partly correlated in the errors they find, which makes ensembling a big lever for finding",
+    "title": "How Well Does AI Peer Review Work? A Benchmark Built from 100 Planted Errors",
+    "url": "http://arxiv.org/abs/2611.12820v1"
   },
   "2611.12825v1": {
     "authors": [
@@ -419,6 +516,31 @@
     "title": "AI-based characterization of lymphoid structures and the tumor microenvironment reveals lower mature tertiary lymphoid structures, lymph-node follicles, and plasma cells after neoadjuvant therapy in lung squamous cell carcinoma",
     "url": "http://arxiv.org/abs/2611.12855v1"
   },
+  "2611.12856v1": {
+    "authors": [
+      "Zheng Jiang",
+      "Fang Niu",
+      "Bo Peng",
+      "Houde Qian",
+      "Wenyi Li"
+    ],
+    "category": "cs.CL",
+    "summary": "Large language model agents are increasingly deployed as multi-agent systems rather than as a standalone model operating within a single context. Recent agent harnesses allow the model to instantiate worker agents and to author the executable workflow that coordinates them, shifting the design of system structure from developers to the model at run time. The quality of this organization therefore ",
+    "title": "WorkflowArena: Benchmarking Executable Workflow Orchestration in LLM-Based Multi-Agent Systems",
+    "url": "http://arxiv.org/abs/2611.12856v1"
+  },
+  "2611.12864v1": {
+    "authors": [
+      "Olina Mukherjee",
+      "Arnav Goel",
+      "Aditi Raghunathan",
+      "Jacob Mitchell Springer"
+    ],
+    "category": "cs.CL",
+    "summary": "Persona generalization occurs when fine-tuning a language model in one domain induces behavioral changes in others -- for example, the broadly unsafe behavior observed in emergent misalignment. We discover a surprising \"on-the-line\" phenomenon in persona generalization: in-domain and out-of-domain persona rates across various fine-tuning hyperparameters follow an approximately probit-linear relati",
+    "title": "Is Persona Generalization Predictable?",
+    "url": "http://arxiv.org/abs/2611.12864v1"
+  },
   "2611.12865v1": {
     "authors": [
       "Xinjie Shen"
@@ -449,7 +571,7 @@
       "Qingyuan Liu",
       "Haodong Yue"
     ],
-    "category": "cs.AI",
+    "category": "cs.CL",
     "summary": "As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction. Existing memory systems typically rely on semantic retrieval over compressed memories and expose predefined representations, which may miss relevant memories and overlook heterogeneous evidence needs across queries. We introduce ",
     "title": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents",
     "url": "http://arxiv.org/abs/2611.12872v1"
