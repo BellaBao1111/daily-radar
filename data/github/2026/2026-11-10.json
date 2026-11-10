@@ -4,28 +4,28 @@
       "created": "2026-11-05",
       "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
       "name": "NotRexed/Hookshot",
-      "stars": 6219,
+      "stars": 6508,
       "url": "https://github.com/NotRexed/Hookshot"
     },
     {
       "created": "2026-11-07",
       "description": "Native Windows PC port of Fire Emblem: Fortune's Weave by static recompilation. Bring your own dump; no game files included.",
       "name": "Goldoire/fefw-recomp",
-      "stars": 465,
+      "stars": 486,
       "url": "https://github.com/Goldoire/fefw-recomp"
     },
     {
       "created": "2026-11-05",
       "description": "Windows PC & Android port of Super Mario All-Stars (SNES) with true widescreen up to 21:9, simultaneous two-player co-op, 82 achievements, CRT filters and slang shaders, save states, rewind, cheats, l",
       "name": "Darhkfox/SuperMarioAllStars",
-      "stars": 331,
+      "stars": 337,
       "url": "https://github.com/Darhkfox/SuperMarioAllStars"
     },
     {
       "created": "2026-11-07",
       "description": "Run real Linux kernel natively on iOS",
       "name": "imxieyi/Kernarium",
-      "stars": 220,
+      "stars": 244,
       "url": "https://github.com/imxieyi/Kernarium"
     },
     {
@@ -39,36 +39,36 @@
       "created": "2026-11-05",
       "description": "Anka — Nintendo Switch 2 emulator for Windows, focused on performance",
       "name": "EddizEge/Anka",
-      "stars": 112,
+      "stars": 114,
       "url": "https://github.com/EddizEge/Anka"
     },
     {
       "created": "2026-11-06",
       "description": "Full macOS 26.5 on the Xiaomi Pad 7 (uke, SM7675) via macOS-ForSheng: boots to the Finder desktop; Adreno 732 Metal in progress",
       "name": "iOSNJBrepo/macOS-uke",
-      "stars": 94,
+      "stars": 97,
       "url": "https://github.com/iOSNJBrepo/macOS-uke"
+    },
+    {
+      "created": "2026-11-05",
+      "description": "Valve Anti-Cheat (VAC) reconstructed in C++20, bugs and all.",
+      "name": "sapdragon/vac",
+      "stars": 96,
+      "url": "https://github.com/sapdragon/vac"
     },
     {
       "created": "2026-11-09",
       "description": "Experimental NS2 Emulator for the PS5",
       "name": "mihawk-99/PS5_Lichii",
-      "stars": 78,
+      "stars": 87,
       "url": "https://github.com/mihawk-99/PS5_Lichii"
     },
     {
-      "created": "2026-11-06",
-      "description": "Star Wars Trilogy - PC Port",
-      "name": "snicolast/StarWarsTrilogyNative",
-      "stars": 75,
-      "url": "https://github.com/snicolast/StarWarsTrilogyNative"
-    },
-    {
-      "created": "2026-11-04",
-      "description": "Hypervisor isolated shellcode execution environment. Maps host process memory into a guest vCPU, intercepts DLL execute faults, and proxies API calls to the host, Stardust PIC shellcode compatible",
-      "name": "S12cybersecurity/HyperLoader",
-      "stars": 75,
-      "url": "https://github.com/S12cybersecurity/HyperLoader"
+      "created": "2026-11-07",
+      "description": "13 Sentinels: Aegis Rim native PC port for Windows and Linux, with direct PS4 PKG installation, TRG launcher and modern graphics options",
+      "name": "saulob/13-sentinels-aegis-rim-pc",
+      "stars": 80,
+      "url": "https://github.com/saulob/13-sentinels-aegis-rim-pc"
     }
   ],
   "Kotlin": [
@@ -143,6 +143,78 @@
       "url": "https://github.com/Xiaogugtfgdfhgrh/MikSU"
     }
   ],
+  "Swift": [
+    {
+      "created": "2026-11-09",
+      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
+      "name": "huamidev/GestaltX",
+      "stars": 4692,
+      "url": "https://github.com/huamidev/GestaltX"
+    },
+    {
+      "created": "2026-11-10",
+      "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+      "name": "Kianuni/Erosion-CN",
+      "stars": 1016,
+      "url": "https://github.com/Kianuni/Erosion-CN"
+    },
+    {
+      "created": "2026-11-05",
+      "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+      "name": "JosssphZhou/poki",
+      "stars": 916,
+      "url": "https://github.com/JosssphZhou/poki"
+    },
+    {
+      "created": "2026-11-06",
+      "description": "",
+      "name": "musubipapi/airpointer",
+      "stars": 355,
+      "url": "https://github.com/musubipapi/airpointer"
+    },
+    {
+      "created": "2026-11-05",
+      "description": "Use your Apple Watch as a pointer for your Mac. Point to move, tap to click, hold to drag.",
+      "name": "umarz317/WatchPointer",
+      "stars": 320,
+      "url": "https://github.com/umarz317/WatchPointer"
+    },
+    {
+      "created": "2026-11-04",
+      "description": "Independent open-source macOS photo gallery client for Immich.",
+      "name": "IGOLz/ImmichGallery",
+      "stars": 199,
+      "url": "https://github.com/IGOLz/ImmichGallery"
+    },
+    {
+      "created": "2026-11-05",
+      "description": "DSH iOS 移动版：在 iPhone 和 iPad 上本机运行 DeepSeek Harness，界面完全原生，不连电脑和服务器。Run DSH (DeepSeek Harness) natively on iPhone and iPad: no computer, no server.",
+      "name": "imsai-sh/fish-pocket",
+      "stars": 187,
+      "url": "https://github.com/imsai-sh/fish-pocket"
+    },
+    {
+      "created": "2026-11-06",
+      "description": "Airpointer - Use your Airpods as an air-mouse for your Macbook! More OS's/Devices coming in the future. This is the only REAL Repo and it is being actively maintained. This project is featured on Xerj",
+      "name": "oscarcreatess/airpointer",
+      "stars": 179,
+      "url": "https://github.com/oscarcreatess/airpointer"
+    },
+    {
+      "created": "2026-11-07",
+      "description": "A reverse-engineered version of Zalo written in Swift — native macOS client",
+      "name": "qnguyen3/zalo-swift-re",
+      "stars": 146,
+      "url": "https://github.com/qnguyen3/zalo-swift-re"
+    },
+    {
+      "created": "2026-11-04",
+      "description": "Use your AirPods as a mouse on macOS — turn your head to point, rest on a button to click. Hands-free, private, open source.",
+      "name": "m-afham/AirCursor",
+      "stars": 116,
+      "url": "https://github.com/m-afham/AirCursor"
+    }
+  ],
   "TypeScript": [
     {
       "created": "2026-11-04",
@@ -213,6 +285,78 @@
       "name": "utkarshryanite25-a11y/sony-vegas-pro-desktop",
       "stars": 480,
       "url": "https://github.com/utkarshryanite25-a11y/sony-vegas-pro-desktop"
+    }
+  ],
+  "Zig": [
+    {
+      "created": "2026-11-04",
+      "description": "A native Discord client of about 100~ MB RAM, whose entire interface is a theme file.",
+      "name": "RshaCuDeVidro/larperCord",
+      "stars": 247,
+      "url": "https://github.com/RshaCuDeVidro/larperCord"
+    },
+    {
+      "created": "2026-11-05",
+      "description": "zig all the way down",
+      "name": "refcell/needlefish",
+      "stars": 22,
+      "url": "https://github.com/refcell/needlefish"
+    },
+    {
+      "created": "2026-11-10",
+      "description": "",
+      "name": "stackedlol/typing-animations",
+      "stars": 8,
+      "url": "https://github.com/stackedlol/typing-animations"
+    },
+    {
+      "created": "2026-11-06",
+      "description": "A mosh-like roaming client and server for zmx terminal multiplexer",
+      "name": "matthyx/zmosh",
+      "stars": 3,
+      "url": "https://github.com/matthyx/zmosh"
+    },
+    {
+      "created": "2026-11-09",
+      "description": "Native 120Hz GPU Markdown, HTML & Mermaid studio + Streamable HTTP MCP server for coding agents, built on nanoui in Zig 0.17",
+      "name": "justrach/nanodocs",
+      "stars": 3,
+      "url": "https://github.com/justrach/nanodocs"
+    },
+    {
+      "created": "2026-11-07",
+      "description": "A Go-like standard library written in pure Zig",
+      "name": "jiacai2050/stdgo",
+      "stars": 2,
+      "url": "https://github.com/jiacai2050/stdgo"
+    },
+    {
+      "created": "2026-11-08",
+      "description": "Standalone cli supervisor for zig progress protocol",
+      "name": "asciimoth/zpg",
+      "stars": 2,
+      "url": "https://github.com/asciimoth/zpg"
+    },
+    {
+      "created": "2026-11-06",
+      "description": "A web server platform for Roc: typed handlers, pure business logic, and explicit effects, on a Zig host.",
+      "name": "KouYuume/roxum",
+      "stars": 2,
+      "url": "https://github.com/KouYuume/roxum"
+    },
+    {
+      "created": "2026-11-08",
+      "description": "",
+      "name": "xit-vcs/hyperhaxy",
+      "stars": 2,
+      "url": "https://github.com/xit-vcs/hyperhaxy"
+    },
+    {
+      "created": "2026-11-07",
+      "description": "Highly efficient math PHP extension in Zig written for Quark",
+      "name": "Bedrock-Phanatics/ext-qmath",
+      "stars": 2,
+      "url": "https://github.com/Bedrock-Phanatics/ext-qmath"
     }
   ]
 }
