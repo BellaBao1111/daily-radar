@@ -1,4 +1,166 @@
 {
+  "2611.11866v1": {
+    "authors": [
+      "Duc A. Tran",
+      "Dung Truong",
+      "Duy Le"
+    ],
+    "category": "cs.DC",
+    "summary": "Submodular maximization seeks a small subset best representing a large dataset. In its federated setting, the server is a single point of failure and some clients may be Byzantine. Removing the server raises a trilemma of decentraliza- tion, efficiency, and security. We propose DeFSM, a Byzantine-robust and communication-efficient architecture that replaces the server with a lightweight smart cont",
+    "title": "DeFSM: Robust and Efficient Decentralization of Federated Submodular Maximization",
+    "url": "http://arxiv.org/abs/2611.11866v1"
+  },
+  "2611.11876v1": {
+    "authors": [
+      "Jiya Su",
+      "François-Henry Rouet",
+      "Jeff Beisheim",
+      "Robert Lucas",
+      "Yuqing Wang"
+    ],
+    "category": "cs.DC",
+    "summary": "Solving large sparse linear systems by Gaussian elimination is a challenging computational task due to the introduction of non-zero elements, or fill-in. Practitioners use heuristics such as the nested dissection reordering algorithm to try to reduce fill-in. In practice, reordering codes do not achieve the same parallel scaling as factorization, nor can they exploit AVX instructions or GPUs. Thus",
+    "title": "Accelerating Direct Sparse Solvers with Graph Computing Accelerators",
+    "url": "http://arxiv.org/abs/2611.11876v1"
+  },
+  "2611.11910v1": {
+    "authors": [
+      "Sina Barazandeh",
+      "Benjamin E. Lundell",
+      "Jose Lugo-Martinez"
+    ],
+    "category": "cs.DC",
+    "summary": "Large language models (LLMs) increasingly plan and run experiments in automated laboratories. These experiments keep running while the model reasons and run on schedules with hard deadlines. If an LLM-generated answer arrives late, the system executes a safe fallback action instead, such as rejecting a sample. This creates a systems problem that standard serving metrics do not capture. An answer t",
+    "title": "Late but Valuable: Why Deadlines Change the Measured Value of LLM Reasoning",
+    "url": "http://arxiv.org/abs/2611.11910v1"
+  },
+  "2611.11976v1": {
+    "authors": [
+      "Sina Barazandeh",
+      "Arth Banka",
+      "Jose Lugo-Martinez"
+    ],
+    "category": "cs.DC",
+    "summary": "Sequence-to-function models such as AlphaGenome and Borzoi read up to a megabase of DNA and score a genetic variant by comparing their predictions for the reference and alternate sequences. Insertions and deletions (indels) are costly to score, because an indel usually shifts the unchanged DNA after it onto a different pooling grid, which prevents direct reuse of the reference's encoder activation",
+    "title": "ShiftCache: Fast and Exact Indel Effect Prediction by Reusing Shifted Reference Encodings",
+    "url": "http://arxiv.org/abs/2611.11976v1"
+  },
+  "2611.12169v1": {
+    "authors": [
+      "Dongyang Geng",
+      "Haoqiong Bian",
+      "Zinuo Li",
+      "Haoyue Li"
+    ],
+    "category": "cs.DC",
+    "summary": "Real-time data analytics has become a key demand for lakehouses. It requires propagating data changes from the data source to the lakehouse in real time, while ensuring ACID guarantees and minimizing resource consumption and impact on analytical query performance. This is highly challenging for a data system according to the RUM conjecture, especially given the read-optimized immutable file storag",
+    "title": "Transactional Data Change for Real-Time Analytics in Lakehouses",
+    "url": "http://arxiv.org/abs/2611.12169v1"
+  },
+  "2611.12170v1": {
+    "authors": [
+      "Giuseppe Antonio Di Luna",
+      "Alfredo Navarra",
+      "Francesco Piselli"
+    ],
+    "category": "cs.DC",
+    "summary": "The concept of programmable matter (PM) envisions objects composed of tiny, mobile particles capable of self-arrangement, which allows them to change shape, color, and move. We initiate the study of the Black Hole Search problem within the context of PM. The problem involves a dangerous and unnoticeable location, the black hole, that, without a trace, destroys any particle visiting it. In our sett",
+    "title": "Optimal Proximity Black Hole Search with Programmable Matter",
+    "url": "http://arxiv.org/abs/2611.12170v1"
+  },
+  "2611.12252v1": {
+    "authors": [
+      "Mohsen Ahmadvand",
+      "Piotr Dobaczewski",
+      "Camille Bouzerand"
+    ],
+    "category": "cs.DC",
+    "summary": "Bridge hacks have cost billions, often without exploiting a code bug. In the cross-chain bridge hacks we catalogue from 2021 to 2026, failures of security posture, meaning how a bridge's people, code, controls and off-chain infrastructure are set up, account for 88% of reported losses since 2023, and nearly all repeat earlier failures. Code audits cannot catch these failures, so we propose a bridg",
+    "title": "Lessons Not Learned: Why Cross-Chain Bridges Keep Losing Billions the Same Way",
+    "url": "http://arxiv.org/abs/2611.12252v1"
+  },
+  "2611.12296v1": {
+    "authors": [
+      "Xiangrui Yang",
+      "Yunfeng Zhao",
+      "Jiawei Yang",
+      "Fangyu Zhang",
+      "Enrui Zhao"
+    ],
+    "category": "cs.DC",
+    "summary": "Generative recommendation (GR) is moving industrial recommender systems (RecSys) from scoring candidate items to autoregressively generating item identifiers. This shift promises higher recommendation quality, but makes serving substantially harder: each request executes a short sequence of dependent decoding steps that explore a large item space and select promising candidates on the latency-crit",
+    "title": "RecoGEM: A Serving System for Production-Scale Generative Recommendation",
+    "url": "http://arxiv.org/abs/2611.12296v1"
+  },
+  "2611.12304v1": {
+    "authors": [
+      "Hao Kang",
+      "Weili Xu",
+      "Ziyang Li",
+      "Zheng Du",
+      "Hanchen Li"
+    ],
+    "category": "cs.DC",
+    "summary": "Agentic workloads are a major source of LLM inference demand. Existing prefill--decode (PD) disaggregated serving systems offer limited flexibility for runtime adaptation of compute allocation and KV cache management, and rely on coarse signals that only partly capture the diverse and dynamic agent workload. These limitations lead to load imbalance between prefill and decode nodes and eviction of ",
+    "title": "Evolving Infra: Agent-Adaptive LLM Serving at Scale",
+    "url": "http://arxiv.org/abs/2611.12304v1"
+  },
+  "2611.12319v1": {
+    "authors": [
+      "Junha Ryu",
+      "Hoi-Jun Yoo"
+    ],
+    "category": "cs.DC",
+    "summary": "3D Gaussian Splatting (3DGS) enables photorealistic, real-time rendering on commodity GPUs and is increasingly adopted in generative world models and autonomous driving simulators. However, existing optimizations rely on algorithmic changes that often require retraining, or on specialized accelerators that lack flexibility across evolving 3DGS variants. In this paper, we identify a fundamental ine",
+    "title": "Mitigating SM-Level Load Imbalance in 3D Gaussian Splatting on GPUs",
+    "url": "http://arxiv.org/abs/2611.12319v1"
+  },
+  "2611.12362v1": {
+    "authors": [
+      "Hsin-Chun Yin",
+      "Khaled Hamidouche",
+      "Ian Ziemba",
+      "Arjun Kashyap",
+      "Pak Markthub"
+    ],
+    "category": "cs.DC",
+    "summary": "Dual-batch overlap (DBO) hides mixture-of-experts (MoE) communication behind another microbatch's computation, but only after dispatch send releases the GPU. The time dispatch send holds the GPU therefore stays exposed, while network progress after release can be hidden. We evaluate three research configurations built on NCCL-EP that target this exposed communication time: GPI, in which the GPU co",
+    "title": "Release Sooner, Expose Less: Offloading MoE Dispatch in NCCL-EP under Dual-Batch Overlap",
+    "url": "http://arxiv.org/abs/2611.12362v1"
+  },
+  "2611.12370v1": {
+    "authors": [
+      "Niraj Kumar",
+      "Anant Gautam"
+    ],
+    "category": "cs.DC",
+    "summary": "Vehicular Edge Computing (VEC) aims to support computation-intensive applications in intelligent transportation systems while meeting stringent latency requirements. When processed remotely, applications require access to different resource types in a specific sequence, forming a multi-stage processing pipeline. This structure closely resembles multi-stage distributed applications executing across",
+    "title": "Adapting Multi-Stage Distributed Real-Time Systems Design to Vehicular Edge Computing",
+    "url": "http://arxiv.org/abs/2611.12370v1"
+  },
+  "2611.12485v1": {
+    "authors": [
+      "Xiaojuan Ma",
+      "Yan Wang",
+      "Indranil Gupta"
+    ],
+    "category": "cs.DC",
+    "summary": "For a network of $n$ nodes under random gossip dynamics, we show that by introducing the additional resetting mechanism (with rate $β$) to a designated subset of $r$ nodes, the expected sum of all node values is asymptotically equal to $\\tfrac{n}{r}$ times the sum of the initial values of the $r$ designated nodes, in the small-$β$ and long-time limit. We also analyze the convergence speed to this ",
+    "title": "Resetting-based designated information distribution",
+    "url": "http://arxiv.org/abs/2611.12485v1"
+  },
+  "2611.12600v1": {
+    "authors": [
+      "Alex Della Schiava",
+      "Atsuya Hasegawa",
+      "François Le Gall",
+      "Harumichi Nishimura"
+    ],
+    "category": "cs.DC",
+    "summary": "In the distributed quantum Merlin-Arthur ($\\mathsf{dQMA}$) model introduced by Fraigniaud, Le Gall, Nishimura, and Paz (ITCS 2021), a network of quantum computers verifies a global property with the aid of a quantum proof supplied by an untrusted prover. While the nodes are computationally unbounded, the challenge is to limit proof size and the communication required for verification. In this pape",
+    "title": "Reducing Provers in Distributed Quantum Verification",
+    "url": "http://arxiv.org/abs/2611.12600v1"
+  },
   "2611.12716v1": {
     "authors": [
       "George Shramko",
@@ -220,6 +382,18 @@
     "summary": "AI models' growing capacity for complex reasoning has made them attractive tools for forecasting, or the systematic prediction of the future based on past and present data. However, should AI forecasting systems be adopted, human builders will shoulder the work of building and evaluating them. In this paper, we explore what this work looks like with a qualitative interview study with 15 builders o",
     "title": "Programming Prescience: Issues in Human Construction of Forecasting Bots",
     "url": "http://arxiv.org/abs/2611.12834v1"
+  },
+  "2611.12843v1": {
+    "authors": [
+      "Umesh Biswas",
+      "Vini Chaudhary",
+      "Shafqat Hasan",
+      "Maxwell Young"
+    ],
+    "category": "cs.DC",
+    "summary": "The contention-resolution problem studies how $n$ devices share a communication channel without centralized coordination. Classical models typically assume a single continuously available channel and focus on minimizing total completion time. However, modern wireless systems increasingly rely on shared spectrum, where access may be abruptly revoked by incumbent users. Motivated by this setting, we",
+    "title": "Contention Resolution with a Fast-but-Fickle Channel",
+    "url": "http://arxiv.org/abs/2611.12843v1"
   },
   "2611.12852v1": {
     "authors": [
