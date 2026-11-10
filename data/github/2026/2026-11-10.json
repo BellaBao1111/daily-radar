@@ -1,4 +1,148 @@
 {
+  "C++": [
+    {
+      "created": "2026-11-05",
+      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+      "name": "NotRexed/Hookshot",
+      "stars": 6219,
+      "url": "https://github.com/NotRexed/Hookshot"
+    },
+    {
+      "created": "2026-11-07",
+      "description": "Native Windows PC port of Fire Emblem: Fortune's Weave by static recompilation. Bring your own dump; no game files included.",
+      "name": "Goldoire/fefw-recomp",
+      "stars": 465,
+      "url": "https://github.com/Goldoire/fefw-recomp"
+    },
+    {
+      "created": "2026-11-05",
+      "description": "Windows PC & Android port of Super Mario All-Stars (SNES) with true widescreen up to 21:9, simultaneous two-player co-op, 82 achievements, CRT filters and slang shaders, save states, rewind, cheats, l",
+      "name": "Darhkfox/SuperMarioAllStars",
+      "stars": 331,
+      "url": "https://github.com/Darhkfox/SuperMarioAllStars"
+    },
+    {
+      "created": "2026-11-07",
+      "description": "Run real Linux kernel natively on iOS",
+      "name": "imxieyi/Kernarium",
+      "stars": 220,
+      "url": "https://github.com/imxieyi/Kernarium"
+    },
+    {
+      "created": "2026-11-04",
+      "description": "Unofficial Verity Remaster for Minecraft Forge 1.18 - 1.21.11. Upgraded AI, restored lore, and new terrifying models.",
+      "name": "leviathaneggfold/verity-remastered",
+      "stars": 122,
+      "url": "https://github.com/leviathaneggfold/verity-remastered"
+    },
+    {
+      "created": "2026-11-05",
+      "description": "Anka — Nintendo Switch 2 emulator for Windows, focused on performance",
+      "name": "EddizEge/Anka",
+      "stars": 112,
+      "url": "https://github.com/EddizEge/Anka"
+    },
+    {
+      "created": "2026-11-06",
+      "description": "Full macOS 26.5 on the Xiaomi Pad 7 (uke, SM7675) via macOS-ForSheng: boots to the Finder desktop; Adreno 732 Metal in progress",
+      "name": "iOSNJBrepo/macOS-uke",
+      "stars": 94,
+      "url": "https://github.com/iOSNJBrepo/macOS-uke"
+    },
+    {
+      "created": "2026-11-09",
+      "description": "Experimental NS2 Emulator for the PS5",
+      "name": "mihawk-99/PS5_Lichii",
+      "stars": 78,
+      "url": "https://github.com/mihawk-99/PS5_Lichii"
+    },
+    {
+      "created": "2026-11-06",
+      "description": "Star Wars Trilogy - PC Port",
+      "name": "snicolast/StarWarsTrilogyNative",
+      "stars": 75,
+      "url": "https://github.com/snicolast/StarWarsTrilogyNative"
+    },
+    {
+      "created": "2026-11-04",
+      "description": "Hypervisor isolated shellcode execution environment. Maps host process memory into a guest vCPU, intercepts DLL execute faults, and proxies API calls to the host, Stardust PIC shellcode compatible",
+      "name": "S12cybersecurity/HyperLoader",
+      "stars": 75,
+      "url": "https://github.com/S12cybersecurity/HyperLoader"
+    }
+  ],
+  "Kotlin": [
+    {
+      "created": "2026-11-04",
+      "description": "Animated React icons — every Lucide icon plus extra icons and brand logos, each with its own hand-written motion. Drop-in replacement for lucide-react, built on Motion.",
+      "name": "CityPulso/PulsoIcon",
+      "stars": 565,
+      "url": "https://github.com/CityPulso/PulsoIcon"
+    },
+    {
+      "created": "2026-11-05",
+      "description": "Vibecoded with Claude: a free, open-source IPTV player for Android TV & Fire TV. Skip intro, cast pages, IMDb/RT ratings, profiles. No account, no content – bring your own playlist.",
+      "name": "Emrodev/IPVIO-Stream",
+      "stars": 335,
+      "url": "https://github.com/Emrodev/IPVIO-Stream"
+    },
+    {
+      "created": "2026-11-06",
+      "description": "A Desk Clock App Made for Android Foldables / 專為Android大摺疊機打造的桌面時鐘App",
+      "name": "linzin86/LinzinDeskClock",
+      "stars": 129,
+      "url": "https://github.com/linzin86/LinzinDeskClock"
+    },
+    {
+      "created": "2026-11-07",
+      "description": "",
+      "name": "sakurakingfifth-debug/PUIInstaller",
+      "stars": 123,
+      "url": "https://github.com/sakurakingfifth-debug/PUIInstaller"
+    },
+    {
+      "created": "2026-11-04",
+      "description": "Sectiv is a  skill-driven AI security review for Burp Suite. Pick captured traffic and a review goal (IDOR, XSS, SQLi, SSRF…),     and get a severity dashboard with description, steps to reproduce, im",
+      "name": "zack0x01/burp-sectivai",
+      "stars": 109,
+      "url": "https://github.com/zack0x01/burp-sectivai"
+    },
+    {
+      "created": "2026-11-06",
+      "description": "An app store for Android TV that installs open-source TV apps from GitHub releases",
+      "name": "wingedpanther/openshelf",
+      "stars": 94,
+      "url": "https://github.com/wingedpanther/openshelf"
+    },
+    {
+      "created": "2026-11-08",
+      "description": "🚀 An attempt at recreating iOS Liquid Glass menu on Android.",
+      "name": "rit3zh/expo-glass-custom-menu",
+      "stars": 86,
+      "url": "https://github.com/rit3zh/expo-glass-custom-menu"
+    },
+    {
+      "created": "2026-11-06",
+      "description": "全面的审查设备隐私权限调用情况",
+      "name": "starriv/privacy-probe",
+      "stars": 77,
+      "url": "https://github.com/starriv/privacy-probe"
+    },
+    {
+      "created": "2026-11-04",
+      "description": "GlassOS+ — a community GlassOS fork with compact Continue Watching, configurable layout and fast Home return.",
+      "name": "Snowflake-27/glassos-plus",
+      "stars": 64,
+      "url": "https://github.com/Snowflake-27/glassos-plus"
+    },
+    {
+      "created": "2026-11-04",
+      "description": "以万物皆可收、万物皆可隐藏、万物皆适配为理念的 Android Root 管理器，支持 KPM、SUSFS、AVC 日志欺骗与应用权限管理。",
+      "name": "Xiaogugtfgdfhgrh/MikSU",
+      "stars": 61,
+      "url": "https://github.com/Xiaogugtfgdfhgrh/MikSU"
+    }
+  ],
   "TypeScript": [
     {
       "created": "2026-11-04",
