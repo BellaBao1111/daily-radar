@@ -1,0 +1,10 @@
+{
+  "timezone": "America/Los_Angeles",
+  "randomness": {
+    "skip_weekday": 0.3,
+    "skip_weekend": 0.55,
+    "collector_count_weights": [5, 3, 2]
+  },
+  "github_languages": ["Python", "TypeScript", "Rust", "Go", "C++", "Swift", "Kotlin", "Zig"],
+  "arxiv_categories": ["cs.AI", "cs.LG", "cs.CL", "cs.CV", "cs.DC", "cs.SE", "cs.HC"]
+}
