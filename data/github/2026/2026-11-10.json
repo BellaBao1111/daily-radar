@@ -76,15 +76,22 @@
       "created": "2026-11-04",
       "description": "Animated React icons — every Lucide icon plus extra icons and brand logos, each with its own hand-written motion. Drop-in replacement for lucide-react, built on Motion.",
       "name": "CityPulso/PulsoIcon",
-      "stars": 565,
+      "stars": 572,
       "url": "https://github.com/CityPulso/PulsoIcon"
     },
     {
       "created": "2026-11-05",
       "description": "Vibecoded with Claude: a free, open-source IPTV player for Android TV & Fire TV. Skip intro, cast pages, IMDb/RT ratings, profiles. No account, no content – bring your own playlist.",
       "name": "Emrodev/IPVIO-Stream",
-      "stars": 335,
+      "stars": 349,
       "url": "https://github.com/Emrodev/IPVIO-Stream"
+    },
+    {
+      "created": "2026-11-07",
+      "description": "",
+      "name": "sakurakingfifth-debug/PUIInstaller",
+      "stars": 130,
+      "url": "https://github.com/sakurakingfifth-debug/PUIInstaller"
     },
     {
       "created": "2026-11-06",
@@ -94,31 +101,24 @@
       "url": "https://github.com/linzin86/LinzinDeskClock"
     },
     {
-      "created": "2026-11-07",
-      "description": "",
-      "name": "sakurakingfifth-debug/PUIInstaller",
-      "stars": 123,
-      "url": "https://github.com/sakurakingfifth-debug/PUIInstaller"
-    },
-    {
       "created": "2026-11-04",
       "description": "Sectiv is a  skill-driven AI security review for Burp Suite. Pick captured traffic and a review goal (IDOR, XSS, SQLi, SSRF…),     and get a severity dashboard with description, steps to reproduce, im",
       "name": "zack0x01/burp-sectivai",
-      "stars": 109,
+      "stars": 110,
       "url": "https://github.com/zack0x01/burp-sectivai"
     },
     {
       "created": "2026-11-06",
       "description": "An app store for Android TV that installs open-source TV apps from GitHub releases",
       "name": "wingedpanther/openshelf",
-      "stars": 94,
+      "stars": 103,
       "url": "https://github.com/wingedpanther/openshelf"
     },
     {
       "created": "2026-11-08",
       "description": "🚀 An attempt at recreating iOS Liquid Glass menu on Android.",
       "name": "rit3zh/expo-glass-custom-menu",
-      "stars": 86,
+      "stars": 87,
       "url": "https://github.com/rit3zh/expo-glass-custom-menu"
     },
     {
@@ -129,18 +129,90 @@
       "url": "https://github.com/starriv/privacy-probe"
     },
     {
-      "created": "2026-11-04",
-      "description": "GlassOS+ — a community GlassOS fork with compact Continue Watching, configurable layout and fast Home return.",
-      "name": "Snowflake-27/glassos-plus",
-      "stars": 64,
-      "url": "https://github.com/Snowflake-27/glassos-plus"
+      "created": "2026-11-08",
+      "description": "Open-source music player for Android for Spotify, YouTube Music and local files, music only: no podcasts, videos or Canvas. Uses Spotify's own Android protocols, documented in protocol/.",
+      "name": "jean-voila/Spotifeur",
+      "stars": 68,
+      "url": "https://github.com/jean-voila/Spotifeur"
     },
     {
       "created": "2026-11-04",
-      "description": "以万物皆可收、万物皆可隐藏、万物皆适配为理念的 Android Root 管理器，支持 KPM、SUSFS、AVC 日志欺骗与应用权限管理。",
-      "name": "Xiaogugtfgdfhgrh/MikSU",
-      "stars": 61,
-      "url": "https://github.com/Xiaogugtfgdfhgrh/MikSU"
+      "description": "GlassOS+ — a community GlassOS fork with compact Continue Watching, configurable layout and fast Home return.",
+      "name": "Snowflake-27/glassos-plus",
+      "stars": 66,
+      "url": "https://github.com/Snowflake-27/glassos-plus"
+    }
+  ],
+  "Rust": [
+    {
+      "created": "2026-11-05",
+      "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
+      "name": "jamesondh/chimera-vocal-synth",
+      "stars": 1777,
+      "url": "https://github.com/jamesondh/chimera-vocal-synth"
+    },
+    {
+      "created": "2026-11-05",
+      "description": "Headless 3D and VFX engine for agents. Research preview.",
+      "name": "voyager-so/vork",
+      "stars": 1366,
+      "url": "https://github.com/voyager-so/vork"
+    },
+    {
+      "created": "2026-11-06",
+      "description": "Chief Architect Premier 2026: Pre-Configured Desktop Edition with All Features Enabled",
+      "name": "thiagoaureliomartins-programador/chief-architect-premier",
+      "stars": 775,
+      "url": "https://github.com/thiagoaureliomartins-programador/chief-architect-premier"
+    },
+    {
+      "created": "2026-11-06",
+      "description": "像微信输入法一样顺手的Linux输入法：长句一次打完、按错键也能认出来、纯离线语音输入，越用越懂你。",
+      "name": "Gloridust/WowType",
+      "stars": 502,
+      "url": "https://github.com/Gloridust/WowType"
+    },
+    {
+      "created": "2026-11-08",
+      "description": "Game ping, jitter & packet loss monitor: finds who causes your lag",
+      "name": "PlateParrotTerminal/lag-doctor",
+      "stars": 452,
+      "url": "https://github.com/PlateParrotTerminal/lag-doctor"
+    },
+    {
+      "created": "2026-11-04",
+      "description": "Winc is built with Rust and its own rendering engine: it starts in 0.1 seconds and uses just 52 MB of memory with 100,000 lines open. Multiple cursors, find and replace, and side-by-side diffs are all",
+      "name": "DEEIX-AI/Winc",
+      "stars": 406,
+      "url": "https://github.com/DEEIX-AI/Winc"
+    },
+    {
+      "created": "2026-11-08",
+      "description": "Free open source PC cleaner for Windows: disk space, RAM, CPU, startup",
+      "name": "BeeCaptivate/pc-cleanup-optimizer",
+      "stars": 246,
+      "url": "https://github.com/BeeCaptivate/pc-cleanup-optimizer"
+    },
+    {
+      "created": "2026-11-04",
+      "description": "Atlas — a native, GPU-accelerated, local-first file manager for Windows. Built with Rust and GPUI.",
+      "name": "neondeex/atlas-filemanager",
+      "stars": 193,
+      "url": "https://github.com/neondeex/atlas-filemanager"
+    },
+    {
+      "created": "2026-11-05",
+      "description": "",
+      "name": "Hyperstitioncc/Hyperkernel",
+      "stars": 192,
+      "url": "https://github.com/Hyperstitioncc/Hyperkernel"
+    },
+    {
+      "created": "2026-11-08",
+      "description": "AI Valorant clip editor and montage maker with beat sync and NVENC",
+      "name": "AutocratMinaret/valorant-ai-clip-editor",
+      "stars": 179,
+      "url": "https://github.com/AutocratMinaret/valorant-ai-clip-editor"
     }
   ],
   "Swift": [
