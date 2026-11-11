@@ -801,5 +801,329 @@
     "summary": "Agentic reinforcement learning (RL) and multi-teacher on-policy distillation (MOPD) offer complementary routes to post-training. For visual agents, however, tool use presents two related challenges. Models may overlook useful tool-returned observations, while poorly grounded actions can limit the evidence available for subsequent distillation. We introduce Reframe, a post-training framework that t",
     "title": "Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning",
     "url": "http://arxiv.org/abs/2611.12886v1"
+  },
+  "2611.13396v1": {
+    "authors": [
+      "Shyam Agarwal",
+      "Olga Lvova",
+      "Agnia Sergeyuk",
+      "Anastasiia Serova",
+      "Timofey Bryksin"
+    ],
+    "category": "cs.SE",
+    "summary": "Organizations use engineers' token spend to monitor AI adoption, set budgets, and measure productivity, but the metric's relationship with engineering output is unclear. We link five weeks of token usage in coding agents to the commits of 404 engineers at JetBrains, and analyze a company survey of 412 employees. We find that token spend varied mostly between engineers, and which engineers spent th",
+    "title": "The AI Era's Lines of Code? A Case Study on What an Engineer's Token Spend Measures",
+    "url": "http://arxiv.org/abs/2611.13396v1"
+  },
+  "2611.13401v1": {
+    "authors": [
+      "Alireza Daghigh",
+      "Chung-Yu Wang",
+      "Luca Filippelli",
+      "Hamed Taherkhani",
+      "Hadi Hemmati"
+    ],
+    "category": "cs.SE",
+    "summary": "Automated code generation with large language models (LLMs) has improved in recent years. With the lack of test cases in real-world usages, generated code is not automatically verifiable and often requires manual validation. Previous studies have leveraged consensus verification, where code solutions and corresponding test cases are generated and evaluated based on functional consistency. Building",
+    "title": "SPARK: Semantic-preserving Prompt Mutation for Code Generation using Consensus-based Verification Framework",
+    "url": "http://arxiv.org/abs/2611.13401v1"
+  },
+  "2611.13470v1": {
+    "authors": [
+      "Anubhav Gupta",
+      "Tanner Wright",
+      "Gema Rodríguez-Pérez"
+    ],
+    "category": "cs.SE",
+    "summary": "Issue reports that describe Intrinsic Bugs, Extrinsic Bugs, and Not a Bug cases often use similar language, but they might point to different causes and require different maintenance actions. This makes three-way issue classification difficult for Large Language Models (LLMs), particularly when prompt-based refinements begin to plateau. We study whether domain-informed analysis of LLM outputs can ",
+    "title": "An Empirical Study on Improving LLM-Based Issue Classification through Domain-Informed Analysis",
+    "url": "http://arxiv.org/abs/2611.13470v1"
+  },
+  "2611.13709v1": {
+    "authors": [
+      "Gianmario Voria",
+      "Yutaro Kashiwa",
+      "Gemma Catolino",
+      "Fabio Palomba"
+    ],
+    "category": "cs.SE",
+    "summary": "Developers increasingly rely on agent context files (ACFs), persistent, project-scoped artifacts such as AGENTS.md, to steer the behavior of autonomous coding agents without renegotiating expectations at every interaction. Yet this governance mechanism rests on an untested assumption: that instructions written into an ACF are actually carried out, rather than ignored or loosely followed. Existing ",
+    "title": "Do They Do as They Are Told? Investigating Coding Agents' Adherence to Explicit Instructions in Context Files",
+    "url": "http://arxiv.org/abs/2611.13709v1"
+  },
+  "2611.13730v1": {
+    "authors": [
+      "Sayed Amir Karim"
+    ],
+    "category": "cs.SE",
+    "summary": "Optimized floating-point inference is not reproducible across environments: the same model on different hardware, compilers or thread counts can produce different bits. We present tritify, an open-source runtime that executes the forward pass of real models -- decoder-only language models, Mixture-of-Experts decoders, and the Segment Anything 2.1 image/video stack -- with the entire run-time path ",
+    "title": "Deterministic, Reproducible Inference in Exact Integer Arithmetic, and Verifiable Distributed Inference as Its Consequence",
+    "url": "http://arxiv.org/abs/2611.13730v1"
+  },
+  "2611.13925v1": {
+    "authors": [
+      "Haowei Cheng",
+      "Milhan Kim",
+      "Bowen Jiang",
+      "Weixing Zhang",
+      "Yuhong Fu"
+    ],
+    "category": "cs.SE",
+    "summary": "OpenRE-Bench is an open-source benchmarking infrastructure for large language model (LLM) based multi-agent requirements-engineering (RE) frameworks. Such frameworks are increasingly common, but they use different agent roles, negotiation policies, and output shapes, and are typically evaluated on their own runtimes, metrics, and small sets of curated system descriptions, which makes fair, reprodu",
+    "title": "OpenRE-Bench: A Benchmark Harness for Multi-Agent Requirements Engineering with Mined GitHub Issues",
+    "url": "http://arxiv.org/abs/2611.13925v1"
+  },
+  "2611.14027v1": {
+    "authors": [
+      "Sofia Martinez",
+      "Luo Xu",
+      "Mariam Elnaggar",
+      "Eman Abdullah AlOmar"
+    ],
+    "category": "cs.SE",
+    "summary": "Background: Code refactoring is the improvement of code internally without changing the external functionalities of the program. Due to its exhaustive nature, developers often avoid manually refactoring code. Researchers have since looked into utilizing LLMs to automate the task of refactoring. Aim and Method: Despite the promising results, there is a lack of clear un- derstanding of LLMs' effecti",
+    "title": "Software Refactoring Research with Large Language Models: A Systematic Literature Review",
+    "url": "http://arxiv.org/abs/2611.14027v1"
+  },
+  "2611.14064v1": {
+    "authors": [
+      "Xuhui Lu",
+      "Zhihao Liu",
+      "Xiaoke Fang",
+      "Yuhuan Fan",
+      "Yanzhe Tang"
+    ],
+    "category": "cs.SE",
+    "summary": "Mobile crash repair requires more than identifying a source edit. Developers must establish how the edit relates to the reported failure and whether the modified application can be built, launched, and exercised without disrupting valid behavior. In HarmonyOS applications, this assessment also depends on platform-specific packaging and runtime execution. To address this need, we present DEIA, an e",
+    "title": "DEIA: Evidence-Grounded Crash Repair with Change-Aware Test Design for HarmonyOS ArkTS",
+    "url": "http://arxiv.org/abs/2611.14064v1"
+  },
+  "2611.14106v1": {
+    "authors": [
+      "Martim Afonso",
+      "Inês Lynce",
+      "Maurizio Morisio",
+      "João F. Ferreira"
+    ],
+    "category": "cs.SE",
+    "summary": "Formal verification using proof assistants provides strong correctness guarantees for software, but constructing proofs remains labor-intensive and requires significant expertise. Recent approaches based on large language models (LLMs) have shown promise in automating proof synthesis. However, these approaches typically constrain the model to a rigid tactic-generation loop, in which the surroundin",
+    "title": "ProofCoder: Continuous Reasoning for Automated Software Verification",
+    "url": "http://arxiv.org/abs/2611.14106v1"
+  },
+  "2611.14164v1": {
+    "authors": [
+      "Junaid Akram",
+      "Ali Hassan",
+      "Danish Vasan"
+    ],
+    "category": "cs.SE",
+    "summary": "Vulnerabilities in applications, including browsers, media players, online services and document readers, etc. are often exploited and cause a serious damage. The vulnerabilities could exist in your system maybe because of some coding errors, design oversights, outdated software, AI generated codes or maybe transferred from another system during development (e.g., code clones). The propagation of ",
+    "title": "An Empirical Study on CVE-based Vulnerabilities Propagation from one System to another System (IntraProject vs InterProject)",
+    "url": "http://arxiv.org/abs/2611.14164v1"
+  },
+  "2611.14325v1": {
+    "authors": [
+      "Alessio Brini"
+    ],
+    "category": "cs.CL",
+    "summary": "Text encoders turn earnings calls into vectors for search, for language models that answer from retrieved passages, and for forecasting models. A live retriever can use an encoder trained once on all available text, as finance retrievers are, but a backtest needs an encoder that read no text written after the date of each vector. To address this look-ahead bias, from 412,248 calls we train vintage",
+    "title": "Point-in-Time Encoders for Earnings Calls",
+    "url": "http://arxiv.org/abs/2611.14325v1"
+  },
+  "2611.14333v1": {
+    "authors": [
+      "Zihan Chen",
+      "Lei Nico Zheng",
+      "Di Zhu"
+    ],
+    "category": "cs.CL",
+    "summary": "Users often complain that AI assistants such as ChatGPT are getting worse. Some versions do change, but human evaluation leaves a second possibility untested: the people judging may change. We separate the two on Chatbot Arena, a public platform where people compare answers from two anonymous large language models (LLMs) and pick the better one or say both are bad. We study 1,260,967 blind votes c",
+    "title": "AI Isn't Getting Dumber, We're Getting Pickier: Rising Standards in Human Evaluation of Large Language Models",
+    "url": "http://arxiv.org/abs/2611.14333v1"
+  },
+  "2611.14356v1": {
+    "authors": [
+      "Zhengxiang Huang",
+      "Yujie Sun",
+      "Shengheng Chen",
+      "Zhaode Wang",
+      "Chaoyue Niu"
+    ],
+    "category": "cs.SE",
+    "summary": "Rapidly evolving LLM architectures and heterogeneous mobile hardware make supporting new models in on-device inference engines a recurring and costly system challenge. Each model may require coordinated changes across conversion, graph construction, operators, and hardware backends. Existing coding agents often miss these cross-layer dependencies and struggle to diagnose failures across host--devi",
+    "title": "EngineAgent: Agentizing On-Device LLM Inference Engines with Inference Stack Hierarchy Awareness and Hardware Abilities",
+    "url": "http://arxiv.org/abs/2611.14356v1"
+  },
+  "2611.14362v1": {
+    "authors": [
+      "Zachary Wadhams",
+      "Emma Sheppard",
+      "Dalton Arford",
+      "Clemente Izurieta",
+      "Ann Marie Reinhold"
+    ],
+    "category": "cs.SE",
+    "summary": "As electric vehicle (EV) adoption accelerates globally, securing electric vehicle charging station (EVCS) software becomes increasingly critical. The Open Charge Point Protocol (OCPP), widely adopted for EVCS management, places significant responsibility on developers to securely implement specifications that are subject to multiple interpretations. The variety of OCPP implementations across diffe",
+    "title": "How Well Do SAST Tools Work Across Languages? An Empirical Study Using OCPP Implementations",
+    "url": "http://arxiv.org/abs/2611.14362v1"
+  },
+  "2611.14364v1": {
+    "authors": [
+      "Jiahang Lin",
+      "Wanying Ren",
+      "Wanghan Xu",
+      "Huayu Sha",
+      "Yang Shu"
+    ],
+    "category": "cs.CL",
+    "summary": "Research agents achieve increasingly strong benchmark scores, yet these scores do not necessarily translate into reliable delivery in ongoing research projects. Many research-agent benchmarks emphasize standalone tasks and relatively self-contained workflows in clean or curated workspaces. However, researchers ask agents to complete one step within an ongoing project, where requests depend on earl",
+    "title": "ARE-bench: Benchmarking Agents' Research Ability in Real-World Researcher Sessions and Workspaces",
+    "url": "http://arxiv.org/abs/2611.14364v1"
+  },
+  "2611.14371v1": {
+    "authors": [
+      "Emanuele Guerrazzi",
+      "Andrea Vandin"
+    ],
+    "category": "cs.SE",
+    "summary": "Automated Vehicle Storage and Retrieval Systems (AVS/RS) are increasingly adopted to boost warehouse throughput while containing operational costs. We present an integrated analysis framework that couples discrete-event simulation with Statistical Model Checking (SMC) and Process Mining (PM) to quantify and explain AVS/RS performance. SMC, implemented through the MultiVeStA tool, delivers statisti",
+    "title": "Reliable and explainable analysis of AVS/RS by Statistical Model Checking and Process Mining",
+    "url": "http://arxiv.org/abs/2611.14371v1"
+  },
+  "2611.14376v1": {
+    "authors": [
+      "Roberto Fernández-Barrios",
+      "Iker Pastor-López",
+      "Amaia Pikatza-Huerga",
+      "Pablo García Bringas"
+    ],
+    "category": "cs.SE",
+    "summary": "We implement reference renewal to reconsider retained physical quantum-service results under a prespecified protocol. Twelve transitions retained six results each; ten completed renewal, eight met the prespecified endpoint, and five succeeded using retained results alone. The exact one-sided p=0.0546875 does not establish the recovery hypothesis. Incomplete references, binding failures and sequent",
+    "title": "Operational limits of reference renewal for retained quantum-service results",
+    "url": "http://arxiv.org/abs/2611.14376v1"
+  },
+  "2611.14387v1": {
+    "authors": [
+      "Amir Mann",
+      "Jonathan Fhima",
+      "Shaked Brody",
+      "Or Avitan",
+      "Asif Zamir"
+    ],
+    "category": "cs.CL",
+    "summary": "Diffusion Language Models (DLMs) have emerged as effective alternatives to autoregressive models for latency-critical tasks, enabling faster token generation. Recent advances employ block diffusion with self-editing capabilities, where each block refines tokens iteratively before advancing to the next one. Yet each block is only as fast as its slowest token, and the next block cannot start before ",
+    "title": "Blurring the Block Boundaries: Overlapping Block Denoising for Efficient Diffusion Language Models",
+    "url": "http://arxiv.org/abs/2611.14387v1"
+  },
+  "2611.14399v1": {
+    "authors": [
+      "Yu Tian"
+    ],
+    "category": "cs.CL",
+    "summary": "Speculative decoding accelerates LLM inference by having a draft model propose multiple tokens for the target model to verify in one pass. The speedup is governed by the expected acceptance length (EAL), yet standard training objectives such as cross-entropy, KL divergence, and total variation focus only on distribution matching or single-step overlap. Recent studies instead propose block-level tr",
+    "title": "REAL Loss: Optimizing Real Expected Acceptance Length for Speculative Decoding",
+    "url": "http://arxiv.org/abs/2611.14399v1"
+  },
+  "2611.14413v1": {
+    "authors": [
+      "Mohammed Nayeem Khan",
+      "Logesh L",
+      "Aliyas Ahmad Misri"
+    ],
+    "category": "cs.CL",
+    "summary": "Local language models can save memory by storing weights in fewer bits, and they can reduce sensitivity to the order of answer options by averaging a few reorderings. We ask whether the first makes the second worse, and which is the cheaper way to spend a fixed budget. On Qwen3-0.6B and Qwen3-1.7B with simulated round-to-nearest weight quantization (8, 6, 4 and 3 bits, fp16 reference), read from t",
+    "title": "Bits or permutations? Spending a fixed inference budget on weight precision or on option-order averaging in small local language models",
+    "url": "http://arxiv.org/abs/2611.14413v1"
+  },
+  "2611.14421v1": {
+    "authors": [
+      "Sahil Mahendrakar"
+    ],
+    "category": "cs.CL",
+    "summary": "Streaming speech recognizers output a word only after the speaker has finished it, typically 90-400 ms later. For a voice agent every millisecond counts: the sooner the words are outputted, the sooner the agent can start a search or plan its reply. We present Earlybird, a 29M-parameter streaming recognizer (16.8 MB at 4 bits). Earlybird learns from audio cut off at random points, including partway",
+    "title": "Earlybird: Predictive Streaming Speech Recognition in 29M Parameters",
+    "url": "http://arxiv.org/abs/2611.14421v1"
+  },
+  "2611.14459v1": {
+    "authors": [
+      "Eugene Jang",
+      "Catherine Arnett",
+      "Terra Blevins"
+    ],
+    "category": "cs.CL",
+    "summary": "UTF-8's role as the de facto encoding standard in language models introduces cross-lingual inequities due to its variable-length design. However, the effect that this encoding choice has on model performance remains largely unexamined. In this work, we investigate how text encoding impacts the performance of byte-level language models, comparing UTF-8 with a wide range of other encoding strategies",
+    "title": "When does text encoding matter for language modeling?",
+    "url": "http://arxiv.org/abs/2611.14459v1"
+  },
+  "2611.14477v1": {
+    "authors": [
+      "Arjun Rao",
+      "Nishant Gopinath"
+    ],
+    "category": "cs.CL",
+    "summary": "Text-to-SQL systems over large pooled catalogs must first retrieve the tables a question needs. We compare against the published table recall of RASL, which uses Claude 3.5 models to extract keywords and select tables, on pooled BIRD, Spider, and Fiben catalogs. FERN (Feature-Engineered Ranking with No generative LLM) instead fuses three frozen retrievers into 100 candidates, describes each with u",
+    "title": "FERN: Cross-Benchmark Table Retrieval for Text-to-SQL with Frozen Retrievers and Learned Ranking",
+    "url": "http://arxiv.org/abs/2611.14477v1"
+  },
+  "2611.14480v1": {
+    "authors": [
+      "Evelyn Y. Garland",
+      "Carola F. Berger"
+    ],
+    "category": "cs.CL",
+    "summary": "In this paper, we present 1020 Group's submission to the WMT26 shared task on automated quality evaluation. Our system, Pterodactyl, was engineered specifically for subtasks 2 and 3, that is, segment-level quality score prediction and the detection of error-free segments. Pterodactyl is a highly customizable, ultra-low cost system optimized for binary classification in translation triage and data ",
+    "title": "Pterodactyl: Pushing the Limits of Efficient Automated Translation Evaluation",
+    "url": "http://arxiv.org/abs/2611.14480v1"
+  },
+  "2611.14483v1": {
+    "authors": [
+      "Zhimin Hu",
+      "Chen Jiang",
+      "Hanbo Xie",
+      "N. Apurva Ratan Murty",
+      "Sashank Varma"
+    ],
+    "category": "cs.CL",
+    "summary": "Neural networks are increasingly studied not merely as predictive systems, but as complex systems whose internal computations are themselves objects of scientific inquiry. Recent progress in mechanistic interpretability (MI) has made it possible to identify neurons, features, circuits, population structures, and dynamical patterns associated with model behavior. As these tools improve, attention i",
+    "title": "Mechanistic Interpretability Needs a Logic of Inference",
+    "url": "http://arxiv.org/abs/2611.14483v1"
+  },
+  "2611.14493v1": {
+    "authors": [
+      "Howard Zhang",
+      "Chuck Arvin",
+      "Logan Brown",
+      "Mihir Bhatia",
+      "Neelu Choudhary"
+    ],
+    "category": "cs.SE",
+    "summary": "Deploying LLM-based analytics agents in enterprise settings requires evaluation frameworks that can reliably detect failures across complex, multi-tool workflows. We present a three-phase comparative study of three evaluation frameworks, each representing a distinct evaluation paradigm (trace-based LLM judging, text-only LLM judging with red-teaming, and deterministic heuristics), applied to two a",
+    "title": "Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents",
+    "url": "http://arxiv.org/abs/2611.14493v1"
+  },
+  "2611.14514v1": {
+    "authors": [
+      "Ziang Liu",
+      "James J. Kim",
+      "Yijia Dai",
+      "Jennifer J. Sun"
+    ],
+    "category": "cs.CL",
+    "summary": "LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $\\neg h$. When evidence rejects $h$, the agent learns that one explanation is unlikely but not which alternative the evidence supports. To recover that alternative, we introduce Contrastive Discovery, which rep",
+    "title": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
+    "url": "http://arxiv.org/abs/2611.14514v1"
+  },
+  "2611.14515v1": {
+    "authors": [
+      "Zijian Zhang",
+      "Rizhen Hu",
+      "Jiangweizhi Peng",
+      "Shiyang Li",
+      "Sujay Bhatt"
+    ],
+    "category": "cs.CL",
+    "summary": "Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-time scaffolds, such as strategies or hints added to the prompt during training, offer a natural way to turn this information into guidance, but their design and adaptation are largely left to humans ",
+    "title": "AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models",
+    "url": "http://arxiv.org/abs/2611.14515v1"
   }
 }
