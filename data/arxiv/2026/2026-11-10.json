@@ -45,6 +45,32 @@
     "title": "ShiftCache: Fast and Exact Indel Effect Prediction by Reusing Shifted Reference Encodings",
     "url": "http://arxiv.org/abs/2611.11976v1"
   },
+  "2611.12112v1": {
+    "authors": [
+      "Shijun Xiao",
+      "Zonghui Yang",
+      "Xinrong Chen",
+      "Hao Liu",
+      "Wensheng Zhang"
+    ],
+    "category": "cs.SE",
+    "summary": "Screenshot-to-Code requires coding agents to sustain visual understanding across code generation, execution, and revision. We introduce LiveWorkspace, a visual coding harness that externalizes this understanding as Shared Visual State (Shared VS), an implementation-independent representation of visual hierarchy, node attributes, and layout relations. LiveWorkspace constructs and retains \\textit{Ta",
+    "title": "LiveWorkspace: Externalizing Visual Understanding as Persistent Shared State for Screenshot-to-Code Agents",
+    "url": "http://arxiv.org/abs/2611.12112v1"
+  },
+  "2611.12164v1": {
+    "authors": [
+      "Khalil Hennara",
+      "Muhammad Hreden",
+      "Zeina Aldallal",
+      "Sara Chrouf",
+      "Safwan AlModhayan"
+    ],
+    "category": "cs.SE",
+    "summary": "Code localizers are usually trained to predict the files a reference patch edits, but the code a fixer needs to read is not the same as the code it changes. We propose Fixer-Guided Localization (FGL): the localizer proposes several localizations, a frozen fixer scores each by how likely it makes a verified patch, and the localizer is trained on these scores with weighted supervised fine-tuning, wi",
+    "title": "Let the Fixer Decide: Training a Code Localizer from the Fixer's Likelihood",
+    "url": "http://arxiv.org/abs/2611.12164v1"
+  },
   "2611.12169v1": {
     "authors": [
       "Dongyang Geng",
@@ -68,6 +94,15 @@
     "title": "Optimal Proximity Black Hole Search with Programmable Matter",
     "url": "http://arxiv.org/abs/2611.12170v1"
   },
+  "2611.12225v1": {
+    "authors": [
+      "Jiantong Xu"
+    ],
+    "category": "cs.SE",
+    "summary": "A worked solution can make self-generated training targets shorter and cheaper, but accuracy on the practiced operation may hide how well a model can reuse newly learned rules. We study this choice in a 2B-parameter reasoning model learning two invented quantitative rules. The model generates targets from a rule sheet alone or from the sheet plus a program-written worked solution; targets are acce",
+    "title": "A Cost That Practice Accuracy Hides: Worked Solutions in Self-Generated Training Data and the Compositional Use of New Rules",
+    "url": "http://arxiv.org/abs/2611.12225v1"
+  },
   "2611.12252v1": {
     "authors": [
       "Mohsen Ahmadvand",
@@ -78,6 +113,19 @@
     "summary": "Bridge hacks have cost billions, often without exploiting a code bug. In the cross-chain bridge hacks we catalogue from 2021 to 2026, failures of security posture, meaning how a bridge's people, code, controls and off-chain infrastructure are set up, account for 88% of reported losses since 2023, and nearly all repeat earlier failures. Code audits cannot catch these failures, so we propose a bridg",
     "title": "Lessons Not Learned: Why Cross-Chain Bridges Keep Losing Billions the Same Way",
     "url": "http://arxiv.org/abs/2611.12252v1"
+  },
+  "2611.12288v1": {
+    "authors": [
+      "Qingfeng He",
+      "Zhui Zhu",
+      "Yaojian Chen",
+      "Shangzhan Li",
+      "Leshan Li"
+    ],
+    "category": "cs.SE",
+    "summary": "General-purpose software serves many different demands, but this flexibility costs performance and efficiency on any specific demand. Software tailored to a specific demand avoids these losses, yet developing it requires substantial time and effort from human experts. AI agents offer an alternative: they can design, implement and test artefacts tailored to individual demands. We call this producti",
+    "title": "ForgeSystem: An Architecture for Demand-Specific Artefact Production with AI Agents",
+    "url": "http://arxiv.org/abs/2611.12288v1"
   },
   "2611.12296v1": {
     "authors": [
@@ -115,6 +163,15 @@
     "title": "Mitigating SM-Level Load Imbalance in 3D Gaussian Splatting on GPUs",
     "url": "http://arxiv.org/abs/2611.12319v1"
   },
+  "2611.12338v1": {
+    "authors": [
+      "Alastair F. Donaldson"
+    ],
+    "category": "cs.SE",
+    "summary": "For the first twelve years of my career in computer science I mainly worked on formal methods. I had been drawn to the field as an undergraduate by its promise of a way to build software with strong, mathematically based correctness guarantees. But after many years of struggling to make formal methods scale, I was seduced by randomised testing---also known as fuzzing. Fuzzing is much less principl",
+    "title": "From Formal Methods to Fuzzing and Back",
+    "url": "http://arxiv.org/abs/2611.12338v1"
+  },
   "2611.12362v1": {
     "authors": [
       "Hsin-Chun Yin",
@@ -137,6 +194,30 @@
     "summary": "Vehicular Edge Computing (VEC) aims to support computation-intensive applications in intelligent transportation systems while meeting stringent latency requirements. When processed remotely, applications require access to different resource types in a specific sequence, forming a multi-stage processing pipeline. This structure closely resembles multi-stage distributed applications executing across",
     "title": "Adapting Multi-Stage Distributed Real-Time Systems Design to Vehicular Edge Computing",
     "url": "http://arxiv.org/abs/2611.12370v1"
+  },
+  "2611.12412v1": {
+    "authors": [
+      "Pekka Abrahamsson",
+      "Muhammad Waseem",
+      "Esa Karjalainen",
+      "Petrus Jussila",
+      "Henri Hansen"
+    ],
+    "category": "cs.SE",
+    "summary": "Coordination between large language-model agents has become a central question for AI safety and software engineering, as such agents are deployed in groups that share infrastructure. Existing research tells the agents that partners exist or asks them to coordinate. Whether coordination arises through shared state alone, with nothing disclosing that anyone else is present, is the key question for ",
+    "title": "Unprompted coordination through shared memory in LLM agents: a locked two-implementation replication and extension",
+    "url": "http://arxiv.org/abs/2611.12412v1"
+  },
+  "2611.12440v1": {
+    "authors": [
+      "John Larsson",
+      "Johan Linåker",
+      "Per Runeson"
+    ],
+    "category": "cs.SE",
+    "summary": "Background: Freight transport is expected to increase, contributing to air pollution. There is, therefore, a critical need for increased efficiency that can reduce emissions. Data sharing is one approach, where actors within Open Data Ecosystems (ODE) collaborate and share data among stakeholders to plan and operate more efficient and sustainable freight transport. Aim: In this study, we explore h",
+    "title": "Exploring public-private data sharing practices through the lens of Open Data Ecosystems: A multiple case study on municipal and regional freight logistics",
+    "url": "http://arxiv.org/abs/2611.12440v1"
   },
   "2611.12485v1": {
     "authors": [
@@ -169,6 +250,19 @@
     "summary": "We show that type-logical grammars with the standard rules for product, associativity, extraction and infixation have an NP-complete fixed recognition problem, adapting a construction for first-order linear logic from Pshenitsyn (2025), who already showed that grammars in first-order linear logic are closed under intersection and therefore not semilinear and not mildly context-sensitive. We streng",
     "title": "Type-logical grammars and formal languages",
     "url": "http://arxiv.org/abs/2611.12618v1"
+  },
+  "2611.12620v1": {
+    "authors": [
+      "Michiel Van Kenhove",
+      "Emiel Sucaet",
+      "José Santos",
+      "Filip De Turck",
+      "Bruno Volckaert"
+    ],
+    "category": "cs.SE",
+    "summary": "Edge computing places computation closer to users and data sources, but introduces heterogeneous hardware, limited resources, and variable network conditions. WebAssembly (Wasm) is increasingly considered for these environments because modules are compact, portable, and quick to start. However, cold-start latency remains a challenge: when a worker node does not yet hold the required artifact, it m",
+    "title": "Reducing Cold-Start Latency on the WebAssembly Edge via Locality and Network-Aware Scheduling",
+    "url": "http://arxiv.org/abs/2611.12620v1"
   },
   "2611.12628v1": {
     "authors": [
@@ -205,6 +299,19 @@
     "title": "TrialDesignBench: Benchmarking Language Models for Phase-I Trial Design Against Clinical Knowledge",
     "url": "http://arxiv.org/abs/2611.12640v1"
   },
+  "2611.12646v1": {
+    "authors": [
+      "Nathan Cassee",
+      "Umit Akirmak",
+      "Luiz Guerra",
+      "Margaret-Anne Storey",
+      "Neil Ernst"
+    ],
+    "category": "cs.SE",
+    "summary": "Software architecture is one of the skills novice developers must master to succeed in industry, and as AI disrupts software development, it is also transforming how students learn architecture. Existing work on how students and novices work with AI has mostly focused on small programming exercises or on students' perceptions of AI, so little is known about how students experience AI as they learn",
+    "title": "Surrendering and Reclaiming Judgment: How Software Engineering Students Experience AI Reliance",
+    "url": "http://arxiv.org/abs/2611.12646v1"
+  },
   "2611.12691v1": {
     "authors": [
       "Mehmet Emre Tiryaki"
@@ -218,10 +325,35 @@
     "authors": [
       "Valentin Burkin"
     ],
-    "category": "cs.CL",
+    "category": "cs.SE",
     "summary": "Objectives: To measure whether a locally hosted large language model (LLM), stacked with deterministic and clinical named-entity recognition (NER) detectors, finds more protected health information (PHI) than open tools, and at what precision. Materials and Methods: DeidSharp, an open-source .NET toolkit, combines the findings of pluggable detectors (patterns, a clinical NER model, a local 26B mix",
     "title": "A local language model layered with rule-based and neural detectors for clinical text de-identification: an open-source toolkit and evaluation",
     "url": "http://arxiv.org/abs/2611.12709v1"
+  },
+  "2611.12710v1": {
+    "authors": [
+      "Michiel Van Kenhove",
+      "Ewout Verlinde",
+      "José Santos",
+      "Filip De Turck",
+      "Bruno Volckaert"
+    ],
+    "category": "cs.SE",
+    "summary": "The WebAssembly Component Model enables language-independent composition of independently developed components, but complicates observability. Existing tracing support flattens execution hierarchy by attributing every span created inside a composition to a single host-level parent context, so execution across component boundaries cannot be reconstructed. The problem is amplified because components",
+    "title": "WasmLens: Automatic Glass-Box Instrumentation for Composed WebAssembly Applications",
+    "url": "http://arxiv.org/abs/2611.12710v1"
+  },
+  "2611.12712v1": {
+    "authors": [
+      "Bernat Homs",
+      "Oscar Palomar",
+      "Miquel Moreto",
+      "Marcelo Orenes-Vera"
+    ],
+    "category": "cs.SE",
+    "summary": "With the growing interest in using AI (Artificial Intelligence) for RTL (Register-Transfer Level) hardware development, robust and comprehensive verification has become more important than ever. As Large Language Models (LLMs) increasingly assist in creating and modifying RTL designs, ensuring that these changes preserve existing functionality is paramount for building trust in AI-driven workflows",
+    "title": "Will AI mess my RTL? A snapshot-based approach to verifying AI-written RTL",
+    "url": "http://arxiv.org/abs/2611.12712v1"
   },
   "2611.12716v1": {
     "authors": [
@@ -271,6 +403,17 @@
     "summary": "World models have increasingly been applied as a model-based control method for robotics tasks such as manipulation and locomotion. While early world model architectures relied on decoders to prevent mode collapse and learn a predictable latent space, recent works on world models, such as Joint Embedding Predictive Architecture or LeWorldModel, increasingly aim to learn embeddings without a ground",
     "title": "$Σ$-LeWM: Learning World Models via S-Information for Robot Control",
     "url": "http://arxiv.org/abs/2611.12732v1"
+  },
+  "2611.12737v1": {
+    "authors": [
+      "Dev Akre",
+      "Roman Bobalo",
+      "Manoj Dobbali"
+    ],
+    "category": "cs.SE",
+    "summary": "Deploying large language models in regulated industries requires more than picking the fastest inference engine: it requires evidence that a configuration meets contractual and legal obligations before it serves a single customer request. We describe Runway, an internal validation harness built at MasterControl that builds a governed decision pipeline around NVIDIA AIPerf. The key insight is separ",
+    "title": "Inference Validation for Regulated AI: Building a Decision Pipeline on NVIDIA AIPerf",
+    "url": "http://arxiv.org/abs/2611.12737v1"
   },
   "2611.12739v1": {
     "authors": [
@@ -456,6 +599,15 @@
     "title": "How Well Does AI Peer Review Work? A Benchmark Built from 100 Planted Errors",
     "url": "http://arxiv.org/abs/2611.12820v1"
   },
+  "2611.12823v1": {
+    "authors": [
+      "Yutaka Nagashima"
+    ],
+    "category": "cs.SE",
+    "summary": "Coding agents often need broad authority for productive development work, but granting that authority can expose users' data and infrastructure. Off-the-shelf cloud workspaces can help contain agent activity, but reliance on provider-specific platforms can lead to vendor lock-in and reduced user control. Researchers and engineers must therefore balance agent autonomy, enforced containment, and use",
+    "title": "Coding Agents in KVM: Practical Containment and User Control with Limited Resources",
+    "url": "http://arxiv.org/abs/2611.12823v1"
+  },
   "2611.12825v1": {
     "authors": [
       "Jihwan Jeong",
@@ -524,7 +676,7 @@
       "Houde Qian",
       "Wenyi Li"
     ],
-    "category": "cs.CL",
+    "category": "cs.SE",
     "summary": "Large language model agents are increasingly deployed as multi-agent systems rather than as a standalone model operating within a single context. Recent agent harnesses allow the model to instantiate worker agents and to author the executable workflow that coordinates them, shifting the design of system structure from developers to the model at run time. The quality of this organization therefore ",
     "title": "WorkflowArena: Benchmarking Executable Workflow Orchestration in LLM-Based Multi-Agent Systems",
     "url": "http://arxiv.org/abs/2611.12856v1"
