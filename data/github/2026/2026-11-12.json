@@ -1,0 +1,146 @@
+{
+  "Go": [
+    {
+      "created": "2026-11-06",
+      "description": "Let AI agents use your phone, with you in the loop.",
+      "name": "DIYgod/pinky",
+      "stars": 1995,
+      "url": "https://github.com/DIYgod/pinky"
+    },
+    {
+      "created": "2026-11-06",
+      "description": "Soundpad: Advanced Audio Processing for Professional DAW Workflows",
+      "name": "manjushree-iyer/soundpad-audio-suite",
+      "stars": 1103,
+      "url": "https://github.com/manjushree-iyer/soundpad-audio-suite"
+    },
+    {
+      "created": "2026-11-09",
+      "description": "One self-hosted app for your shows, movies and music.",
+      "name": "HolyArrs/HolyArrs",
+      "stars": 955,
+      "url": "https://github.com/HolyArrs/HolyArrs"
+    },
+    {
+      "created": "2026-11-06",
+      "description": "One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
+      "name": "devvmhq/devvm",
+      "stars": 595,
+      "url": "https://github.com/devvmhq/devvm"
+    },
+    {
+      "created": "2026-11-07",
+      "description": "类finalshell的ssh客户端 // An source-available finalshell copy, with go runtime and mygo UI",
+      "name": "TooonyChen/finallyshell",
+      "stars": 466,
+      "url": "https://github.com/TooonyChen/finallyshell"
+    },
+    {
+      "created": "2026-11-07",
+      "description": "Bowel is a mihomo client for macOS, Windows, Linux and Android.",
+      "name": "21stware/bowel",
+      "stars": 460,
+      "url": "https://github.com/21stware/bowel"
+    },
+    {
+      "created": "2026-11-08",
+      "description": "A lightweight Calibre alternative",
+      "name": "djyde/dalibre",
+      "stars": 336,
+      "url": "https://github.com/djyde/dalibre"
+    },
+    {
+      "created": "2026-11-08",
+      "description": "",
+      "name": "oceanpacificpeace/lichii-shader-sync",
+      "stars": 332,
+      "url": "https://github.com/oceanpacificpeace/lichii-shader-sync"
+    },
+    {
+      "created": "2026-11-06",
+      "description": "",
+      "name": "nwverse/persona",
+      "stars": 281,
+      "url": "https://github.com/nwverse/persona"
+    },
+    {
+      "created": "2026-11-10",
+      "description": "Solana validator health in 60 seconds: score, leader duties, rewards, disk forecast, Prometheus. One static binary, read-only, never touches your keys.",
+      "name": "ValidatorStack/solana-vigil",
+      "stars": 241,
+      "url": "https://github.com/ValidatorStack/solana-vigil"
+    }
+  ],
+  "Rust": [
+    {
+      "created": "2026-11-06",
+      "description": "Chief Architect Premier 2026: Pre-Configured Desktop Edition with All Features Enabled",
+      "name": "thiagoaureliomartins-programador/chief-architect-premier",
+      "stars": 1100,
+      "url": "https://github.com/thiagoaureliomartins-programador/chief-architect-premier"
+    },
+    {
+      "created": "2026-11-06",
+      "description": "像微信输入法一样顺手的Linux输入法：长句一次打完、按错键也能认出来、纯离线语音输入、实时翻译，越用越懂你。",
+      "name": "Gloridust/WowType",
+      "stars": 674,
+      "url": "https://github.com/Gloridust/WowType"
+    },
+    {
+      "created": "2026-11-11",
+      "description": "Relax Rust JIT",
+      "name": "makepad/relax",
+      "stars": 250,
+      "url": "https://github.com/makepad/relax"
+    },
+    {
+      "created": "2026-11-08",
+      "description": "Free open source PC cleaner for Windows: disk space, RAM, CPU, startup",
+      "name": "BeeCaptivate/pc-cleanup-optimizer",
+      "stars": 246,
+      "url": "https://github.com/BeeCaptivate/pc-cleanup-optimizer"
+    },
+    {
+      "created": "2026-11-10",
+      "description": "A Wayland shell with Material Design 3 Expressive, written in Rust",
+      "name": "bea4dev/shoji-bar-4",
+      "stars": 217,
+      "url": "https://github.com/bea4dev/shoji-bar-4"
+    },
+    {
+      "created": "2026-11-09",
+      "description": "Local-first, privacy-focused macOS banking app for German banks (FinTS/HBCI, Trade Republic, comdirect) built with Rust, SwiftUI & SQLCipher",
+      "name": "GiroCrab/GiroCrab",
+      "stars": 189,
+      "url": "https://github.com/GiroCrab/GiroCrab"
+    },
+    {
+      "created": "2026-11-08",
+      "description": "AI Valorant clip editor and montage maker with beat sync and NVENC",
+      "name": "AutocratMinaret/valorant-ai-clip-editor",
+      "stars": 179,
+      "url": "https://github.com/AutocratMinaret/valorant-ai-clip-editor"
+    },
+    {
+      "created": "2026-11-07",
+      "description": "Free mouse double click test and fix for Windows 11/10. Finds ghost clicks (mouse chatter, switch bounce) on a strip chart, learns a debounce threshold from your real double-clicks, filters them syste",
+      "name": "MajestyPoemFold/ghostclick-mouse-double-click-fix",
+      "stars": 173,
+      "url": "https://github.com/MajestyPoemFold/ghostclick-mouse-double-click-fix"
+    },
+    {
+      "created": "2026-11-08",
+      "description": "Footstep equalizer for FPS games: auto EQ for Valorant, CS2, Apex",
+      "name": "SoldierMultiply/footstep-equalizer",
+      "stars": 160,
+      "url": "https://github.com/SoldierMultiply/footstep-equalizer"
+    },
+    {
+      "created": "2026-11-08",
+      "description": "Stick drift test and fix for Windows: gamepad tester, deadzone finder",
+      "name": "ToneProtectorSolve48/drift-doctor",
+      "stars": 145,
+      "url": "https://github.com/ToneProtectorSolve48/drift-doctor"
+    }
+  ]
+}
