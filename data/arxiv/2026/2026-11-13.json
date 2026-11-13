@@ -1,0 +1,170 @@
+{
+  "2611.16245v1": {
+    "authors": [
+      "Sam Yu-Te Lee",
+      "Yun-Hsin Kuo",
+      "Kwan-Liu Ma"
+    ],
+    "category": "cs.HC",
+    "summary": "Visual analytics systems traditionally combine analytical methods and interactive visualizations into a fixed application specified at the design phase. Coding agents offer a flexible approach: experts could conduct analysis through natural-language instructions. We envision an agentic dashboard as a persistent visual analytics workspace where an agent makes decisions about analytical methods, vie",
+    "title": "Agentic Dashboards: A New Design Paradigm for Visual Analytics",
+    "url": "http://arxiv.org/abs/2611.16245v1"
+  },
+  "2611.16287v1": {
+    "authors": [
+      "Yiliu Tang",
+      "Hangyue Zhang",
+      "Yun Huang"
+    ],
+    "category": "cs.HC",
+    "summary": "As AI capabilities advance, early-stage teams need better ways to judge whether historical incidents transfer to new products, demanding support beyond static risk checklists or one-off ideation tools. We present RiskLens, a human-AI workflow with an interactive system built around a live crawl, refreshable ranker, and extensible, human-informed schema. RiskLens analyzes 2,034 AI incidents and 10,",
+    "title": "RiskLens: Human-Informed Incident Transfer for AI Risk Evaluation",
+    "url": "http://arxiv.org/abs/2611.16287v1"
+  },
+  "2611.16293v1": {
+    "authors": [
+      "Riya Sahni",
+      "Aryan Kaul",
+      "Anushka Bhatnagar",
+      "Xuanming Zhang",
+      "Vivian Liu"
+    ],
+    "category": "cs.HC",
+    "summary": "Coding agents let developers modify software rapidly through natural language. However, as agents take on larger changes, developers can lose track of how the codebase is evolving. These edits may look correct on the surface while restructuring the system in unexpected ways: duplicating logic, changing modules outside the requested scope, removing functionality developers meant to keep, or introdu",
+    "title": "Rasoi: Visual Diffs for Evaluating Structural Changes Made by Coding Agents",
+    "url": "http://arxiv.org/abs/2611.16293v1"
+  },
+  "2611.16446v1": {
+    "authors": [
+      "Solmaz Goodarzi",
+      "Arseni Ivanov",
+      "David Maruscsák",
+      "Diana Quitéria Sousa"
+    ],
+    "category": "cs.HC",
+    "summary": "Floods are among the most frequent and destructive natural disasters, requiring citizens to make critical decisions under rapidly changing conditions. Most serious games related to flooding emphasize awareness, preparedness, and education in flood management, but there is still a research gap on how to train citizens to act under pressure, uncertainty, and stress. In this paper, we position Virtua",
+    "title": "A Serious Game for Training Civil Participation in Flood Crisis Management",
+    "url": "http://arxiv.org/abs/2611.16446v1"
+  },
+  "2611.16473v1": {
+    "authors": [
+      "Graham Wilcock",
+      "Kristiina Jokinen"
+    ],
+    "category": "cs.HC",
+    "summary": "Until recently, the biggest obstacles to natural spoken interaction with social robots were speech recognition errors and turn-taking failures. Advances in speech recognition have enabled much better spoken interaction, but turn-taking failures and other misunderstandings continue to be far too prevalent. This short paper looks back at earlier methods for improving speech recognition and turn-taki",
+    "title": "Robots That Talk Too Much and Don't Listen Enough",
+    "url": "http://arxiv.org/abs/2611.16473v1"
+  },
+  "2611.16594v1": {
+    "authors": [
+      "Rosalina Ribeiro Silva",
+      "Zichen Feng",
+      "Rikard Olajos",
+      "Tim Rolff"
+    ],
+    "category": "cs.HC",
+    "summary": "We propose an immersive virtual-reality game designed to enable multi-user, multi-language learning during co-play. We hypothesize that our method will be more engaging, leading to better rhythm, pronunciation, memorization, and speaking confidence. We implement the experience as a fantasy role-playing game by introducing vocabulary and phrases to the user as spells to learn. Players then cast mor",
+    "title": "Language Learning through Immersive Multi-User Gamification",
+    "url": "http://arxiv.org/abs/2611.16594v1"
+  },
+  "2611.16609v1": {
+    "authors": [
+      "Maryam Ostadsharif Memar",
+      "Behzad Nazari"
+    ],
+    "category": "cs.HC",
+    "summary": "Decoding upper-limb movements from scalp electroencephalography (EEG) is an important problem for brain-computer interfaces (BCIs), but many deep learning models provide limited insight into the brain regions underlying their predictions. We propose a two-branch architecture that combines an LGGNet-inspired local-global graph branch with an EEGNet-style convolutional branch for movement-versus-res",
+    "title": "A Dual-Branch Graph and Convolutional Network for Interpretable Movement EEG Classification",
+    "url": "http://arxiv.org/abs/2611.16609v1"
+  },
+  "2611.16667v1": {
+    "authors": [
+      "Maximilian Maier",
+      "Tsz Kwan Emmy Wong",
+      "Jiahao Eric Yang",
+      "Falk Lieder",
+      "Vanessa Cheung"
+    ],
+    "category": "cs.HC",
+    "summary": "People increasingly ask AI chatbots for advice, yet large language models (LLMs) are sycophantic, overconfident, and can amplify human cognitive biases. In this article, we investigate how people perceive advice from humans versus LLMs and whether AI advice reshapes incentive-compatible donation decisions. Using Carrier, a new experimental platform, we designed an experiment where participants mad",
+    "title": "People prefer AI to human advice in multi-turn conversations but neither changes incentivised behaviour",
+    "url": "http://arxiv.org/abs/2611.16667v1"
+  },
+  "2611.16737v1": {
+    "authors": [
+      "Artem Makarov",
+      "Dmitry Namiot"
+    ],
+    "category": "cs.HC",
+    "summary": "In this paper, we present a connectionless interaction model for network spatial proximity services. In the network spatial proximity model, the reception of an identification or discovery frame of a nearby wireless node confirms proximity and delivers content at the same time. Current Bluetooth and Wi-Fi specifications and mobile platforms extend this one-way announcement with responses, addresse",
+    "title": "A Connectionless Interaction Model for Network Spatial Proximity Services",
+    "url": "http://arxiv.org/abs/2611.16737v1"
+  },
+  "2611.16931v1": {
+    "authors": [
+      "Nolan Lovett",
+      "Mohan Yang"
+    ],
+    "category": "cs.HC",
+    "summary": "Generative AI has entered the workplace faster than organizations can govern it. A large share of employees now use AI tools their employer has not sanctioned, and many actively conceal that use, but the psychology of this covert technology behavior remains poorly understood. A common assumption, in popular accounts and early commentary, treats unauthorized (shadow) AI use as curiosity-driven expl",
+    "title": "Beyond Curiosity: Habit and Organizational Learning Capability as Predictors of Shadow AI",
+    "url": "http://arxiv.org/abs/2611.16931v1"
+  },
+  "2611.16993v1": {
+    "authors": [
+      "Shajnin Haque Aishy",
+      "Sabbir Bin Abdul Latif",
+      "Md. Golam Zel A Husna",
+      "Jannatun Noor"
+    ],
+    "category": "cs.HC",
+    "summary": "Postpartum mental distress affects roughly one in five mothers in low- and lower-middle-income countries, yet recognition and support remain limited where formal mental-health care is scarce, and family relationships govern health decisions. We report a five-month interview study with 20 mothers in urban, urban slum, and rural Bangladesh who had given birth within the previous two years. Mothers e",
+    "title": "It Was Better Not to Know: Digital Recognition, Family Authority, and Postpartum Mental Health in Bangladesh",
+    "url": "http://arxiv.org/abs/2611.16993v1"
+  },
+  "2611.17013v1": {
+    "authors": [
+      "Kamrul Hasan",
+      "Mehedi Hasan Raju",
+      "Oleg V. Komogortsev"
+    ],
+    "category": "cs.HC",
+    "summary": "Synthesizing high-frequency eye movements requires preserving long-range temporal dependencies and subject-specific oculomotor dynamics. However, methods based on generative adversarial networks (GANs) and variational autoencoders (VAEs) can struggle to preserve these characteristics simultaneously. We introduce DiffSSMEye, a conditional denoising diffusion probabilistic model with bidirectional S",
+    "title": "DiffSSMEye: Conditional High-Frequency Eye Movement Synthesis with Structured State-Space Diffusion",
+    "url": "http://arxiv.org/abs/2611.17013v1"
+  },
+  "2611.17018v1": {
+    "authors": [
+      "Qianjie Wei",
+      "Yifan Li",
+      "Zhen Bai"
+    ],
+    "category": "cs.HC",
+    "summary": "Prior research has shown that providing feedback on group dynamics can improve the quality of small-group conversations. However, publicly delivered feedback that targets specific individuals may reduce social acceptability due to negative experiences such as social pressure, embarrassment, and resistance. This work investigates how public feedback can be designed to remain socially acceptable whi",
+    "title": "Exploring Socially Acceptable 3D Feedback Design for Inclusive Small-Group Conversation",
+    "url": "http://arxiv.org/abs/2611.17018v1"
+  },
+  "2611.17058v1": {
+    "authors": [
+      "Stanley Huang",
+      "Anthony Baez",
+      "Catherine Yeh",
+      "Pat Pataranutaporn"
+    ],
+    "category": "cs.HC",
+    "summary": "Human-AI interaction today runs almost entirely through prompts and outputs, keeping AI systems opaque to general users. We introduce Neural Representation Interaction (NRI), a paradigm that treats the internal representations of neural networks as an interaction material people can inspect, steer, and edit. Situating NRI alongside graphical, tangible, and bio-computer interaction, we argue that t",
+    "title": "Neural Representations as New Modes of Interactivity",
+    "url": "http://arxiv.org/abs/2611.17058v1"
+  },
+  "2611.17101v1": {
+    "authors": [
+      "Mohammad Mahdi Habibi Bina",
+      "Mohammad Reza Daliri"
+    ],
+    "category": "cs.HC",
+    "summary": "P300-based brain-computer interfaces (BCIs) enable communication by decoding stimulus-evoked EEG responses into character selections without requiring voluntary motor output. Reliable P300 detection remains difficult because of low response amplitude and signal-to-noise ratio, while practical spellers require accurate character selection with few stimulus repetitions and low computational cost. We",
+    "title": "A Compact xDAWN-Guided Spatio-Temporal Network with Filter-Bank Convolution for P300 Detection",
+    "url": "http://arxiv.org/abs/2611.17101v1"
+  }
+}
