@@ -1,0 +1,344 @@
+{
+  "2611.13557v1": {
+    "authors": [
+      "Siddhartha Chatterjee"
+    ],
+    "category": "cs.DC",
+    "summary": "We present Darmok, the first automated system to reach superhuman performance on British cryptic crosswords. Unlike American-style crosswords, cryptic clues disguise an unmarked definition and compositional wordplay beneath a misleading surface reading, sparse grids leave nearly half of each word's letters unchecked, and tournament rules rank a grid with even a single wrong or blank square behind ",
+    "title": "Darmok: Championship Cryptic Crossword Solving via Constraint Tightening and Resilient Orchestration",
+    "url": "http://arxiv.org/abs/2611.13557v1"
+  },
+  "2611.13730v1": {
+    "authors": [
+      "Sayed Amir Karim"
+    ],
+    "category": "cs.DC",
+    "summary": "Optimized floating-point inference is not reproducible across environments: the same model on different hardware, compilers or thread counts can produce different bits. We present tritify, an open-source runtime that executes the forward pass of real models -- decoder-only language models, Mixture-of-Experts decoders, and the Segment Anything 2.1 image/video stack -- with the entire run-time path ",
+    "title": "Deterministic, Reproducible Inference in Exact Integer Arithmetic, and Verifiable Distributed Inference as Its Consequence",
+    "url": "http://arxiv.org/abs/2611.13730v1"
+  },
+  "2611.13740v1": {
+    "authors": [
+      "Goshgar Can Ismayilov"
+    ],
+    "category": "cs.DC",
+    "summary": "Large language models (LLMs) have been increasingly composed into multi-agent workflows to accomplish complex and multi-step tasks. As the open-weight models continue to close the performance gap with the proprietary ones, model parameters are becoming a less significant source of competitive advantage in the artificial intelligence market. Yet how these models are efficiently scheduled onto distr",
+    "title": "Multi-Objective Scheduling of LLM-Based Multi-Agent Workflows in Cloud Computing",
+    "url": "http://arxiv.org/abs/2611.13740v1"
+  },
+  "2611.13802v1": {
+    "authors": [
+      "Qi Luo",
+      "Ziwen Wang",
+      "Kunlin Li",
+      "Changxi Liu",
+      "Yun Chen"
+    ],
+    "category": "cs.DC",
+    "summary": "LLM services have become essential infrastructure for applications such as chat assistants and coding agents. Service providers need to attribute resource consumption to individual requests for purposes such as billing. Among these resources, energy is a key metric for assessing the cost of serving each request. However, serving engines batch requests together, and GPUs report only aggregate energ",
+    "title": "Scaling Shapley Energy Attribution to Large LLM Batches",
+    "url": "http://arxiv.org/abs/2611.13802v1"
+  },
+  "2611.14026v1": {
+    "authors": [
+      "Yuliya Sasinskaya",
+      "Natalie Carl",
+      "Niklas Kowallik",
+      "David Bermbach"
+    ],
+    "category": "cs.DC",
+    "summary": "Serverless computing promises to run code only on demand, yet the servers beneath it draw most of their power while idle, so energy consumption does not scale to zero with the workload. We show that the statelessness of serverless functions makes it possible to extend scale-to-zero from function instances to physical nodes, enabling energy proportionality. Our platform, built on tinyFaaS for clust",
+    "title": "Energy-Proportional Serverless Computing on SBC Clusters",
+    "url": "http://arxiv.org/abs/2611.14026v1"
+  },
+  "2611.14051v1": {
+    "authors": [
+      "Zhikun Tao",
+      "Fangyong Jin",
+      "Junping Zhao"
+    ],
+    "category": "cs.DC",
+    "summary": "Reusing key--value (KV) caches across language model updates could avoid repeated computation of shared context, but changes in model weights raise a fundamental question about what these caches preserve. We investigate direct cache reuse across four model updates, with a detailed study of DeepSeek-V4-Flash to Flash-0731. Our central finding is that caches can retain useful task information withou",
+    "title": "Can KV Cache Be Reused Across Model Updates? A DeepSeek-V4-Flash Case Study",
+    "url": "http://arxiv.org/abs/2611.14051v1"
+  },
+  "2611.14204v1": {
+    "authors": [
+      "Faveo Hörold",
+      "Georgiana Mania",
+      "Panagiotis Adamidis",
+      "Harshada Balasubramanian",
+      "Jörg Behrens"
+    ],
+    "category": "cs.DC",
+    "summary": "Scientific computing is under increasing pressure to adapt to HPC hardware that is shaped by AI workloads. In these modern ecosystems, extracting reasonable performance without investing major engineering effort is a central issue for domain scientists. Correctness constraints and intricate reference implementations represent further impediments to development. Instead of using a double-precision ",
+    "title": "Performance Portability Explained: Insights from accelerating ICON microphysics",
+    "url": "http://arxiv.org/abs/2611.14204v1"
+  },
+  "2611.14239v1": {
+    "authors": [
+      "Ziming Wang",
+      "Kun Huang",
+      "Karl Henrik Johansson",
+      "Shi Pu"
+    ],
+    "category": "cs.DC",
+    "summary": "In this paper, we study the convergence of Federated Averaging (FedAvg) with partial participation under a general variance condition. In each communication round, the server samples $S$ of the $n$ clients uniformly at random without replacement. The stochastic gradients are assumed to satisfy the so-called ABC condition, which allows their variance to grow with the local objective gaps. For smoot",
+    "title": "On Federated Averaging with Partial Participation under a General Variance Condition",
+    "url": "http://arxiv.org/abs/2611.14239v1"
+  },
+  "2611.14462v1": {
+    "authors": [
+      "Vagn Krister Nes Glomsrud",
+      "Mathias Bynke",
+      "Lars Henry Berge Olsen",
+      "Dennis Christensen"
+    ],
+    "category": "cs.LG",
+    "summary": "We use TabPFN, a recently developed tabular foundation model, to predict three properties of energetic materials: impact sensitivity, decomposition temperature and crystal density. Without any hyperparameter tuning, TabPFN outperforms the best published models for all three properties. It also substantially outperforms a wide range of established machine-learning models, including tuned gradient b",
+    "title": "Accurate predictions of properties of energetic materials with tabular foundation models",
+    "url": "http://arxiv.org/abs/2611.14462v1"
+  },
+  "2611.14463v1": {
+    "authors": [
+      "Nathaniel S. O'Connell",
+      "Jaime L. Speiser"
+    ],
+    "category": "cs.LG",
+    "summary": "Cross-validation estimates predictive performance by repeatedly splitting the data into training and validation sets, fitting the model on the first and evaluating it on the second. Every observation influences the estimate in two roles, through its own evaluation when it is held out and through the models it helps fit when it trains. The random splits determine its weight in each role. From this ",
+    "title": "A Theory of Cross-Validation Variance",
+    "url": "http://arxiv.org/abs/2611.14463v1"
+  },
+  "2611.14467v1": {
+    "authors": [
+      "Audrey Huang",
+      "Nan Jiang",
+      "Sham M. Kakade",
+      "Sadhika Malladi",
+      "Akshay Krishnamurthy"
+    ],
+    "category": "cs.LG",
+    "summary": "Policy optimization is central to language model post-training, yet principled guidance remains limited. We revisit its theoretical foundations to identify algorithms that learn near-optimal policies using total samples and gradient steps governed by the base model's response coverage, a measure of how readily it generates optimal responses. We call such algorithms coverage-preserving. This guaran",
+    "title": "A Theory of Policy Optimization in Post-Training: Coverage Collapse and Reference Resets",
+    "url": "http://arxiv.org/abs/2611.14467v1"
+  },
+  "2611.14468v1": {
+    "authors": [
+      "Duc-Lam Duong"
+    ],
+    "category": "cs.LG",
+    "summary": "We study Bayesian inference of persistence from early observations of a heterogeneous susceptible--infected--susceptible (SIS) reaction--diffusion model with standard incidence. We show that the leading prevalence dynamics depend on the unknown coefficients only through the difference between the transmission and recovery rates and the infected diffusivity. The same pair determines the principal e",
+    "title": "Bayesian inverse problems and epidemic-threshold uncertainty for a heterogeneous SIS reaction-diffusion model",
+    "url": "http://arxiv.org/abs/2611.14468v1"
+  },
+  "2611.14469v1": {
+    "authors": [
+      "Guorui Lu",
+      "Qinyu Chen"
+    ],
+    "category": "cs.LG",
+    "summary": "Visual Question Answering (VQA) imposes substantial computational overhead on vision-language models (VLMs), motivating model-agnostic input reduction methods that can be readily applied across diverse VLMs, including in black-box settings. Simply enforcing a visual-token cap reduces computation, but it can discard information needed to answer the question. A single reduction strategy also struggl",
+    "title": "C$^2$-Routing: Complementary Cropping and Compression for Efficient Vision-Language Inference",
+    "url": "http://arxiv.org/abs/2611.14469v1"
+  },
+  "2611.14491v1": {
+    "authors": [
+      "Peng Chen",
+      "Yihang Wang",
+      "Zhongwen Rao",
+      "Yang Shu",
+      "Yuying Qiu"
+    ],
+    "category": "cs.LG",
+    "summary": "Time series analytics has been widely applied across various domains. While existing time series foundation models (TSFMs) have demonstrated promising results, they still face two major challenges: 1) Most TSFMs mainly rely on stacking Transformer layers to increase parameter size, lacking the ability to adaptively model complex time series patterns from multi-domain data. 2) Current TSFMs are pri",
+    "title": "TimeSeek: Multi-Task and Multi-Domain Pretraining for Generalized Time Series Analytics",
+    "url": "http://arxiv.org/abs/2611.14491v1"
+  },
+  "2611.14492v1": {
+    "authors": [
+      "Kaiyuan Hou",
+      "Yang Ping Kuo",
+      "Indranil Bhattacharya",
+      "Rohith Nama",
+      "Arushi Gupta"
+    ],
+    "category": "cs.LG",
+    "summary": "Business process automation runs the same Standard Operating Procedure (SOP) again and again on new inputs. Large Language Model (LLM) agents can follow an SOP written in natural language, but they call an LLM to choose every step of every run, which adds latency and cost at scale. We present ReTrace, which turns an SOP and a few logged agent runs into a reusable workflow in which code, not an LLM",
+    "title": "ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows",
+    "url": "http://arxiv.org/abs/2611.14492v1"
+  },
+  "2611.14493v1": {
+    "authors": [
+      "Howard Zhang",
+      "Chuck Arvin",
+      "Logan Brown",
+      "Mihir Bhatia",
+      "Neelu Choudhary"
+    ],
+    "category": "cs.LG",
+    "summary": "Deploying LLM-based analytics agents in enterprise settings requires evaluation frameworks that can reliably detect failures across complex, multi-tool workflows. We present a three-phase comparative study of three evaluation frameworks, each representing a distinct evaluation paradigm (trace-based LLM judging, text-only LLM judging with red-teaming, and deterministic heuristics), applied to two a",
+    "title": "Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents",
+    "url": "http://arxiv.org/abs/2611.14493v1"
+  },
+  "2611.14504v1": {
+    "authors": [
+      "Adi Mashiach"
+    ],
+    "category": "cs.LG",
+    "summary": "Foundation models trained on large unlabeled corpora develop emergent capabilities, tasks that go beyond the training objective. We extend this paradigm to multimodal biology with Bonbon, a foundation model for molecular interactions trained on approximately 3.2 trillion tokens of paired protein-ligand sequences. From a single representation space, Bonbon exhibits three zero-shot emergent capabili",
+    "title": "Emergent Biological Capabilities in a Foundation Model for Molecular Interactions",
+    "url": "http://arxiv.org/abs/2611.14504v1"
+  },
+  "2611.14505v1": {
+    "authors": [
+      "Daniel Lenton"
+    ],
+    "category": "cs.LG",
+    "summary": "Agent harnesses have emerged as a promising mechanism for continual learning, alongside test-time parametric learning. However, the current benchmarks have several limitations: they generally focus on a single applied domain, serve each instance only once, and assume a single family of learner, so memory-based and weight-based systems are rarely compared on the same scale. We propose Continual-ARC",
+    "title": "Continual-ARC: Measuring Skill Acquisition over a Working Lifetime",
+    "url": "http://arxiv.org/abs/2611.14505v1"
+  },
+  "2611.14508v1": {
+    "authors": [
+      "Yeyuan Liu"
+    ],
+    "category": "cs.LG",
+    "summary": "Connectome-constrained models are often used to argue that a measured wiring diagram outperforms shuffled or rewired wiring, and hence that structure shapes function. Such comparisons can confound wiring with how the models are tuned: a connectome fixes who connects to whom, not the excitability, gains or plasticity rates the model also needs, and modellers often tune these until the real-wiring m",
+    "title": "When Does the Real Wiring Win? Testing connectome structure-function claims against unmeasured physiology",
+    "url": "http://arxiv.org/abs/2611.14508v1"
+  },
+  "2611.14511v1": {
+    "authors": [
+      "Megha Srivastava",
+      "Michael H. Lim",
+      "Allison M. Keys",
+      "Pranav Murugan",
+      "Nate Gruver"
+    ],
+    "category": "cs.LG",
+    "summary": "Predicting how a ligand binds to its target is central to small-molecule drug discovery. Modern cofolding models can generate diverse candidate poses, but reliably ranking these candidates remains challenging. We introduce Pyrite, a pairwise pose-ranking benchmark comprising 1,500 pose pairs across diverse protein-ligand complexes. Expert chemists equipped with 3D visualization tools and physics-b",
+    "title": "Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents",
+    "url": "http://arxiv.org/abs/2611.14511v1"
+  },
+  "2611.14514v1": {
+    "authors": [
+      "Ziang Liu",
+      "James J. Kim",
+      "Yijia Dai",
+      "Jennifer J. Sun"
+    ],
+    "category": "cs.LG",
+    "summary": "LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $\\neg h$. When evidence rejects $h$, the agent learns that one explanation is unlikely but not which alternative the evidence supports. To recover that alternative, we introduce Contrastive Discovery, which rep",
+    "title": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
+    "url": "http://arxiv.org/abs/2611.14514v1"
+  },
+  "2611.14515v1": {
+    "authors": [
+      "Zijian Zhang",
+      "Rizhen Hu",
+      "Jiangweizhi Peng",
+      "Shiyang Li",
+      "Sujay Bhatt"
+    ],
+    "category": "cs.LG",
+    "summary": "Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-time scaffolds, such as strategies or hints added to the prompt during training, offer a natural way to turn this information into guidance, but their design and adaptation are largely left to humans ",
+    "title": "AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models",
+    "url": "http://arxiv.org/abs/2611.14515v1"
+  },
+  "2611.14516v1": {
+    "authors": [
+      "Alex Shtoff"
+    ],
+    "category": "cs.LG",
+    "summary": "We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives. Its central operation maps batches of scalar inputs to points on curves represented in B-spline or Legendre polynomial bases, with differentiation through both inputs and coefficients. Curve coefficients can be optimized jointly with the surrounding model or produced by another network. T",
+    "title": "TorchCurves: Differentiable Parametric Curves",
+    "url": "http://arxiv.org/abs/2611.14516v1"
+  },
+  "2611.14741v1": {
+    "authors": [
+      "Yanbo Zhao",
+      "Yueming Hao",
+      "Zecheng Li",
+      "Mao Lin",
+      "Shuyin Jiao"
+    ],
+    "category": "cs.DC",
+    "summary": "Optimizing GPU data movement requires knowing which instructions access the same data and across which execution scopes reuse occurs. Existing profilers can attribute memory behavior to individual instructions but do not expose the reuse relations among them, while aliasing, dynamic indexing, and runtime parameters prevent static analysis from establishing these relations in general. Cycle-level s",
+    "title": "Reconstructing Fine-grained Memory Reuse Structure in GPU Kernels",
+    "url": "http://arxiv.org/abs/2611.14741v1"
+  },
+  "2611.14776v1": {
+    "authors": [
+      "Anish Saxena",
+      "Hritvik Taneja",
+      "Christos Kozyrakis",
+      "Aamer Jaleel"
+    ],
+    "category": "cs.DC",
+    "summary": "Large language model (LLM) inference demands ever more memory capacity for larger models and batch sizes. High-Bandwidth Flash (HBF) replaces the DRAM dies of HBM with NAND flash and provides up to 16x the capacity at comparable read bandwidth. However, HBF can incur a read latency of nearly 20$μ$s, 20x that of HBM, so on-demand HBF accesses slow inference by up to 12.8x. Conventional cache-line p",
+    "title": "SlipStream: Enabling HBF for GPU Systems by Mitigating the Latency and SRAM Overheads",
+    "url": "http://arxiv.org/abs/2611.14776v1"
+  },
+  "2611.14904v1": {
+    "authors": [
+      "Muralidhar Andoorveedu",
+      "Marius Juston",
+      "Tingkai Liu",
+      "Sanjay Patel"
+    ],
+    "category": "cs.DC",
+    "summary": "Large language model (LLM) decode is dominated by short, predominantly memory-bound kernels that make bursty use of on-chip execution resources and memory bandwidth. This paper introduces SubGPU Pipelining, a fine-grained, intra-GPU spatial execution model that cuts an operator graph into ordered contiguous segments, binds those segments to spatial stages backed by disjoint streaming-multiprocesso",
+    "title": "SubGPU Pipelining: Intra-GPU Fine-Grained Spatial Parallelism for LLM Inference",
+    "url": "http://arxiv.org/abs/2611.14904v1"
+  },
+  "2611.14916v1": {
+    "authors": [
+      "Nhut-Minh Ho",
+      "Tien Tuan Anh Dinh",
+      "Quang Trung Ta",
+      "Fredrik Svantes",
+      "Xiaokui Xiao"
+    ],
+    "category": "cs.DC",
+    "summary": "Smart contracts on Ethereum blockchain process transactions worth billions of US dollars daily. They run on top of Ethereum Virtual Machine (EVM) which executes transactions sequentially. This execution model creates a performance bottleneck, especially for new blockchain workloads with large numbers of transactions, such as security testing. We present CuEVM, a GPU-native and semantically complet",
+    "title": "CuEVM: Scaling Smart Contract Execution on GPUs",
+    "url": "http://arxiv.org/abs/2611.14916v1"
+  },
+  "2611.14962v1": {
+    "authors": [
+      "Shripad Nadgowda",
+      "Gaurav Mitra",
+      "Sing Sing Ma",
+      "Vipul Chaskar",
+      "Pradipta Ghosh"
+    ],
+    "category": "cs.DC",
+    "summary": "Pre-production changes are usually tested in isolated environments to prevent their side effects from reaching production. Some record-and-replay platforms allow a production-connected mode: candidate changes receive recorded production requests while selected downstream calls reach production dependencies. This improves fidelity before deployment, but it also introduces reliability risks. At hype",
+    "title": "FIRE: Failure Isolation and Reliability for Production-Connected Experiments at Scale",
+    "url": "http://arxiv.org/abs/2611.14962v1"
+  },
+  "2611.14969v1": {
+    "authors": [
+      "Yue Zhang",
+      "Zicong Ye",
+      "Lufang Chen",
+      "Dance Yang",
+      "Mingyang Li"
+    ],
+    "category": "cs.DC",
+    "summary": "Vision-language-action (VLA) models have emerged as a promising paradigm for general-purpose robotic manipulation. In our production setting, hundreds of VLA-powered robots are already operating in real-world environments, creating an immediate need for efficient fleet serving. We present XInfer, a production-deployed VLA serving system designed to reduce the inference infrastructure cost of large",
+    "title": "Scaling VLA Serving Under Robotic Execution Constraints",
+    "url": "http://arxiv.org/abs/2611.14969v1"
+  },
+  "2611.15032v1": {
+    "authors": [
+      "Seiya Nishizawa",
+      "Yuta Kawai",
+      "Xuanzhengbo Ren"
+    ],
+    "category": "cs.DC",
+    "summary": "We compare up to six implementations of an FP64 tensor-product discontinuous Galerkin operator at p = 7-1023 on GB200, H100, and A100 with fixed numerics, input, and code. The fastest path is machine dependent: at p = 511, a fused-epilogue GEMM path is 5.0% faster than a fused Tensor Core kernel on GB200 and 6.9% slower on A100. Nominal-peak scaling reproduces the A100 ranking but fails on H100, w",
+    "title": "Instruction-Aware Transfer of GPU Implementation Crossovers: a Tensor-Product Discontinuous Galerkin Operator on GB200, H100, and A100",
+    "url": "http://arxiv.org/abs/2611.15032v1"
+  }
+}
