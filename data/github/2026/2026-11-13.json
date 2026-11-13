@@ -1,0 +1,146 @@
+{
+  "Python": [
+    {
+      "created": "2026-11-10",
+      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
+      "name": "HybridRobotics/supermimic",
+      "stars": 1403,
+      "url": "https://github.com/HybridRobotics/supermimic"
+    },
+    {
+      "created": "2026-11-07",
+      "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
+      "name": "Th0rgal/satmux",
+      "stars": 1067,
+      "url": "https://github.com/Th0rgal/satmux"
+    },
+    {
+      "created": "2026-11-07",
+      "description": "Renders an r/homelab-style network diagram from a YAML inventory (Python → SVG/PNG). Written with Claude.",
+      "name": "Goblinmine/homelab-diagram",
+      "stars": 966,
+      "url": "https://github.com/Goblinmine/homelab-diagram"
+    },
+    {
+      "created": "2026-11-07",
+      "description": "See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
+      "name": "lxe/phoneuse",
+      "stars": 644,
+      "url": "https://github.com/lxe/phoneuse"
+    },
+    {
+      "created": "2026-11-09",
+      "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+      "name": "Dodaios/ste80-humanizer",
+      "stars": 474,
+      "url": "https://github.com/Dodaios/ste80-humanizer"
+    },
+    {
+      "created": "2026-11-09",
+      "description": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
+      "name": "Robbyant/lingbot-touch",
+      "stars": 464,
+      "url": "https://github.com/Robbyant/lingbot-touch"
+    },
+    {
+      "created": "2026-11-08",
+      "description": "Remove aircraft Doppler signatures from audio/video so recordings can't be geolocated from flyovers. Includes a reference attack scorer to measure it.",
+      "name": "lizTheDeveloper/flyover-scrub",
+      "stars": 341,
+      "url": "https://github.com/lizTheDeveloper/flyover-scrub"
+    },
+    {
+      "created": "2026-11-09",
+      "description": "MiniMax-H3-Image, an open-weight model for 16-megapixel image generation and editing.",
+      "name": "MiniMax-AI/MiniMax-H3-Image",
+      "stars": 333,
+      "url": "https://github.com/MiniMax-AI/MiniMax-H3-Image"
+    },
+    {
+      "created": "2026-11-07",
+      "description": "Agent Skill for fine-tuning an agentic model on your own Claude Code sessions with Tinker. Works in Claude Code, Codex and OpenCode.",
+      "name": "drost-ai/tinker-ai-skill",
+      "stars": 321,
+      "url": "https://github.com/drost-ai/tinker-ai-skill"
+    },
+    {
+      "created": "2026-11-09",
+      "description": "FlowHMR 的 Windows 桌面版：视频动捕、3D 预览和 FBX 导出。",
+      "name": "xiaoerofficial021-collab/FlowHMR-Windows",
+      "stars": 306,
+      "url": "https://github.com/xiaoerofficial021-collab/FlowHMR-Windows"
+    }
+  ],
+  "Rust": [
+    {
+      "created": "2026-11-11",
+      "description": "Relax Rust JIT",
+      "name": "makepad/relax",
+      "stars": 372,
+      "url": "https://github.com/makepad/relax"
+    },
+    {
+      "created": "2026-11-08",
+      "description": "Free open source PC cleaner for Windows: disk space, RAM, CPU, startup",
+      "name": "BeeCaptivate/pc-cleanup-optimizer",
+      "stars": 246,
+      "url": "https://github.com/BeeCaptivate/pc-cleanup-optimizer"
+    },
+    {
+      "created": "2026-11-10",
+      "description": "A Wayland shell with Material Design 3 Expressive, written in Rust",
+      "name": "bea4dev/shoji-bar-4",
+      "stars": 222,
+      "url": "https://github.com/bea4dev/shoji-bar-4"
+    },
+    {
+      "created": "2026-11-09",
+      "description": "Native macOS & iOS open-source banking app (FinTS/HBCI, PSD2, SEPA, MoneyMoney import) built with Rust & SwiftUI. Local SQLCipher vault, no subscription, no cloud.",
+      "name": "GiroCrab/GiroCrab",
+      "stars": 197,
+      "url": "https://github.com/GiroCrab/GiroCrab"
+    },
+    {
+      "created": "2026-11-07",
+      "description": "Free mouse double click test and fix for Windows 11/10. Finds ghost clicks (mouse chatter, switch bounce) on a strip chart, learns a debounce threshold from your real double-clicks, filters them syste",
+      "name": "MajestyPoemFold/ghostclick-mouse-double-click-fix",
+      "stars": 173,
+      "url": "https://github.com/MajestyPoemFold/ghostclick-mouse-double-click-fix"
+    },
+    {
+      "created": "2026-11-08",
+      "description": "Footstep equalizer for FPS games: auto EQ for Valorant, CS2, Apex",
+      "name": "SoldierMultiply/footstep-equalizer",
+      "stars": 160,
+      "url": "https://github.com/SoldierMultiply/footstep-equalizer"
+    },
+    {
+      "created": "2026-11-08",
+      "description": "Snipe WoW Forever auction deals before anyone else: buys low, posts high, undercuts for you. Free Windows app.",
+      "name": "basinshinobiend/wow-undercut-sniper",
+      "stars": 149,
+      "url": "https://github.com/basinshinobiend/wow-undercut-sniper"
+    },
+    {
+      "created": "2026-11-08",
+      "description": "Stick drift test and fix for Windows: gamepad tester, deadzone finder",
+      "name": "ToneProtectorSolve48/drift-doctor",
+      "stars": 145,
+      "url": "https://github.com/ToneProtectorSolve48/drift-doctor"
+    },
+    {
+      "created": "2026-11-08",
+      "description": "True stretched resolution for Valorant, Fortnite, CS2. No black bars",
+      "name": "majestydamseldecoder/truestretch-stretched-resolution",
+      "stars": 132,
+      "url": "https://github.com/majestydamseldecoder/truestretch-stretched-resolution"
+    },
+    {
+      "created": "2026-11-08",
+      "description": "Copia de seguridad de iCloud Fotos para Windows: completa, verificada y sin cortes.",
+      "name": "Z1Code/iCopy",
+      "stars": 129,
+      "url": "https://github.com/Z1Code/iCopy"
+    }
+  ]
+}
