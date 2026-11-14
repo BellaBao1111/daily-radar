@@ -1,0 +1,183 @@
+{
+  "2611.17246v1": {
+    "authors": [
+      "Tiago de Souza Farias",
+      "Caio Moraes Porto",
+      "Matheus da Silva Fonseca",
+      "Nicolas Armando Cabrera Carpi",
+      "Anderson de Araujo Oliveira"
+    ],
+    "category": "cs.LG",
+    "summary": "Large language models (LLMs) have recently demonstrated the ability to generate parameters for variational quantum circuits without conventional optimization. However, the conditions under which this approach is effective remain unclear. Here, we investigate a frozen, general-purpose LLM that generates complete circuit parameter vectors from symbolic circuit and Hamiltonian descriptions, with opti",
+    "title": "Programming Quantum Circuit Parameters with Large Language Models",
+    "url": "http://arxiv.org/abs/2611.17246v1"
+  },
+  "2611.17287v1": {
+    "authors": [
+      "Jiacheng Xu",
+      "Shuo He",
+      "Fuxiang Zhang",
+      "Chaojie Wang",
+      "Bo An"
+    ],
+    "category": "cs.LG",
+    "summary": "Reinforcement learning with verifiable rewards (RLVR) typically relies on a verifier that can reliably judge whether sampled solutions are correct. However, in many realistic settings, complete verification is generally unavailable, while cheap checks can only falsify failures. We formalize this regime as one-sided verifiability (OSV): verified negatives are reliable counterexamples, but verified ",
+    "title": "Negative-Only Policy Optimization for One-Sided Verifiable Rewards",
+    "url": "http://arxiv.org/abs/2611.17287v1"
+  },
+  "2611.17294v1": {
+    "authors": [
+      "Haozhe Wang",
+      "Lina Chen",
+      "Fanqi Wan",
+      "Qi Han",
+      "Yinmin Zhang"
+    ],
+    "category": "cs.LG",
+    "summary": "On-device inference requires kernels that make effective use of local accelerators. Efficient training and evaluation of models that generate Apple Metal kernels benefit from native macOS tools and concurrent agent sessions. These sessions alternate between model requests, development commands, and GPU execution, leaving GPU capacity idle for much of a rollout. We present Metal Sandbox, infrastruc",
+    "title": "Metal Sandbox: Isolated Execution and Command Scheduling for GPU Coding Agents on Apple Silicon",
+    "url": "http://arxiv.org/abs/2611.17294v1"
+  },
+  "2611.17297v1": {
+    "authors": [
+      "Arnab Sen Sharma",
+      "Eric Todd",
+      "Sheridan Feucht",
+      "Andy Arditi",
+      "Rohit Gandikota"
+    ],
+    "category": "cs.LG",
+    "summary": "We investigate whether and how LLMs encode goals: internal neural representations that precede and guide action, and that are flexible enough to be realized through many different execution paths. We construct a coding setting with multiple sub-tasks that allows us to evaluate goal-seeking behavior and the selection of sub-goals. In this setting, we localize an encoding of the next sub-goal in the",
+    "title": "Goal Encoding in LLMs",
+    "url": "http://arxiv.org/abs/2611.17297v1"
+  },
+  "2611.17298v1": {
+    "authors": [
+      "Gaurav Parmar",
+      "Zhengqi Li",
+      "Richard Zhang",
+      "Jun-Yan Zhu",
+      "Srinivasa Narasimhan"
+    ],
+    "category": "cs.LG",
+    "summary": "Interactive video-to-video applications require real-time generation while maintaining long-range temporal consistency. However, recent methods achieve speed by restricting attention to a fixed-length causal window. This limits long-range consistency whenever relevant history falls outside the context window. To address this limitation, we introduce vid2vid-long, a correspondence-based approach gr",
+    "title": "Consistent Video-to-Video Translation via Explicit Correspondences",
+    "url": "http://arxiv.org/abs/2611.17298v1"
+  },
+  "2611.17302v1": {
+    "authors": [
+      "Mohamed Alimoussa",
+      "Amal El Kaid"
+    ],
+    "category": "cs.LG",
+    "summary": "Local Binary Patterns (LBP) remain among the most widely used texture descriptors, from industrial inspection to medical imaging. Yet their radius, sampling angles, color transform and thresholds are fixed by hand for each dataset. We present FLEX-LBP, which learns these parameters by backpropagation while every forward pass computes exact binary codes and hard histogram counts. A straight-through",
+    "title": "FLEX-LBP: Learning Local Binary Patterns with Exact Binary Inference for Texture Classification",
+    "url": "http://arxiv.org/abs/2611.17302v1"
+  },
+  "2611.17303v1": {
+    "authors": [
+      "Tosca Lechner",
+      "Vinayak Pathak",
+      "Sivan Sabato",
+      "Ruth Urner"
+    ],
+    "category": "cs.LG",
+    "summary": "Debate has been recently proposed as a training protocol that is hoped to produce more aligned models even as model capabilities scale. The idea is that the human, instead of providing supervision in the form of labels, judges a debate between two models that compete to prove the correctness of opposite labels. It can be shown that functions of a much higher computational complexity can be correct",
+    "title": "Towards a Theory of Learnability via Debate",
+    "url": "http://arxiv.org/abs/2611.17303v1"
+  },
+  "2611.17308v1": {
+    "authors": [
+      "Félix Côté",
+      "Marie-Pier Côté"
+    ],
+    "category": "cs.LG",
+    "summary": "The short duration of general insurance contracts leads to rapid distributional shifts in the data, warranting regular model updates. This process may yield a post-update model that differs considerably from the pre-update model in both predictions and structure. Structural stability is upstream of predictive stability, yet existing structural stability metrics are mostly restricted to simple deci",
+    "title": "Quantifying structural stability of transparent models for general insurance pricing",
+    "url": "http://arxiv.org/abs/2611.17308v1"
+  },
+  "2611.17309v1": {
+    "authors": [
+      "Benjamin Hoover",
+      "Hugh Blayney",
+      "James C. R. Whittington"
+    ],
+    "category": "cs.LG",
+    "summary": "Looped models have emerged as a prominent paradigm for reasoning, with successes on simple reasoning puzzles such as Sudoku-Extreme and Maze-Unique. However, these models can be unstable, slow to train, and use many parameters and FLOPs to solve simple puzzles. Descent on an energy not only mitigates these issues but also offers advantages: built-in early stopping, compute that adapts to problem d",
+    "title": "Classical Energies Learn to Reason 1,000x Faster than Looped Models",
+    "url": "http://arxiv.org/abs/2611.17309v1"
+  },
+  "2611.17313v1": {
+    "authors": [
+      "Christopher Liaw",
+      "Aranyak Mehta",
+      "Grigoris Velegkas",
+      "Felix Zhou"
+    ],
+    "category": "cs.LG",
+    "summary": "Context attribution asks how removing parts of a prompt changes a language model's output. We study leave-one-out (LOO) attribution for a prompt of $n$ tokens and a fixed measurement function. Computing all LOO values directly requires $n$ model evaluations. Under a stability assumption, our algorithm estimates all LOO values to error proportional to $\\varepsilon$ with constant probability using $",
+    "title": "Sketching Language Models for Context Attribution",
+    "url": "http://arxiv.org/abs/2611.17313v1"
+  },
+  "2611.17314v1": {
+    "authors": [
+      "Abigail L. Tenenbaum",
+      "R. Thomas McCoy"
+    ],
+    "category": "cs.LG",
+    "summary": "Humans can learn rapidly from limited experience, while neural networks typically require extensive training. In this work, we investigate what properties of a neural network can enable it to learn rapidly. We study neural networks that have been optimized via meta-learning, a technique that exposes a network to many related functions to facilitate its subsequent learning of similar functions. Pri",
+    "title": "Linking Rapid Learning to Compositional Structure in Neural Networks: Evidence from Additive Analogies in Meta-Learned Parameter Spaces",
+    "url": "http://arxiv.org/abs/2611.17314v1"
+  },
+  "2611.17323v1": {
+    "authors": [
+      "Ethan Lin",
+      "Akanksha Sarkar",
+      "Ziang Liu",
+      "Kristin Branson",
+      "Jennifer J. Sun"
+    ],
+    "category": "cs.LG",
+    "summary": "Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline design, they have been studied almost exclusively in fully supervised settings, leaving them untested in realistic regimes where labeled data is scarce but unlabeled data is abundant. In this work, we i",
+    "title": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
+    "url": "http://arxiv.org/abs/2611.17323v1"
+  },
+  "2611.17329v1": {
+    "authors": [
+      "Zeynep Yıldız",
+      "Satchit Chatterji",
+      "Ercan Atam",
+      "Erman Acar"
+    ],
+    "category": "cs.LG",
+    "summary": "Institutional portfolios operate under investment policy statements that specify asset allocation constraints, often conditioned on market regime information. Deep reinforcement learning has been shown to optimize financial performance but typically does not enforce rule compliance, making it unsuitable for real-world deployment. Existing neurosymbolic methods such as Probabilistic Logic Policy Gr",
+    "title": "Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation",
+    "url": "http://arxiv.org/abs/2611.17329v1"
+  },
+  "2611.17332v1": {
+    "authors": [
+      "Jie Wang",
+      "Tong Zhu",
+      "JiaHao Kuang",
+      "Zhe Xu",
+      "Yunkai Chai"
+    ],
+    "category": "cs.LG",
+    "summary": "Model architecture shapes the scaling behavior, training efficiency, and inference cost of LLMs, making it a central focus of both industry and academia. In industry, teams such as those behind DeepSeek, Qwen, and Kimi routinely introduce architectural innovations, yet public reports rarely document which ideas succeeded, which were abandoned, and why. In academia, limited compute and inconsistent",
+    "title": "ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research",
+    "url": "http://arxiv.org/abs/2611.17332v1"
+  },
+  "2611.17334v1": {
+    "authors": [
+      "Ellis Brown",
+      "Chris Hoang",
+      "Shengyi Qian",
+      "Shang-Wen Li",
+      "Mike Lewis"
+    ],
+    "category": "cs.LG",
+    "summary": "How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language model or remove it entirely. Vision encoders bundle together three design choices: a visual prior from upstream pretraining, dedicated vision capacity, and pre-fusion placement of that capacity (i.e.",
+    "title": "Unbundling Multimodal Vision Encoding",
+    "url": "http://arxiv.org/abs/2611.17334v1"
+  }
+}
