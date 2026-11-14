@@ -4,7 +4,7 @@ A small bot that keeps a daily log of what is happening in tech: the Hacker News
 front page, fast-rising new GitHub repositories, and fresh arXiv papers. Each run
 picks a random subset of sources, so coverage varies from day to day.
 
-**4** daily digests so far · snapshots: hn 3, github 3, arxiv 4
+**4** daily digests so far · snapshots: hn 4, github 3, arxiv 4
 
 ## Recent digests
 
@@ -15,7 +15,7 @@ picks a random subset of sources, so coverage varies from day to day.
 
 ## Trending on Hacker News this week
 
-`agents` ×5 · `street` ×4 · `apple` ×4 · `claude` ×4 · `agent` ×3 · `live` ×3 · `work` ×3 · `jane` ×3 · `died` ×3 · `gemini` ×3 · `local` ×3 · `inference` ×3 · `jensen` ×3 · `huang` ×3 · `making` ×2
+`agents` ×6 · `claude` ×5 · `models` ×4 · `ground` ×4 · `all` ×4 · `live` ×4 · `street` ×4 · `apple` ×4 · `code` ×3 · `security` ×3 · `general` ×3 · `nvidia` ×3 · `found` ×3 · `support` ×3 · `issues` ×3
 
 ## How it works
 
