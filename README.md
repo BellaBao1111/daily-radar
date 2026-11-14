@@ -15,7 +15,7 @@ picks a random subset of sources, so coverage varies from day to day.
 
 ## Trending on Hacker News this week
 
-`agents` ×6 · `claude` ×5 · `models` ×4 · `ground` ×4 · `all` ×4 · `live` ×4 · `street` ×4 · `apple` ×4 · `code` ×3 · `security` ×3 · `general` ×3 · `nvidia` ×3 · `found` ×3 · `support` ×3 · `issues` ×3
+`agents` ×6 · `ground` ×6 · `claude` ×5 · `nvidia` ×5 · `found` ×5 · `stop` ×5 · `all` ×5 · `live` ×5 · `security` ×4 · `models` ×4 · `faa` ×4 · `issues` ×4 · `nationwide` ×4 · `system` ×4 · `jensen` ×4
 
 ## How it works
 
