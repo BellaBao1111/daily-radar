@@ -1,74 +1,146 @@
 {
+  "C++": [
+    {
+      "created": "2026-11-11",
+      "description": "Apex Neural Rendering (ANR) by Apex Compute",
+      "name": "apex-compute/ANR",
+      "stars": 1471,
+      "url": "https://github.com/apex-compute/ANR"
+    },
+    {
+      "created": "2026-11-07",
+      "description": "Native Windows PC port of Fire Emblem: Fortune's Weave by static recompilation. Bring your own dump; no game files included.",
+      "name": "Goldoire/fefw-recomp",
+      "stars": 706,
+      "url": "https://github.com/Goldoire/fefw-recomp"
+    },
+    {
+      "created": "2026-11-07",
+      "description": "Run real Linux kernel natively on iOS",
+      "name": "imxieyi/Kernarium",
+      "stars": 428,
+      "url": "https://github.com/imxieyi/Kernarium"
+    },
+    {
+      "created": "2026-11-10",
+      "description": "SOTA model-agnostic quantization for GGUF, local inference and beyond. Quantize and run text, image, video and audio models with llama.cpp, vLLM, Diffusers and PyTorch.",
+      "name": "huawei-csl/MACaQ",
+      "stars": 233,
+      "url": "https://github.com/huawei-csl/MACaQ"
+    },
+    {
+      "created": "2026-11-11",
+      "description": "Sega Rally 2 - PC Port",
+      "name": "snicolast/SegaRally2Native",
+      "stars": 160,
+      "url": "https://github.com/snicolast/SegaRally2Native"
+    },
+    {
+      "created": "2026-11-10",
+      "description": "Because AirDrop was never supposed to work on Intel Wi-Fi.",
+      "name": "retropineaple/ForbiddenItlwm",
+      "stars": 138,
+      "url": "https://github.com/retropineaple/ForbiddenItlwm"
+    },
+    {
+      "created": "2026-11-10",
+      "description": "StarFox Remake [recompiled]: static recompilation of Star Fox (Nintendo Switch 2) into a native Windows app, built on your PC from your own copy. No game files included.",
+      "name": "SerenityG4K/SpaceAnimalsRecomp",
+      "stars": 130,
+      "url": "https://github.com/SerenityG4K/SpaceAnimalsRecomp"
+    },
+    {
+      "created": "2026-11-08",
+      "description": "Working multiplayer for the Ocarina of Time remake: first on an emulator, then in a native recomp.",
+      "name": "daurosk/oot-remake-multiplayer",
+      "stars": 123,
+      "url": "https://github.com/daurosk/oot-remake-multiplayer"
+    },
+    {
+      "created": "2026-11-10",
+      "description": "Omarchy's file manager: airy, keyboard-first, and following the theme",
+      "name": "omacom/folio",
+      "stars": 110,
+      "url": "https://github.com/omacom/folio"
+    },
+    {
+      "created": "2026-11-07",
+      "description": "13 Sentinels: Aegis Rim native PC port for Windows and Linux, with direct PS4 PKG installation, TRG launcher and modern graphics options",
+      "name": "saulob/13-sentinels-aegis-rim-pc",
+      "stars": 101,
+      "url": "https://github.com/saulob/13-sentinels-aegis-rim-pc"
+    }
+  ],
   "Python": [
     {
       "created": "2026-11-10",
       "description": "Humanoid whole-body motion tracking with one differentiable world model.",
       "name": "HybridRobotics/supermimic",
-      "stars": 1403,
+      "stars": 1435,
       "url": "https://github.com/HybridRobotics/supermimic"
     },
     {
       "created": "2026-11-07",
       "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
       "name": "Th0rgal/satmux",
-      "stars": 1067,
+      "stars": 1074,
       "url": "https://github.com/Th0rgal/satmux"
     },
     {
       "created": "2026-11-07",
       "description": "Renders an r/homelab-style network diagram from a YAML inventory (Python → SVG/PNG). Written with Claude.",
       "name": "Goblinmine/homelab-diagram",
-      "stars": 966,
+      "stars": 986,
       "url": "https://github.com/Goblinmine/homelab-diagram"
     },
     {
       "created": "2026-11-07",
       "description": "See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
       "name": "lxe/phoneuse",
-      "stars": 644,
+      "stars": 648,
       "url": "https://github.com/lxe/phoneuse"
-    },
-    {
-      "created": "2026-11-09",
-      "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
-      "name": "Dodaios/ste80-humanizer",
-      "stars": 474,
-      "url": "https://github.com/Dodaios/ste80-humanizer"
     },
     {
       "created": "2026-11-09",
       "description": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
       "name": "Robbyant/lingbot-touch",
-      "stars": 464,
+      "stars": 490,
       "url": "https://github.com/Robbyant/lingbot-touch"
+    },
+    {
+      "created": "2026-11-09",
+      "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+      "name": "Dodaios/ste80-humanizer",
+      "stars": 490,
+      "url": "https://github.com/Dodaios/ste80-humanizer"
     },
     {
       "created": "2026-11-08",
       "description": "Remove aircraft Doppler signatures from audio/video so recordings can't be geolocated from flyovers. Includes a reference attack scorer to measure it.",
       "name": "lizTheDeveloper/flyover-scrub",
-      "stars": 341,
+      "stars": 353,
       "url": "https://github.com/lizTheDeveloper/flyover-scrub"
     },
     {
       "created": "2026-11-09",
       "description": "MiniMax-H3-Image, an open-weight model for 16-megapixel image generation and editing.",
       "name": "MiniMax-AI/MiniMax-H3-Image",
-      "stars": 333,
+      "stars": 340,
       "url": "https://github.com/MiniMax-AI/MiniMax-H3-Image"
-    },
-    {
-      "created": "2026-11-07",
-      "description": "Agent Skill for fine-tuning an agentic model on your own Claude Code sessions with Tinker. Works in Claude Code, Codex and OpenCode.",
-      "name": "drost-ai/tinker-ai-skill",
-      "stars": 321,
-      "url": "https://github.com/drost-ai/tinker-ai-skill"
     },
     {
       "created": "2026-11-09",
       "description": "FlowHMR 的 Windows 桌面版：视频动捕、3D 预览和 FBX 导出。",
       "name": "xiaoerofficial021-collab/FlowHMR-Windows",
-      "stars": 306,
+      "stars": 324,
       "url": "https://github.com/xiaoerofficial021-collab/FlowHMR-Windows"
+    },
+    {
+      "created": "2026-11-07",
+      "description": "Agent Skill for fine-tuning an agentic model on your own Claude Code sessions with Tinker. Works in Claude Code, Codex and OpenCode.",
+      "name": "drost-ai/tinker-ai-skill",
+      "stars": 322,
+      "url": "https://github.com/drost-ai/tinker-ai-skill"
     }
   ],
   "Rust": [
