@@ -1,0 +1,218 @@
+{
+  "C++": [
+    {
+      "created": "2026-11-11",
+      "description": "Apex Neural Rendering (ANR) by Apex Compute",
+      "name": "apex-compute/ANR",
+      "stars": 1776,
+      "url": "https://github.com/apex-compute/ANR"
+    },
+    {
+      "created": "2026-11-14",
+      "description": "Malware Defender 2026 desktop setup with real-time protection against malware and ransomware, deep system scan with quarantine and removal, plus web shield that blocks phishing and malicious sites for",
+      "name": "brisk-thrush-husky/malware-defender-desktop",
+      "stars": 300,
+      "url": "https://github.com/brisk-thrush-husky/malware-defender-desktop"
+    },
+    {
+      "created": "2026-11-13",
+      "description": "DxO PhotoLab 10 2026 desktop setup with DeepPRIME XD denoising for clean high-ISO shots, optical corrections from measured lens profiles, and non-destructive RAW workflow with local adjustments on Win",
+      "name": "ben-miller-23/dxo-photolab-10-desktop",
+      "stars": 300,
+      "url": "https://github.com/ben-miller-23/dxo-photolab-10-desktop"
+    },
+    {
+      "created": "2026-11-13",
+      "description": "Xeno Roblox 2026 desktop setup with lightweight script runner, built-in script library with search, and auto-attach on game join for Windows 11",
+      "name": "amber-lance-72/xeno-roblox-desktop",
+      "stars": 300,
+      "url": "https://github.com/amber-lance-72/xeno-roblox-desktop"
+    },
+    {
+      "created": "2026-11-13",
+      "description": "Windows Optimizer 2026 desktop setup with temporary file cleaner, startup manager with measured boot impact, and one-click tweaks for services and scheduled tasks on Windows 11",
+      "name": "azure-teal-slope/windows-optimizer-desktop",
+      "stars": 299,
+      "url": "https://github.com/azure-teal-slope/windows-optimizer-desktop"
+    },
+    {
+      "created": "2026-11-13",
+      "description": "Kontakt 8 2026 desktop setup with industry-standard sampler for virtual instruments, thousands of libraries and the Kontakt Factory, plus a scripting engine to build your own instruments on Windows 11",
+      "name": "ben-cook-42/kontakt-8-desktop",
+      "stars": 299,
+      "url": "https://github.com/ben-cook-42/kontakt-8-desktop"
+    },
+    {
+      "created": "2026-11-13",
+      "description": "Native Instruments Kontakt 2026 desktop setup with industry-standard sampler for virtual instruments, thousands of libraries and the Kontakt Factory, plus a scripting engine to build your own instrume",
+      "name": "ben14-dunn/native-instruments-kontakt-desktop",
+      "stars": 299,
+      "url": "https://github.com/ben14-dunn/native-instruments-kontakt-desktop"
+    },
+    {
+      "created": "2026-11-14",
+      "description": "Topaz Video AI 2026 desktop setup with AI upscaling up to 16K with detail recovery, frame interpolation for smooth slow-motion, plus deinterlace, denoise and stabilize footage for Windows 11",
+      "name": "bradburns2001/topaz-video-ai-desktop",
+      "stars": 299,
+      "url": "https://github.com/bradburns2001/topaz-video-ai-desktop"
+    },
+    {
+      "created": "2026-11-13",
+      "description": "iObit Driver Booster 2026 desktop setup with one-click driver scan, offline installer with rollback, and game boost mode for Windows 11",
+      "name": "alex-wells-65/iobit-driver-booster-desktop",
+      "stars": 299,
+      "url": "https://github.com/alex-wells-65/iobit-driver-booster-desktop"
+    },
+    {
+      "created": "2026-11-14",
+      "description": "iZotope RX 11 2026 desktop setup with AI audio repair, denoise, de-reverb and de-click, dialogue isolation and spectral editor, plus music rebalance to remix stems from a mix for Windows 11",
+      "name": "brave-shell-07/izotope-rx-11-desktop",
+      "stars": 299,
+      "url": "https://github.com/brave-shell-07/izotope-rx-11-desktop"
+    }
+  ],
+  "Python": [
+    {
+      "created": "2026-11-10",
+      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
+      "name": "HybridRobotics/supermimic",
+      "stars": 1495,
+      "url": "https://github.com/HybridRobotics/supermimic"
+    },
+    {
+      "created": "2026-11-09",
+      "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+      "name": "Dodaios/ste80-humanizer",
+      "stars": 572,
+      "url": "https://github.com/Dodaios/ste80-humanizer"
+    },
+    {
+      "created": "2026-11-09",
+      "description": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
+      "name": "Robbyant/lingbot-touch",
+      "stars": 529,
+      "url": "https://github.com/Robbyant/lingbot-touch"
+    },
+    {
+      "created": "2026-11-14",
+      "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "name": "duwqijlk/muse-protocol",
+      "stars": 501,
+      "url": "https://github.com/duwqijlk/muse-protocol"
+    },
+    {
+      "created": "2026-11-09",
+      "description": "FlowHMR for Windows: video-based motion capture, 3D preview, and motion export.",
+      "name": "xiaoerofficial021-collab/FlowHMR-Windows",
+      "stars": 385,
+      "url": "https://github.com/xiaoerofficial021-collab/FlowHMR-Windows"
+    },
+    {
+      "created": "2026-11-09",
+      "description": "Agent skill for narrated cinematic films built entirely from code: one continuous camera over photos, maps and cards, timed to the voice. Claude Code, Codex, Cursor, Gemini CLI.",
+      "name": "Moh4696/cinematic-skill",
+      "stars": 379,
+      "url": "https://github.com/Moh4696/cinematic-skill"
+    },
+    {
+      "created": "2026-11-08",
+      "description": "Remove aircraft Doppler signatures from audio/video so recordings can't be geolocated from flyovers. Includes a reference attack scorer to measure it.",
+      "name": "lizTheDeveloper/flyover-scrub",
+      "stars": 363,
+      "url": "https://github.com/lizTheDeveloper/flyover-scrub"
+    },
+    {
+      "created": "2026-11-09",
+      "description": "MiniMax-H3-Image, an open-weight model for 16-megapixel image generation and editing.",
+      "name": "MiniMax-AI/MiniMax-H3-Image",
+      "stars": 362,
+      "url": "https://github.com/MiniMax-AI/MiniMax-H3-Image"
+    },
+    {
+      "created": "2026-11-11",
+      "description": "Mac + Codex + 拓竹的个人 3D 打印工作台与工作流。允许非商业修改与再发布，保留署名。",
+      "name": "AFangTeam/PrintLab",
+      "stars": 301,
+      "url": "https://github.com/AFangTeam/PrintLab"
+    },
+    {
+      "created": "2026-11-14",
+      "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes.",
+      "name": "Titanlushrink/IPTV_Player_2.0",
+      "stars": 300,
+      "url": "https://github.com/Titanlushrink/IPTV_Player_2.0"
+    }
+  ],
+  "Swift": [
+    {
+      "created": "2026-11-09",
+      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+      "name": "huamidev/GestaltX",
+      "stars": 7542,
+      "url": "https://github.com/huamidev/GestaltX"
+    },
+    {
+      "created": "2026-11-10",
+      "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+      "name": "Kianuni/Erosion-CN",
+      "stars": 2050,
+      "url": "https://github.com/Kianuni/Erosion-CN"
+    },
+    {
+      "created": "2026-11-08",
+      "description": "",
+      "name": "dqhieu/Silica",
+      "stars": 184,
+      "url": "https://github.com/dqhieu/Silica"
+    },
+    {
+      "created": "2026-11-10",
+      "description": "A file explorer and tweak toolbox for iOS, built on the worse_query sandbox escape.",
+      "name": "ichitaso/Regitela",
+      "stars": 170,
+      "url": "https://github.com/ichitaso/Regitela"
+    },
+    {
+      "created": "2026-11-08",
+      "description": "Experimental CH/A iPhone Siri AI enabler with a high-risk option for older devices. Back up before use.",
+      "name": "H4CNPE/YumEdit",
+      "stars": 150,
+      "url": "https://github.com/H4CNPE/YumEdit"
+    },
+    {
+      "created": "2026-11-11",
+      "description": "A browser built for agents - no focus stealing, a tiny footprint, all tabs in one view.",
+      "name": "paul-nameless/agweb",
+      "stars": 122,
+      "url": "https://github.com/paul-nameless/agweb"
+    },
+    {
+      "created": "2026-11-11",
+      "description": "",
+      "name": "MchinaMd57764/WQToolkit",
+      "stars": 119,
+      "url": "https://github.com/MchinaMd57764/WQToolkit"
+    },
+    {
+      "created": "2026-11-08",
+      "description": "The Legend of Zelda: Ocarina of Time (Switch 2 Edition) on iPhone, built on your Mac from your own copy of the game",
+      "name": "dsi-hub/HookLink",
+      "stars": 114,
+      "url": "https://github.com/dsi-hub/HookLink"
+    },
+    {
+      "created": "2026-11-11",
+      "description": "🛡️ 面向 iOS 26.2+/27.x 的 100% 只读开源沙盒越权检测、侧载 IPA 审查与固件 CVE 防护工具 | 100% Read-Only iOS Sandbox Escape Scanner, IPA Auditor & Firmware CVE Guard",
+      "name": "Kianuni/WQGuard",
+      "stars": 92,
+      "url": "https://github.com/Kianuni/WQGuard"
+    },
+    {
+      "created": "2026-11-08",
+      "description": "Native compilation enhancements, crash fixes, keyboard/mouse controls, and performance tweaks for Ocarina of Time on Apple Silicon macOS. (Base .nup required from user's own console)",
+      "name": "PranavDupati/ninboy-hat-for-macos",
+      "stars": 82,
+      "url": "https://github.com/PranavDupati/ninboy-hat-for-macos"
+    }
+  ]
+}
