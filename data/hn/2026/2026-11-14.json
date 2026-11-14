@@ -1,0 +1,212 @@
+{
+  "50416011": {
+    "author": "dverlaeckt80",
+    "comments": 1,
+    "points": 52,
+    "title": "Reverse engineering a vintage diode-transistor logic chip",
+    "url": "https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html"
+  },
+  "50440709": {
+    "author": "casi",
+    "comments": 250,
+    "points": 425,
+    "title": "Why get an expensive Pi when I have an old phone?",
+    "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/"
+  },
+  "50441444": {
+    "author": "DeepLogin",
+    "comments": 84,
+    "points": 135,
+    "title": "Generative AI uses more energy on non-English text",
+    "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/"
+  },
+  "50453613": {
+    "author": "mart9",
+    "comments": 4,
+    "points": 13,
+    "title": "A QR code that says who made it",
+    "url": "https://qrsig.org/"
+  },
+  "50453901": {
+    "author": "PaulHoule",
+    "comments": 10,
+    "points": 24,
+    "title": "Seagate's new hybrid drive raises some old questions",
+    "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/"
+  },
+  "50467278": {
+    "author": "torutofu",
+    "comments": 32,
+    "points": 52,
+    "title": "Testing a Trash Can Faraday Cage",
+    "url": "https://www.jefftk.com/p/testing-a-trash-can-faraday-cage"
+  },
+  "50467987": {
+    "author": "DASD",
+    "comments": 1,
+    "points": 28,
+    "title": "C3 0.8.6:Library fetching,30% smaller safe-mode binaries,and stricter type rules",
+    "url": "https://c3-lang.org/blog/c3_0_8_6_fetching_libraries/"
+  },
+  "50478632": {
+    "author": "RebelPotato",
+    "comments": 13,
+    "points": 88,
+    "title": "Let's Write a PostScript Interpreter",
+    "url": "https://beyondloom.com/blog/postscript.html"
+  },
+  "50493904": {
+    "author": "maximilianburke",
+    "comments": 137,
+    "points": 400,
+    "title": "Monkey Island: all 13 versions side by side",
+    "url": "https://monkeyisland.pages.dev/"
+  },
+  "50496051": {
+    "author": "hacb",
+    "comments": 1,
+    "points": 40,
+    "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
+    "url": "https://projectzero.google/2026/11/disclosure-policy.html"
+  },
+  "50496602": {
+    "author": "gslin",
+    "comments": 123,
+    "points": 325,
+    "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+    "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again"
+  },
+  "50496811": {
+    "author": "acossta",
+    "comments": 28,
+    "points": 109,
+    "title": "Advancing science and engineering with Antigravity's /teamwork",
+    "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/"
+  },
+  "50496885": {
+    "author": "aatish",
+    "comments": 6,
+    "points": 71,
+    "title": "A visual explanation of reinforcement learning",
+    "url": "https://aatishb.com/myriad/how-brains-learn/"
+  },
+  "50496976": {
+    "author": "mrkn1",
+    "comments": 48,
+    "points": 263,
+    "title": "KDE: The documentary [video]",
+    "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c"
+  },
+  "50497009": {
+    "author": "giuliomagnifico",
+    "comments": 138,
+    "points": 225,
+    "title": "Italy fines Meta $887M over Android users' data access",
+    "url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/"
+  },
+  "50497132": {
+    "author": "snipedbywifi",
+    "comments": 24,
+    "points": 107,
+    "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+    "url": "https://gitlab.com/snipedbywifi/terminactory"
+  },
+  "50497137": {
+    "author": "fursoy",
+    "comments": 16,
+    "points": 50,
+    "title": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
+    "url": "https://github.com/FURSOY/fursoy-cpu"
+  },
+  "50497147": {
+    "author": "paul_nameless",
+    "comments": 19,
+    "points": 66,
+    "title": "Show HN: Agweb – a browser for agents that stays out of your way",
+    "url": "https://github.com/paul-nameless/agweb"
+  },
+  "50497155": {
+    "author": "wondersky",
+    "comments": 56,
+    "points": 107,
+    "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+    "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/"
+  },
+  "50497416": {
+    "author": "iloveyoutwo",
+    "comments": 0,
+    "points": 20,
+    "title": "Demystifying phone unlocking tools: A technical overview",
+    "url": "https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/"
+  },
+  "50497589": {
+    "author": "VaibhaavTiwari",
+    "comments": 4,
+    "points": 80,
+    "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+    "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax"
+  },
+  "50497892": {
+    "author": "rbanffy",
+    "comments": 51,
+    "points": 148,
+    "title": "PyPI's redesigned project pages with clearer security signals are now live",
+    "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/"
+  },
+  "50497900": {
+    "author": "dnw",
+    "comments": 62,
+    "points": 101,
+    "title": "Formalizing US Tax Code (Using Lean)",
+    "url": "https://lexifina.com/blog/formalizing-the-us-tax-code"
+  },
+  "50498073": {
+    "author": "fagnerbrack",
+    "comments": 5,
+    "points": 26,
+    "title": "How to Create Your Own Decentralized Messenger Protocol",
+    "url": "https://karboosx.net/post/5j7jdDM3/how-to-create-your-own-decentralized-messenger-protocol"
+  },
+  "50498295": {
+    "author": "gdgghhhhh",
+    "comments": 0,
+    "points": 16,
+    "title": "Creating a self booting ZIP archive",
+    "url": "https://goliath32.com/blog/ziphead.html"
+  },
+  "50499017": {
+    "author": "armcat",
+    "comments": 84,
+    "points": 272,
+    "title": "Lovable apps expose passport details and more than 200K private messages",
+    "url": "https://www.crissyfield.de/research/lovable-en/"
+  },
+  "50499038": {
+    "author": "umerf",
+    "comments": 21,
+    "points": 70,
+    "title": "A Family Tree of Software Job Titles",
+    "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/"
+  },
+  "50499083": {
+    "author": "accountinhn",
+    "comments": 18,
+    "points": 57,
+    "title": "US IRS free online tax filing open source repo",
+    "url": "https://github.com/IRS-Public/direct-file"
+  },
+  "50499712": {
+    "author": "Muhammad523",
+    "comments": 4,
+    "points": 6,
+    "title": "A reimagined OS with no folders and no apps",
+    "url": "https://www.mercuryos.com/"
+  },
+  "50499723": {
+    "author": "gnabgib",
+    "comments": 3,
+    "points": 51,
+    "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
+    "url": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379"
+  }
+}
