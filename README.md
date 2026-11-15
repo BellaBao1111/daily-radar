@@ -4,10 +4,11 @@ A small bot that keeps a daily log of what is happening in tech: the Hacker News
 front page, fast-rising new GitHub repositories, and fresh arXiv papers. Each run
 picks a random subset of sources, so coverage varies from day to day.
 
-**5** daily digests so far · snapshots: hn 5, github 4, arxiv 5
+**6** daily digests so far · snapshots: hn 5, github 4, arxiv 6
 
 ## Recent digests
 
+- [2026-11-15](digests/2026/2026-11-15.md)
 - [2026-11-14](digests/2026/2026-11-14.md)
 - [2026-11-13](digests/2026/2026-11-13.md)
 - [2026-11-12](digests/2026/2026-11-12.md)
