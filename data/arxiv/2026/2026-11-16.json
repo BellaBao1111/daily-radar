@@ -1,0 +1,330 @@
+{
+  "2611.17440v1": {
+    "authors": [
+      "Ibragim Badertdinov",
+      "Alexander Golubev"
+    ],
+    "category": "cs.SE",
+    "summary": "Standard coding-agent benchmarks primarily evaluate binary task success, treating execution as a black box and obscuring the behaviors that produce those outcomes. We analyze a large corpus of 143,209 execution trajectories from 125 agent configurations spanning 117 unique models. To enable comparisons across heterogeneous agent interfaces, we develop a rule-based parser that maps raw execution tr",
+    "title": "Interpreting Coding Agents Through Their Behavioral Trajectories",
+    "url": "http://arxiv.org/abs/2611.17440v1"
+  },
+  "2611.17527v1": {
+    "authors": [
+      "Ramesh Arvind Naagarajan"
+    ],
+    "category": "cs.SE",
+    "summary": "Running open-weight language models locally on a single consumer GPU requires replacing expanding multi-turn exploration histories with short, stateless code inspections. Stateless repository localization, however, hinges on a foundational question: when a frozen language model evaluates an unedited code entity from a compact view, which structural relationships make its relevance judgment informa",
+    "title": "GraphScent: Calibrating Directional Relevance Signals for Bounded-Context Code Localization",
+    "url": "http://arxiv.org/abs/2611.17527v1"
+  },
+  "2611.17581v1": {
+    "authors": [
+      "Biruk Tadesse",
+      "Lawrence Arkoh",
+      "Marcelo D'Amorim",
+      "Wesley K. G. Assunção"
+    ],
+    "category": "cs.SE",
+    "summary": "Large language models (LLMs) have shown promising results for C-to-Rust translation, yet existing approaches primarily rely on source code as input, leaving natural-language specifications of program behavior underexplored as an alternative or complementary representation. We hypothesize that direct code translation encourages LLMs to preserve C-specific implementation choices, producing Rust that",
+    "title": "Beyond Source Code: Evaluating Natural Language Specifications for LLM-Based C-to-Rust Translation",
+    "url": "http://arxiv.org/abs/2611.17581v1"
+  },
+  "2611.17605v1": {
+    "authors": [
+      "Aditi Patodiya"
+    ],
+    "category": "cs.SE",
+    "summary": "A developer running a code assistant on a laptop downloads one model file, and local inference moves the energy of every request onto that machine. A common rule says a larger model at lower precision tends to beat a smaller one at higher precision. We ran 24 GGUF files of Qwen2.5-Coder at four sizes on a fanless MacBook Air M2 and priced each in energy per solved task on 542 EvalPlus tasks. The r",
+    "title": "Choosing Quantized Code LLMs by File Size and Energy per Solved Task",
+    "url": "http://arxiv.org/abs/2611.17605v1"
+  },
+  "2611.17669v1": {
+    "authors": [
+      "Yoshiki Higo",
+      "Inase Kondo",
+      "Masanari Kondo",
+      "Yasutaka Kamei"
+    ],
+    "category": "cs.SE",
+    "summary": "The SZZ algorithm traces a bug-fixing commit back to the commits that introduced the bug. Its labels underlie defect-prediction data sets and many mining software repositories studies. SZZ implementations are mostly evaluated against oracles mined from real projects. Such oracles are realistic, but each case mixes the history factors that make an implementation succeed or fail, and an aggregate sc",
+    "title": "SZZBench: Controlled Git Histories with Explicit Oracles for Diagnosing SZZ Implementations",
+    "url": "http://arxiv.org/abs/2611.17669v1"
+  },
+  "2611.17672v1": {
+    "authors": [
+      "Alex Reinking"
+    ],
+    "category": "cs.SE",
+    "summary": "Meta build systems such as CMake, Meson and Bazel derive command graphs from project descriptions, user choices and machine facts. Imperative scripts, search paths and special cases make routine decisions interact poorly: search order can choose compatible packages without an explicit project choice, packagers must patch author flag preferences, and cross-builds need annotations or nested build tr",
+    "title": "Meta Build Systems as Logic Programs",
+    "url": "http://arxiv.org/abs/2611.17672v1"
+  },
+  "2611.17681v1": {
+    "authors": [
+      "Kehang Li",
+      "Xinlan Xu",
+      "Yulin Jin",
+      "Heng Cao",
+      "Xuchen Li"
+    ],
+    "category": "cs.SE",
+    "summary": "Complete game generation requires agents to coordinate rules, interactions, states, and presentation over a long development process. A single aggregate score obscures which capabilities are implemented and which requirements remain unmet. We present OCTAVE, a benchmark for complete HTML5 game generation organized around eight Capability Dimensions, with 180 tasks and 1,800 Evaluation Requirements",
+    "title": "OCTAVE: A Capability-Resolved Benchmark for End-to-End HTML5 Game Generation",
+    "url": "http://arxiv.org/abs/2611.17681v1"
+  },
+  "2611.17713v1": {
+    "authors": [
+      "Jialiang Wei",
+      "Walid Maalej"
+    ],
+    "category": "cs.SE",
+    "summary": "While AI agents increasingly generate and modify user interfaces, they rarely rely on a visual design specification for a certain project. The DESIGN$.$md format, which originated from Google's AI design tool Stitch and which was open-sourced in April 2026, addresses this gap by describing a visual identity through design tokens (such as named colors, text styles) and Markdown prose. To our knowle",
+    "title": "DesignSpecs: A DESIGN.md Dataset of Visual Design Specifications for AI Agents",
+    "url": "http://arxiv.org/abs/2611.17713v1"
+  },
+  "2611.17880v1": {
+    "authors": [
+      "Mike He",
+      "Ankush Desai",
+      "Sharad Malik",
+      "Aarti Gupta"
+    ],
+    "category": "cs.SE",
+    "summary": "LLM agents that execute multi-step tool calls must satisfy two objectives simultaneously: completing the user's task (utility) and conforming to domain policies and correctness constraints (safety). These objectives are in tension -- blocking an unsafe action prevents a violation but can leave the agent stranded with no principled way to recover. Existing approaches sacrifice one objective for the",
+    "title": "Soteria: Formally Verified Planning with Runtime Enforcement for Safe LLM Agents",
+    "url": "http://arxiv.org/abs/2611.17880v1"
+  },
+  "2611.18030v1": {
+    "authors": [
+      "Rui Rua",
+      "Hailemariam Mersha",
+      "Joao Paulo Fernandes",
+      "Karim Ali"
+    ],
+    "category": "cs.SE",
+    "summary": "Industry now relies on LLMs to write a large share of production code. Although that code is mostly, but not always, correct, correctness alone does not determine whether it is fit for repeated and extensive use, which depends on what the code costs in time, memory and energy. Most code-generation benchmarks nonetheless evaluate correctness in isolation, and most performance-oriented benchmarks co",
+    "title": "PerfArena: Ranking LLMs by Code Performance",
+    "url": "http://arxiv.org/abs/2611.18030v1"
+  },
+  "2611.18293v1": {
+    "authors": [
+      "Hua Yang",
+      "Aditya Bhardwaj",
+      "Shidong Pan",
+      "Bowen Xu"
+    ],
+    "category": "cs.SE",
+    "summary": "Coding agents increasingly review code, yet whether they catch the privacy defects that laws such as the GDPR require software to avoid remains largely untested, partly because few datasets connect real privacy defects to their accepted fixes and review context. We present PrivacyPR, a dataset of 4,131 merged GitHub pull requests (PRs) from 1,469 repositories, created between June 2018 and January",
+    "title": "PrivacyPR: A Dataset of Real-World Privacy Fixes for Benchmarking Privacy-Aware Code Review",
+    "url": "http://arxiv.org/abs/2611.18293v1"
+  },
+  "2611.18439v1": {
+    "authors": [
+      "Helma Torkamaan",
+      "Masoud Mansoury",
+      "Yanan Xin",
+      "Oscar Oviedo Trespalacios",
+      "Roberta Savella"
+    ],
+    "category": "cs.SE",
+    "summary": "The EU AI Act imposes technical and organizational requirements for high-risk AI systems, but applying these requirements involves contextual choices about what to measure and what evidence supports a compliance claim. We investigate these challenges through a participatory workshop involving 32 researchers, policymakers, and practitioners from different disciplines, using realistic scenarios in h",
+    "title": "Between Obligations and Evidence: A Participatory Study of Translating the EU AI Act into Technical Requirements",
+    "url": "http://arxiv.org/abs/2611.18439v1"
+  },
+  "2611.18443v1": {
+    "authors": [
+      "Xiang Li",
+      "Siyu Lu",
+      "Federica Sarro",
+      "Claire Le Goues",
+      "He Ye"
+    ],
+    "category": "cs.SE",
+    "summary": "Modern coding agents rely on establishing executable software environments before they can perform software engineering tasks such as testing, debugging, and patch validation. Existing setup agents typically control progress at either single-command or whole-script granularity, making recovery either too local to remove polluted state or too coarse to preserve useful progress. We present HerAgent ",
+    "title": "HerAgent: A Block-Level Checkpointing Harness for Coding-Agent Environment Setup",
+    "url": "http://arxiv.org/abs/2611.18443v1"
+  },
+  "2611.18477v1": {
+    "authors": [
+      "Mengfan Xu",
+      "Zirui Liu",
+      "Juan Zhai",
+      "Shiqing Ma",
+      "Barry Nelson"
+    ],
+    "category": "cs.LG",
+    "summary": "We study feedback-driven black-box processes across software engineering and machine learning. These processes are inherently sequential: policies generate inputs, observe outputs/feedback from systems, and use the feedback to guide the design of subsequent inputs. While many policies are developed under structural assumptions on the underlying systems, many real-world systems operate without such",
+    "title": "Evaluating Feedback-Driven Black-Box Processes via Stochastic Modeling and Simulation",
+    "url": "http://arxiv.org/abs/2611.18477v1"
+  },
+  "2611.18480v1": {
+    "authors": [
+      "Mame Diarra Fall",
+      "Éric Barat",
+      "Nicolas Dobigeon"
+    ],
+    "category": "cs.LG",
+    "summary": "Regular exponential-family distributions are ubiquitous in statistics due to their appealing and convenient properties. Notably, they can be expressed in terms of Bregman divergences, revealing fundamental connections between statistics, convex analysis, and information geometry. However, this geometric structure has not been systematically exploited to characterize these distributions with respec",
+    "title": "Bregman geometry in regular exponential families: dual representations and relative smoothness",
+    "url": "http://arxiv.org/abs/2611.18480v1"
+  },
+  "2611.18484v1": {
+    "authors": [
+      "Ivana Ragusa",
+      "Lorenzo Guiducci",
+      "Filippo Cavallo"
+    ],
+    "category": "cs.SE",
+    "summary": "AI-enabled remote patient monitoring is evolving beyond passive data collection toward agentic AI systems that interpret patient states, coordinate care, and initiate action across domestic and clinical settings. This structured scoping review finds that mature agentic care has not yet emerged: Most systems remain human led, while stronger decision-action coupling and embodied AI remain largely co",
+    "title": "From AI-Enabled Remote Patient Monitoring Toward Agentic Robotics: Embodiment, Governance, and Care Integration",
+    "url": "http://arxiv.org/abs/2611.18484v1"
+  },
+  "2611.18485v1": {
+    "authors": [
+      "Robin Shing Moon Chan",
+      "Ryan Cotterell"
+    ],
+    "category": "cs.LG",
+    "summary": "Program induction refers to the process in which a learner aims to recover a program from a few given input-output examples. This paradigm broadens programming access by letting users demonstrate the rule-based behavior they want to apply to unseen data, instead of having to implement it themselves. However, recovering a program from finite input-output examples is fundamentally ambiguous, as a fi",
+    "title": "Interactive Program Induction with Language Model Priors",
+    "url": "http://arxiv.org/abs/2611.18485v1"
+  },
+  "2611.18507v1": {
+    "authors": [
+      "Omer Nezih Gerek"
+    ],
+    "category": "cs.LG",
+    "summary": "Classification heads built on conic functions give each class a bounded region of the feature space, and such regions are used to reject samples of unseen classes. We ask whether these regions also keep the features bounded when the head is trained with softmax cross-entropy. For a head whose class scores combine a linear term with a Euclidean norm, we first show that the region of each class is b",
+    "title": "Asymptotic Margins and Feature Confinement in Conic Classification Heads under Softmax Cross-Entropy",
+    "url": "http://arxiv.org/abs/2611.18507v1"
+  },
+  "2611.18511v1": {
+    "authors": [
+      "Brandon Amos"
+    ],
+    "category": "cs.LG",
+    "summary": "Barron et al. (2026) recently identified numerical issues in the softmax and soft cross-entropy loss. We show that similar issues are present in standard divergence operations between categorical distributions. This includes the forward and reverse Kullback-Leibler (KL) divergence and generalized Jensen-Shannon divergence (JSD), as well as Monte Carlo KL estimates and entropy. When the distributio",
+    "title": "On numerical issues of divergences between nearly equal distributions",
+    "url": "http://arxiv.org/abs/2611.18511v1"
+  },
+  "2611.18516v1": {
+    "authors": [
+      "Dayoon Ko",
+      "Yichuan Wang",
+      "Soyeong Jeong",
+      "Joseph E. Gonzalez",
+      "Gunhee Kim"
+    ],
+    "category": "cs.LG",
+    "summary": "Screen history can serve as searchable visual memory for people and agents, but unlike an offline corpus, it must be encoded and indexed as each screenshot arrives. OCR-based indexing is fast but loses visual information; visual encoding takes over two seconds. Yet screens change incrementally: most pixels repeat within and across screenshots. This raises a question: do visual encoders need to rec",
+    "title": "StreamEmbed: Real-Time Indexing from Pixels for Screenshot Retrieval",
+    "url": "http://arxiv.org/abs/2611.18516v1"
+  },
+  "2611.18530v1": {
+    "authors": [
+      "Abhilekha Dalal",
+      "Avishek Das",
+      "Samatha Ereshi Akkamahadevi"
+    ],
+    "category": "cs.LG",
+    "summary": "Convolutional Neural Networks (CNNs) can classify images using background-dominated patches that contain little or none of the target object, showing that they exploit contextual information. Previous studies detected this behavior through classification accuracy but say little about what CNN hidden layers represent. We investigate whether Concept Induction can reveal interpretable visual properti",
+    "title": "Understanding Contextual Bias in Agricultural CNNs Through Hidden-Neuron Concept Induction",
+    "url": "http://arxiv.org/abs/2611.18530v1"
+  },
+  "2611.18533v1": {
+    "authors": [
+      "Zelin He",
+      "Siyu Zhu",
+      "Jacob Helwig",
+      "Yujian Liu",
+      "Li An"
+    ],
+    "category": "cs.LG",
+    "summary": "Agentic reinforcement learning (RL) increasingly relies on a harness, the scaffold around the model that decides what it sees of its own interaction and what guidance it receives. Most existing approaches train under a hand-written harness that stays fixed throughout. However, an effective harness depends on the domain, the data and the model, and keeps changing as the model trains. We introduce M",
+    "title": "ModHarness-RL: Recasting Harnesses as Learnable and Evolving Programs for Agentic RL",
+    "url": "http://arxiv.org/abs/2611.18533v1"
+  },
+  "2611.18538v1": {
+    "authors": [
+      "Mojtaba Soltanalian"
+    ],
+    "category": "cs.LG",
+    "summary": "An information system often has to learn before it knows what it will be asked. A finite representation can succeed without recording an infinite environment in full when those asks share collective structure, rather than demand unrelated facts scattered arbitrarily across it. We formalize this phenomenon through future-task information, the minimum retained information needed to preserve decision",
+    "title": "Why Finite Intelligence Works in an Infinite World: A Mathematical Theory",
+    "url": "http://arxiv.org/abs/2611.18538v1"
+  },
+  "2611.18542v1": {
+    "authors": [
+      "Cole Becker",
+      "Taylan Kargin",
+      "Kimia Hassibi",
+      "Asuman Ozdaglar",
+      "Pablo A. Parrilo"
+    ],
+    "category": "cs.LG",
+    "summary": "Generative modeling based on stochastic interpolants requires specifying two key choices: an interpolant schedule bridging the initial and target distributions, and an efficient discretization of the resulting probability-flow ODE. In this work, we introduce a new framework for joint schedule/discretization design based on the analyticity properties of the (complexified) ODE trajectories, which in",
+    "title": "Elliptic Sampling: Optimal Interpolant Schedules for Gaussians and Beyond",
+    "url": "http://arxiv.org/abs/2611.18542v1"
+  },
+  "2611.18553v1": {
+    "authors": [
+      "Aayush Marasini",
+      "Barsat Khadka",
+      "Nick Rahimi"
+    ],
+    "category": "cs.LG",
+    "summary": "Recent work shows that large language models (LLMs) can operate directly on the parameters of other neural networks. They can read what a network was trained to do, fix a network that fails, and write working networks from scratch, all without gradient descent. This capability has been termed Weight-Space Programming (WSP). Exploring this new paradigm systematically requires a robust benchmark. We",
+    "title": "WeightBench: Evaluating Language Models as Weight-Space Programmers",
+    "url": "http://arxiv.org/abs/2611.18553v1"
+  },
+  "2611.18559v1": {
+    "authors": [
+      "Genki Kinoshita",
+      "Ko Nishino"
+    ],
+    "category": "cs.LG",
+    "summary": "Learning semantically meaningful human movement representations from 3D pose sequences is essential for human behavior modeling. Existing self-supervised methods derive supervision from artificial assumptions, e.g., invariance to augmentation within a certain range or recoverability of masked regions at a certain temporal scale, introducing heuristic hyperparameters that make the learned semantics",
+    "title": "BAL: Bidirectional Autoregression in Latent Space for Learning Human Movement Representations",
+    "url": "http://arxiv.org/abs/2611.18559v1"
+  },
+  "2611.18561v1": {
+    "authors": [
+      "Jonathan D. McCart",
+      "Pranav I. Deevi",
+      "Mehdi Azabou",
+      "Nanda H. Krishna",
+      "Caleb A. McKinney"
+    ],
+    "category": "cs.LG",
+    "summary": "Recent advances in speech neuroprostheses have enabled new communication avenues for people who have lost the ability to speak due to neurological illness or injury. These systems can decode neural activity during attempted speech into text by relying on language priors to achieve high decoding accuracy. This performance currently comes at the cost of using a compute-intensive language modeling st",
+    "title": "FETTUCCINE: Fast and efficient brain-to-text decoding on mobile devices",
+    "url": "http://arxiv.org/abs/2611.18561v1"
+  },
+  "2611.18562v1": {
+    "authors": [
+      "Jiaming Tang",
+      "Zhuoyang Zhang",
+      "Junxian Guo",
+      "Fangzhou Zhao",
+      "Yilong Zhao"
+    ],
+    "category": "cs.LG",
+    "summary": "Robot-use agents (RUAs) have emerged as a promising approach to general-purpose robot control. However, strong performance has so far been achieved only by frontier proprietary models such as GPT-6 Astra and Claude Fable 5.2, whereas open-weight models remain substantially less capable. We show that an open-weight 27B reasoning model can be trained to use real robots natively through reinforcement",
+    "title": "Training Reasoning Models in Simulation to Natively Use Real Robots",
+    "url": "http://arxiv.org/abs/2611.18562v1"
+  },
+  "2611.18563v1": {
+    "authors": [
+      "Daniel Grimm",
+      "Kyra Jongman",
+      "Renato Cordeiro Ferreira",
+      "Giuseppe Cascavilla",
+      "Alfredo Cuzzocrea"
+    ],
+    "category": "cs.LG",
+    "summary": "Monitoring maritime activities is important for safety and security, particularly for detecting illegal activities, but remains challenging due to the size and complexity of the maritime domain. The Automatic Identification System (AIS) is commonly used for this purpose, despite its known vulnerabilities. In contrast, space-based radio frequency (RF) observations provide an independent source of v",
+    "title": "Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion",
+    "url": "http://arxiv.org/abs/2611.18563v1"
+  }
+}
