@@ -119,6 +119,103 @@
     "title": "PrivacyPR: A Dataset of Real-World Privacy Fixes for Benchmarking Privacy-Aware Code Review",
     "url": "http://arxiv.org/abs/2611.18293v1"
   },
+  "2611.18297v1": {
+    "authors": [
+      "Anthony Abou Mrad",
+      "Aviona Conti",
+      "Samuel Schmidgall",
+      "Jayanth Pratap",
+      "Ruhika Iyer"
+    ],
+    "category": "cs.CL",
+    "summary": "AI judges, models that grade another system's output against a rubric, extend clinical review to the scale at which clinical AI writes. When teams use judge assessments to select a prompt or train a model, the judge becomes part of the intervention. Selection can then favor errors the judge overlooks. We describe what a judge's report must contain and the independent clinical test each judge-drive",
+    "title": "When evaluation becomes intervention in clinical AI",
+    "url": "http://arxiv.org/abs/2611.18297v1"
+  },
+  "2611.18319v1": {
+    "authors": [
+      "Julian Schelb",
+      "Michael Wittweiler",
+      "Marie Revellio"
+    ],
+    "category": "cs.CL",
+    "summary": "Detecting an intertextual reference is only the first step; philologists also need to know how a later author reworked the source. We explain a reuse pair word by word: each word of the reusing passage is first aligned to its source word, then labeled with the operation that transformed it, such as a copy, a change of inflection, or a substitution. Such word-level operations are expensive to annot",
+    "title": "Learning Word-Level Explanations of Text Reuse in Latin Literature with Little Annotation",
+    "url": "http://arxiv.org/abs/2611.18319v1"
+  },
+  "2611.18330v1": {
+    "authors": [
+      "Solano Amadori"
+    ],
+    "category": "cs.CL",
+    "summary": "Speech applications require decisions about term presence, turn completion, and language within an audio window. We present Marimba, an interface for typed speech decisions built on frozen Qwen3-ASR 0.6B features. Lexical questions use zero-shot scoring of ASR transcripts; non-lexical questions use a question-conditioned head and a separate layer-18 turn-end readout. Language identification uses t",
+    "title": "Marimba: A System One Model for Speech",
+    "url": "http://arxiv.org/abs/2611.18330v1"
+  },
+  "2611.18359v1": {
+    "authors": [
+      "Grid Robotics",
+      " :",
+      "Qingfeng Lan",
+      "Duo Li",
+      "Siyao Li"
+    ],
+    "category": "cs.CL",
+    "summary": "The release of GPT-6 Astra marks the emergence of a new paradigm in robotics: agentic robotics. Within weeks, frontier models with agentic harnesses matched or exceeded task-specific policies on many embodied benchmarks. Instead of training a dedicated policy for each family of tasks, an agentic robotic system applies a foundation model to open-world embodied tasks. It operates in a closed loop: o",
+    "title": "Envisioning Agentic Robotics: A New Era of Robotic Systems",
+    "url": "http://arxiv.org/abs/2611.18359v1"
+  },
+  "2611.18370v1": {
+    "authors": [
+      "Hoang Tran Vuong",
+      "Linh Ngo Van",
+      "Dang Nguyen",
+      "Thin Nguyen",
+      "Phuoc Nguyen"
+    ],
+    "category": "cs.CL",
+    "summary": "Anomaly detection in tabular data poses significant challenges due to heterogeneous feature types-mixing numerical, categorical, and textual attributes, which complicate learning meaningful representations of normality. Recent work has applied large language models (LLMs) to this problem by serializing table rows as text sequences, yet these approaches rely on one-shot supervised fine-tuning that ",
+    "title": "f-Divergence Self-Play for Tabular Anomaly Detection via Large Language Models",
+    "url": "http://arxiv.org/abs/2611.18370v1"
+  },
+  "2611.18371v1": {
+    "authors": [
+      "Tamara Serrano",
+      "Nikoleta Pantelidou",
+      "Raquel Montero",
+      "Natalia Moskvina",
+      "Paolo Morosi"
+    ],
+    "category": "cs.CL",
+    "summary": "Large Language Models (LLMs) are increasingly present, but their effects on human users remain underexplored. We tested whether AI-attributed information influences views regarding gender-related statements, a domain where biases are pervasive. Spanish-speaking participants recruited through Prolific evaluated biased statements derived from Google's autocomplete function and human-authored, non-bi",
+    "title": "Evaluating Human Sensitivity to Gender Biased AI-Generated Content through Human Assessment of Google's Autocomplete Function",
+    "url": "http://arxiv.org/abs/2611.18371v1"
+  },
+  "2611.18397v1": {
+    "authors": [
+      "Run Luo",
+      "Kuan Zhang",
+      "Qi Deng",
+      "Yukun Chen",
+      "Zhihao Yang"
+    ],
+    "category": "cs.CL",
+    "summary": "We introduce Gamer, a generalist agent framework built for long-horizon tasks in complex interactive environments. Its end-to-end architecture combines perception, memory management, and multi-step reasoning. A shared training and deployment pipeline supports interaction with both conventional 2D graphical interfaces and complex 3D simulated worlds. We first continue pre-training on a dataset cons",
+    "title": "Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent",
+    "url": "http://arxiv.org/abs/2611.18397v1"
+  },
+  "2611.18412v1": {
+    "authors": [
+      "Mingming Su",
+      "Yushan Wei",
+      "Sen Song",
+      "Xinche Zhang"
+    ],
+    "category": "cs.CL",
+    "summary": "When model predictions track an unfolding human affect trajectory, alignment may reflect narrative position, affective words, or text-specific reader-response dynamics. We introduce LitArc-Bench to separate these explanations: 39 Chinese-language literary excerpts segmented into seven checkpoints, with 430 questionnaires from 81 adults in two classroom groups (9,020 VAD ratings). We compare three ",
+    "title": "LitArc-Bench: Disentangling Text-Specific Reader-Response Dynamics from Position and Lexical Affect",
+    "url": "http://arxiv.org/abs/2611.18412v1"
+  },
   "2611.18439v1": {
     "authors": [
       "Helma Torkamaan",
@@ -144,6 +241,16 @@
     "summary": "Modern coding agents rely on establishing executable software environments before they can perform software engineering tasks such as testing, debugging, and patch validation. Existing setup agents typically control progress at either single-command or whole-script granularity, making recovery either too local to remove polluted state or too coarse to preserve useful progress. We present HerAgent ",
     "title": "HerAgent: A Block-Level Checkpointing Harness for Coding-Agent Environment Setup",
     "url": "http://arxiv.org/abs/2611.18443v1"
+  },
+  "2611.18471v1": {
+    "authors": [
+      "Disha Sheshanarayana",
+      "Sai Linisha Reddy Goli"
+    ],
+    "category": "cs.CL",
+    "summary": "LLM-based verifiers are increasingly used to evaluate agent executions, but their reliability is typically measured under a single representation of the trajectory. In deployed agent systems, the same execution may be exposed through composed tools, delegation boundaries, or compacted histories, changing what execution evidence is directly observable to the verifier. It therefore remains unclear w",
+    "title": "Do Verifier Judgments Survive Abstraction? Measuring Verification Transport for LLM Agent Evaluation",
+    "url": "http://arxiv.org/abs/2611.18471v1"
   },
   "2611.18477v1": {
     "authors": [
@@ -185,10 +292,23 @@
       "Robin Shing Moon Chan",
       "Ryan Cotterell"
     ],
-    "category": "cs.LG",
+    "category": "cs.CL",
     "summary": "Program induction refers to the process in which a learner aims to recover a program from a few given input-output examples. This paradigm broadens programming access by letting users demonstrate the rule-based behavior they want to apply to unseen data, instead of having to implement it themselves. However, recovering a program from finite input-output examples is fundamentally ambiguous, as a fi",
     "title": "Interactive Program Induction with Language Model Priors",
     "url": "http://arxiv.org/abs/2611.18485v1"
+  },
+  "2611.18506v1": {
+    "authors": [
+      "Daniel Reichenpfader",
+      "Kwaku Appiagyei",
+      "Manovah Nadarajah",
+      "Ahmed Reda Bahr",
+      "Irina Filchenko"
+    ],
+    "category": "cs.CL",
+    "summary": "Common data elements (CDEs) support clinical data comparability but are usually defined manually. We investigated whether large language model agents could derive a CDE schema from sarcoma case report abstracts and apply it at scale. An agent proposed 72,909 candidate CDEs from 24,588 PubMed abstracts; agentic consolidation yielded 1,570 CDEs. We retained 53 supported by at least 50 abstracts and ",
+    "title": "Agentic induction of common data elements and information extraction from sarcoma case report abstracts",
+    "url": "http://arxiv.org/abs/2611.18506v1"
   },
   "2611.18507v1": {
     "authors": [
@@ -208,6 +328,29 @@
     "title": "On numerical issues of divergences between nearly equal distributions",
     "url": "http://arxiv.org/abs/2611.18511v1"
   },
+  "2611.18513v1": {
+    "authors": [
+      "Mohammed Efaz",
+      "Udo Bub",
+      "Itilekha Podder"
+    ],
+    "category": "cs.CL",
+    "summary": "This paper introduces MeReader, a privacy-preserving, offline and progress-aware AI assistant designed to function as a contextual companion for narrative reading on consumer hardware. Unlike conventional Large Language Model (LLM)-based systems that process documents/books online in an all-texts-at-once type of way, thereby risking narrative spoilers, MeReader confines both retrieval and generati",
+    "title": "MeReader: An Offline, Privacy-Preserving, Progress-Aware AI Assistant for Narrative eBook Reading",
+    "url": "http://arxiv.org/abs/2611.18513v1"
+  },
+  "2611.18514v1": {
+    "authors": [
+      "Mohamed Aghzal",
+      "Mor Geva",
+      "Gregory J. Stein",
+      "Ziyu Yao"
+    ],
+    "category": "cs.CL",
+    "summary": "Mechanistic Interpretability (MI) has made significant progress in explaining the internal computations of Large Language Models (LLMs); however, these advances have yet to demonstrate comparable success in explaining the decision-making processes of LLM-based agents. This paper examines the challenges MI tools face when applied to realistic agentic failures. We focus on one such failure: web agen",
+    "title": "Can Mechanistic Interpretability Help Explain LLM Agent Failures? A Case Study on Web Element Hallucination",
+    "url": "http://arxiv.org/abs/2611.18514v1"
+  },
   "2611.18516v1": {
     "authors": [
       "Dayoon Ko",
@@ -220,6 +363,19 @@
     "summary": "Screen history can serve as searchable visual memory for people and agents, but unlike an offline corpus, it must be encoded and indexed as each screenshot arrives. OCR-based indexing is fast but loses visual information; visual encoding takes over two seconds. Yet screens change incrementally: most pixels repeat within and across screenshots. This raises a question: do visual encoders need to rec",
     "title": "StreamEmbed: Real-Time Indexing from Pixels for Screenshot Retrieval",
     "url": "http://arxiv.org/abs/2611.18516v1"
+  },
+  "2611.18527v1": {
+    "authors": [
+      "Dayou Du",
+      "Congjie He",
+      "Andrew Boutros",
+      "Luo Mai",
+      "Vaughn Betz"
+    ],
+    "category": "cs.CL",
+    "summary": "Wafer-scale accelerators offer massive compute capacity through hundreds of thousands of processing elements (PEs) interconnected across a single wafer, but realizing this potential requires efficient application mapping. Their scale makes programming these systems and mapping applications onto them challenging. Existing approaches rely on template-based mappings to maintain productivity, but thes",
+    "title": "WaferTetris: Efficient Freeform Mapping on Wafer-Scale Accelerators",
+    "url": "http://arxiv.org/abs/2611.18527v1"
   },
   "2611.18530v1": {
     "authors": [
@@ -240,7 +396,7 @@
       "Yujian Liu",
       "Li An"
     ],
-    "category": "cs.LG",
+    "category": "cs.CL",
     "summary": "Agentic reinforcement learning (RL) increasingly relies on a harness, the scaffold around the model that decides what it sees of its own interaction and what guidance it receives. Most existing approaches train under a hand-written harness that stays fixed throughout. However, an effective harness depends on the domain, the data and the model, and keeps changing as the model trains. We introduce M",
     "title": "ModHarness-RL: Recasting Harnesses as Learnable and Evolving Programs for Agentic RL",
     "url": "http://arxiv.org/abs/2611.18533v1"
