@@ -1,0 +1,352 @@
+{
+  "2611.20856v1": {
+    "authors": [
+      "Lijuan Li",
+      "Zhenpeng Chen",
+      "Chenxi Zhang",
+      "Yihao Huang",
+      "Yang Liu"
+    ],
+    "category": "cs.SE",
+    "summary": "Large language model (LLM) agents can improve task performance by optimizing reusable natural-language skills without updating model parameters. Execution feedback reveals failures but does not directly identify which instructions to edit, which related instructions matter, or which tasks an edit may break. We propose Synapse, which casts skill optimization as generate-and-validate repair over a p",
+    "title": "Synapse: Optimizing Natural-Language Agent Skills through Program Repair",
+    "url": "http://arxiv.org/abs/2611.20856v1"
+  },
+  "2611.20873v1": {
+    "authors": [
+      "Tina Vartziotis",
+      "Ketevan Peranidze",
+      "Rodopi Kosteli",
+      "Ezgi Sarikayak",
+      "George Dasoulas"
+    ],
+    "category": "cs.SE",
+    "summary": "As large language models (LLMs) evolve from conversational assistants into autonomous agents embedded in software development workflows, estimating their environmental footprint requires moving beyond conventional token-based accounting. Existing energy estimators focus on isolated request-response interactions, overlooking the repeated processing of accumulated context, cache reuse, and work dele",
+    "title": "Re-Reading Is Not Free: Token Traces and Cache-Aware Energy Estimation for LLM Agents in Software Engineering",
+    "url": "http://arxiv.org/abs/2611.20873v1"
+  },
+  "2611.20927v1": {
+    "authors": [
+      "Md Aidul Islam",
+      "Md Nasir Uddin Shuvo",
+      "Muhammad Waseem",
+      "Pekka Abrahamsson"
+    ],
+    "category": "cs.SE",
+    "summary": "Agent memory systems are mostly evaluated on fixed histories, and only their final answers are scored. In real use, facts change, sources differ in reliability, and users ask the agent to forget things. We present LEDGER, a memory layer in which a language model proposes facts and explicit rules decide which value is current, which source to trust, and what to delete. Each fact keeps its source an",
+    "title": "LEDGER: Auditable Agent Memory Under Change",
+    "url": "http://arxiv.org/abs/2611.20927v1"
+  },
+  "2611.20969v1": {
+    "authors": [
+      "Aarush Kumbhakern",
+      "Rahul Gopinath"
+    ],
+    "category": "cs.SE",
+    "summary": "Delta debugging reduces a failing input by deleting chunks of it, keeping a deletion only if an oracle confirms the failure persists. It chunks the input based only on its length, so its deletions cut through units such as identifiers and delimited groups, wasting calls and leaving outputs large. Current state-of-the-art structural reducers avoid this by supplying grammars or built-in format knowl",
+    "title": "AutoDiDact: Input Reduction over Inferred Structure",
+    "url": "http://arxiv.org/abs/2611.20969v1"
+  },
+  "2611.21148v1": {
+    "authors": [
+      "Hongki Lee",
+      "Sooncheol Won",
+      "Joonho Jin",
+      "Junhee Cho",
+      "Sukyoung Ryu"
+    ],
+    "category": "cs.SE",
+    "summary": "The prevalent uses of JavaScript in web programming have revealed security vulnerability issues of JavaScript applications, which emphasizes the need for JavaScript analyzers to detect such issues. Recently, researchers have proposed several analyzers of JavaScript programs and some web service companies have developed various JavaScript engines. However, unfortunately, most of the tools are not d",
+    "title": "SAFE: Formal Specification and Implementation of a Scalable Analysis Framework for ECMAScript",
+    "url": "http://arxiv.org/abs/2611.21148v1"
+  },
+  "2611.21176v1": {
+    "authors": [
+      "Erfan Hamdi",
+      "Joel Shor",
+      "Emma Lejeune"
+    ],
+    "category": "cs.SE",
+    "summary": "Large language models (LLMs) offer a potential route to automating scientific programming, but their usefulness depends on consistently producing numerically correct code. We extend FEM-Bench to 17 finite element tasks involving nonlinear and history-dependent mechanics and structural dynamics, and evaluate 15 models on implementation and test generation without execution feedback. The best model ",
+    "title": "Scientific Coding with Large Language Models: Evidence from Finite Element Analysis",
+    "url": "http://arxiv.org/abs/2611.21176v1"
+  },
+  "2611.21214v1": {
+    "authors": [
+      "Hasnain Naeem",
+      "Ryan Henry"
+    ],
+    "category": "cs.SE",
+    "summary": "Time-of-check-to-time-of-use (TOCTOU) races are hard to reproduce and lost races can make vulnerable programs look fixed. We present Chronos, a framework that separates intervention timing from verdict evidence and builds reusable one-trial security regression oracles from declared races for deterministic reproduction, commit bisection and CI. Race Specifications compose reusable hold engines, act",
+    "title": "Taking Time Out of TOCTOU: From Race Reproduction to Security Discovery",
+    "url": "http://arxiv.org/abs/2611.21214v1"
+  },
+  "2611.21240v1": {
+    "authors": [
+      "Annemarie Wittig",
+      "Alina Mailach",
+      "Norbert Siegmund"
+    ],
+    "category": "cs.SE",
+    "summary": "Developers differ in personality traits that shape how they approach software development tasks, yet AI coding assistants either behave uniformly or offer personalization features whose fit with individual developers must be found through trial and error. This is because it remains unclear how personality shapes developers' experiences with AI assistants, and thus which traits personalization shou",
+    "title": "How Developer Personality Shapes the Use of AI Coding Assistants",
+    "url": "http://arxiv.org/abs/2611.21240v1"
+  },
+  "2611.21298v1": {
+    "authors": [
+      "Jayanaka Dantanarayana",
+      "Savini Kashmira",
+      "Xiaoyu Ma",
+      " Malitha",
+      "Malitha Prabhashana"
+    ],
+    "category": "cs.SE",
+    "summary": "Building agentic applications requires combining large language model (LLM) operations, workflow structure and application state, and model-guided routing. With SDKs and agent frameworks, developers connect these components through supporting code that prepares model inputs, propagates state, and dispatches model-selected steps. Workflow changes can require coordinated updates to this code, increa",
+    "title": "Agent-Native by Design: A Programming Language for Agentic Applications",
+    "url": "http://arxiv.org/abs/2611.21298v1"
+  },
+  "2611.21367v1": {
+    "authors": [
+      "Priyabanta Sandulua",
+      "Islam Mesabaha",
+      "Sebastian J. Vollmer"
+    ],
+    "category": "cs.SE",
+    "summary": "Design decisions shape software architecture, and writing them down preserves the reasons behind it. Architecture decision records (ADRs) capture them, each with its context, choice, and consequences. A decision can depend on earlier ones: reversing one of them would force its review. We call these its premises. Yet ADRs do not always name their premises. When a decision is reversed, engineers sup",
+    "title": "Premise Recovery in Software Design: What Does This Decision Rest On?",
+    "url": "http://arxiv.org/abs/2611.21367v1"
+  },
+  "2611.21407v1": {
+    "authors": [
+      "Hao Wang",
+      "Ting Huang"
+    ],
+    "category": "cs.SE",
+    "summary": "A harness turns a model into a system that completes tasks: it builds the prompt, exposes tools and decides when work is done. Harness comparisons hold the model fixed. Model comparisons hold the harness fixed. We vary both: five shipped harnesses, 18 artifact-producing tasks, four locally deployable open-weight models from 0.75B to 4.7B and a 35.5B anchor, with one deterministic checker scoring a",
+    "title": "Harness Leverage Across Model Size: A Ladder of Five Local Agent Harnesses from 0.75B to 4.7B",
+    "url": "http://arxiv.org/abs/2611.21407v1"
+  },
+  "2611.21421v1": {
+    "authors": [
+      "Haocheng Wang",
+      "Weixuan Yuan",
+      "Florian Hübler",
+      "Yinya Huang",
+      "Zhijiang Guo"
+    ],
+    "category": "cs.SE",
+    "summary": "Formal specifications define intended program behavior and underpin verification, but writing them in theorem provers such as Lean is slow and expertise-intensive, making specification a major bottleneck to scaling formally correct code. Autoformalization from natural-language problems is promising, yet training specification models requires scalable feedback on whether generated specifications ca",
+    "title": "AuXSpec: Learning to Autoformalize Program Specifications via Executable Postconditions",
+    "url": "http://arxiv.org/abs/2611.21421v1"
+  },
+  "2611.21452v1": {
+    "authors": [
+      "Bogdan Vasilescu",
+      "Emerson Murphy-Hill",
+      "Anikesh Parashar",
+      "Aayush Kumar",
+      "Gustavo Soares"
+    ],
+    "category": "cs.SE",
+    "summary": "Spreadsheets let millions of end users without programming training do computational work, and teams are increasingly building AI agents to help them. Evaluating each candidate agent configuration across many tasks is costly. Benchmark reduction can lower this cost by selecting a small subset of tasks whose outcomes predict full-benchmark scores, but selecting tasks only for predictive accuracy ca",
+    "title": "A Taxonomy and Taxonomy-Guided Benchmark Reduction for Spreadsheet Tasks",
+    "url": "http://arxiv.org/abs/2611.21452v1"
+  },
+  "2611.21501v1": {
+    "authors": [
+      "Gustavo Pinto",
+      "Enne Rebeca Silva de Freitas",
+      "Danilo Monteiro Ribeiro"
+    ],
+    "category": "cs.SE",
+    "summary": "Software engineering courses are starting to ask students to build entire systems with AI coding agents, but little is known about what students actually do with them and whether they still own what they deliver. If the agent writes both the code and the decisions behind it, the artifacts we grade no longer show what students learned. We studied an assignment in which 18 pairs of students built ap",
+    "title": "Is This Code Mine? Student Ownership When AI Agents Write the Spec and the Code",
+    "url": "http://arxiv.org/abs/2611.21501v1"
+  },
+  "2611.21515v1": {
+    "authors": [
+      "Srinath Srinivasan",
+      "Tim Menzies"
+    ],
+    "category": "cs.SE",
+    "summary": "Teams that adopt LLM agents for issue resolution must decide which agent to pay for, and how much to spend finding out. Leaderboard ranks give weak evidence for this decision. Accuracy differences may be statistically unresolved, reported costs may be inconsistent, and evaluating candidate agents can itself be expensive. We investigate budget-constrained agent selection using 58,197 run--task reco",
+    "title": "Beyond Leaderboard Ranks: Selecting Software Engineering Agents Under Budget Constraints",
+    "url": "http://arxiv.org/abs/2611.21515v1"
+  },
+  "2611.21550v1": {
+    "authors": [
+      "David Köhler",
+      "Matthias Schmid"
+    ],
+    "category": "cs.LG",
+    "summary": "Modern machine learning models, such as artificial neural networks, achieve high predictive performance through increasingly complex black-box architectures, limiting their use in settings where transparency, interpretability, and fairness are required. Here we present the R package ONAM, which provides a novel and practical implementation of functional decomposition, a technique to facilitate the",
+    "title": "ONAM: Fitting Orthogonal Neural Additive Models for Post-Hoc Interpretability of Black-Box Predictions",
+    "url": "http://arxiv.org/abs/2611.21550v1"
+  },
+  "2611.21552v1": {
+    "authors": [
+      "José Daniel Viqueira",
+      "Andrés Gómez",
+      "David Mera"
+    ],
+    "category": "cs.LG",
+    "summary": "Quantum machine learning has emerged as a promising approach to time series prediction. While quantum reservoir computing has been widely explored for this setting, variational quantum models tailored to sequential data remain comparatively understudied, largely because they are difficult to train. In this work, we present a rigorous benchmark of variational quantum recurrent neural networks (QRNN",
+    "title": "Benchmarking memory and nonlinear processing capacity of quantum recurrent neural networks for time series prediction",
+    "url": "http://arxiv.org/abs/2611.21552v1"
+  },
+  "2611.21554v1": {
+    "authors": [
+      "Arunkumar V",
+      "Gangadharan G. R.",
+      "S. Senthilkumar"
+    ],
+    "category": "cs.LG",
+    "summary": "Language models are now used to read central-bank text for economic forecasting, but most were trained on text written after the documents they read. A model reading a 2021 FOMC statement may already know that inflation rose in 2022, so part of its apparent skill can be memory of the outcome, a temporal form of test-set contamination. We measure this memory on FOMC statements and minutes from 2000",
+    "title": "Reading or Remembering? Measuring Temporal Contamination in Language Models",
+    "url": "http://arxiv.org/abs/2611.21554v1"
+  },
+  "2611.21562v1": {
+    "authors": [
+      "Korede R. Bishi",
+      "Dominic Okonkwo",
+      "Adetayo Okunoye"
+    ],
+    "category": "cs.LG",
+    "summary": "Zero-shot time-series foundation models (TSFMs) have become attractive alternatives to task-specific models because they handle diverse downstream tasks, including anomaly detection and forecasting, without per-series training. However, time-series data undergo distribution shifts, and the dissimilarity between two regimes is commonly scored with statistical measures such as Wasserstein-1, where a",
+    "title": "Severe but Harmless: Stress-Testing Shift Severity for Frozen Time-Series Forecasters",
+    "url": "http://arxiv.org/abs/2611.21562v1"
+  },
+  "2611.21565v1": {
+    "authors": [
+      "Lars Chen",
+      "Valentino F. Foit",
+      "Dorry Segev",
+      "Michal Mankowski"
+    ],
+    "category": "cs.LG",
+    "summary": "Test-time augmentation (TTA) aggregates model predictions across multiple transformed views of an input during inference. Because histology images lack a canonical orientation, $D_4$ TTA---pooling across the 8 rotations and reflections of a square---is a standard default in computational pathology. However, the rise of self-supervised histology foundation models (FMs) with inherent rotational inva",
+    "title": "When Do Histology Foundation Models Need Geometric Test-Time Augmentation?",
+    "url": "http://arxiv.org/abs/2611.21565v1"
+  },
+  "2611.21571v1": {
+    "authors": [
+      "Van Tuan Nguyen",
+      "Agathe Guilloux"
+    ],
+    "category": "cs.LG",
+    "summary": "Recent survival models integrating longitudinal data achieve strong predictive performance, but their predictions are often difficult to interpret, limiting their clinical use. We propose DynSurvX, a model-agnostic explainability framework for dynamic survival prediction with mixed static and longitudinal covariates. Based on Shapley values, DynSurvX introduces a hierarchical two-phase strategy th",
+    "title": "DynSurvX: Time-Resolved Explanations for Dynamic Survival Predictions",
+    "url": "http://arxiv.org/abs/2611.21571v1"
+  },
+  "2611.21584v1": {
+    "authors": [
+      "Steve Rhyner",
+      "Yubo Gao",
+      "Stefan de Lasa",
+      "Sankeerth Durvasula",
+      "Nandita Vijaykumar"
+    ],
+    "category": "cs.LG",
+    "summary": "Training with MXFP4, a 4-bit microscaling format, is non-deterministic: identical inputs can produce different results across parallelism layouts and GPU vendors. These differences complicate debugging and training audits and can cause training and inference engines to disagree. We present CertiSum to make MXFP4 training bitwise invariant across runs, parallelism layouts, and GPU vendors. Its key ",
+    "title": "CertiSum: Bitwise-Identical MXFP4 Training Across Platforms and Parallelism Layouts",
+    "url": "http://arxiv.org/abs/2611.21584v1"
+  },
+  "2611.21594v1": {
+    "authors": [
+      "Aaron Wang",
+      "Olivia Gzamouranis",
+      "Vaibhav Lohia",
+      "Hershel Fei Xun Weiner",
+      "Olivia Seidel"
+    ],
+    "category": "cs.LG",
+    "summary": "Cryogenic circuit design requires compact transistor models that reproduce measured low-temperature behavior and run in standard circuit simulators. We fit BSIM4 parameters to measured I-V curves of SkyWater 130 nm (SKY130) transistors at 77 K using a neural surrogate of NGSpice. The surrogate maps compact-model parameters and device geometry to the complete set of output and transfer characterist",
+    "title": "Surrogate-Assisted Compact-Model Extraction for SKY130 CMOS at 77 K",
+    "url": "http://arxiv.org/abs/2611.21594v1"
+  },
+  "2611.21596v1": {
+    "authors": [
+      "Junhan Sun",
+      "Yigui Feng",
+      "Mingzhe Liu",
+      "Haoyan Xu",
+      "Lei Ye"
+    ],
+    "category": "cs.LG",
+    "summary": "In Joint-Embedding Predictive Architectures (JEPAs), a well-constrained projector output does not by itself prevent representation collapse. We find that, from initialization, the encoder representation is dominated by a component shared by different inputs. A batch-normalized projector removes this component, so regularization after the projector cannot correct it, and the differences between rep",
+    "title": "SADL: On the Demand-Supply Geometry of Representation Collapse",
+    "url": "http://arxiv.org/abs/2611.21596v1"
+  },
+  "2611.21597v1": {
+    "authors": [
+      "Awni Altabaa",
+      "John Lafferty",
+      "Omar Montasser"
+    ],
+    "category": "cs.LG",
+    "summary": "We study how to learn an autoregressive next-token generator $f\\colonΣ^\\star\\toΣ$ from a class $\\mathcal{F}$, given chain-of-thought (CoT) demonstrations of length $T$ generated by $f$. We present a simple algorithm based on bagging, which outputs a majority vote of generators that are trained to be CoT-consistent on bootstrap samples of the training data. For binary token sets, it achieves the op",
+    "title": "Optimal Autoregressive Chain-of-Thought Learning via Bagging",
+    "url": "http://arxiv.org/abs/2611.21597v1"
+  },
+  "2611.21598v1": {
+    "authors": [
+      "Blas Eugenio Vicco Zarate",
+      "Miguel Hernán Vicco"
+    ],
+    "category": "cs.LG",
+    "summary": "Continual reinforcement learning requires adaptation to changing conditions while preserving performance under previously encountered dynamics. It was investigated whether specialists generated by evolutionary search can provide a reusable memory when combined with environment detection and failure-driven search. The Evolutionary Neuroplastic Agent (ENA) evolves small neural networks without gradi",
+    "title": "Mitigating Catastrophic Forgetting with Physics-Indexed Specialist Memory: the Evolutionary Neuroplastic Agent",
+    "url": "http://arxiv.org/abs/2611.21598v1"
+  },
+  "2611.21599v1": {
+    "authors": [
+      "Brian Yarbrough",
+      "Jesse Wayment",
+      "Jingbo Wang",
+      "Philip E. Paré",
+      "Shreyas Sundaram"
+    ],
+    "category": "cs.LG",
+    "summary": "We introduce Hyperlyve (Hyperplane Partitioned Lyapunov Verification and Enumeration), a framework for proving the asymptotic stability of nonlinear dynamical systems, including those with neural network controllers. Hyperlyve learns and formally certifies continuous piecewise-affine (CPA) neural Lyapunov functions within a counterexample-guided inductive synthesis (CEGIS) loop. Hyperlyve's key in",
+    "title": "Hyperlyve: Parallelized Enumeration and Exact Lyapunov Stability Certification for Deep ReLU Networks",
+    "url": "http://arxiv.org/abs/2611.21599v1"
+  },
+  "2611.21600v1": {
+    "authors": [
+      "Rohit Gandikota",
+      "Arnab Sen Sharma",
+      "Adam Belfki",
+      "David Bau"
+    ],
+    "category": "cs.LG",
+    "summary": "When a vision-language model describes an image, it names one object at a time and it rarely repeats itself, yet how the model plans this order is far from obvious. We characterize the mechanism a VLM uses to decide where to look before it looks. The mechanism has four main parts. First, binding heads match the relevant text tokens against the image and resolve them into pointers to the matched im",
+    "title": "How VLMs Plan What's Next",
+    "url": "http://arxiv.org/abs/2611.21600v1"
+  },
+  "2611.21602v1": {
+    "authors": [
+      "Ilia Azizi",
+      "Frederick Iat-Hin Tam",
+      "Marc-Olivier Boldi",
+      "Valérie Chavez-Demoulin",
+      "Tom Beucler"
+    ],
+    "category": "cs.LG",
+    "summary": "The National Hurricane Center routinely releases Tropical Cyclone Discussions that offer insights into its tropical cyclone forecasts. This study examines the added value of these discussions for intensity forecasting beyond a set of numerical predictors. For 637 Atlantic and eastern North Pacific tropical cyclones from the 2002-2023 hurricane seasons, we analyze the discussion text and its combin",
+    "title": "Quantifying the added value of human forecaster discussions for tropical cyclone intensity prediction",
+    "url": "http://arxiv.org/abs/2611.21602v1"
+  },
+  "2611.21608v1": {
+    "authors": [
+      "Shivam Duggal",
+      "Zongze Wu",
+      "William T. Freeman",
+      "Antonio Torralba",
+      "Richard Zhang"
+    ],
+    "category": "cs.LG",
+    "summary": "Language models typically increase per-token computation through deeper or looped layers and latent reasoning steps, while richer residual connections improve information flow across layers. We instead increase computational capacity: the number of active computational states a model maintains. We introduce the Lattice of Latents, a set of per-layer horizontal latent streams that run recurrently a",
+    "title": "Latent Lattice Language Models",
+    "url": "http://arxiv.org/abs/2611.21608v1"
+  }
+}
