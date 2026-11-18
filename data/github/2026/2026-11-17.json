@@ -1,0 +1,74 @@
+{
+  "Python": [
+    {
+      "created": "2026-11-12",
+      "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
+      "name": "Immortal-Protocols/lastbook",
+      "stars": 1802,
+      "url": "https://github.com/Immortal-Protocols/lastbook"
+    },
+    {
+      "created": "2026-11-17",
+      "description": "",
+      "name": "gylive/google-ultra",
+      "stars": 1641,
+      "url": "https://github.com/gylive/google-ultra"
+    },
+    {
+      "created": "2026-11-14",
+      "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "name": "duwqijlk/muse-protocol",
+      "stars": 1589,
+      "url": "https://github.com/duwqijlk/muse-protocol"
+    },
+    {
+      "created": "2026-11-16",
+      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+      "name": "sybil-solutions/inference-optimisation-skill",
+      "stars": 932,
+      "url": "https://github.com/sybil-solutions/inference-optimisation-skill"
+    },
+    {
+      "created": "2026-11-15",
+      "description": "Allo is your friendly neighborhood typeface, free and open source",
+      "name": "joshpuckett/allo",
+      "stars": 886,
+      "url": "https://github.com/joshpuckett/allo"
+    },
+    {
+      "created": "2026-11-14",
+      "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
+      "name": "haziqahmedqasmi/PeakCut",
+      "stars": 870,
+      "url": "https://github.com/haziqahmedqasmi/PeakCut"
+    },
+    {
+      "created": "2026-11-14",
+      "description": "A 4.5M-parameter two-voice English text-to-speech model, trained from scratch",
+      "name": "n4ze3m/tiny-voca",
+      "stars": 696,
+      "url": "https://github.com/n4ze3m/tiny-voca"
+    },
+    {
+      "created": "2026-11-12",
+      "description": "PyBot: a chatbot written in pure Python by a swarm of agents. No weights, no training, just rules.",
+      "name": "huggingface/pybot",
+      "stars": 679,
+      "url": "https://github.com/huggingface/pybot"
+    },
+    {
+      "created": "2026-11-13",
+      "description": "Training Reasoning Models in Simulation to Natively Use Real Robots",
+      "name": "mit-han-lab/pear",
+      "stars": 617,
+      "url": "https://github.com/mit-han-lab/pear"
+    },
+    {
+      "created": "2026-11-12",
+      "description": "Haru: a low-latency, multilingual, full-duplex spoken dialogue model",
+      "name": "higurashi-ai/Haru",
+      "stars": 579,
+      "url": "https://github.com/higurashi-ai/Haru"
+    }
+  ]
+}
