@@ -1,0 +1,212 @@
+{
+  "50497872": {
+    "author": "bookofjoe",
+    "comments": 11,
+    "points": 60,
+    "title": "Mouse Party",
+    "url": "https://aboard.com/lets-have-a-mouse-party/"
+  },
+  "50503492": {
+    "author": "colejohnson66",
+    "comments": 0,
+    "points": 6,
+    "title": "Fun with Constrained Programming",
+    "url": "https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html"
+  },
+  "50504105": {
+    "author": "peter_d_sherman",
+    "comments": 4,
+    "points": 10,
+    "title": "Munich Laser Emits a Beam of Matter Waves (1999)",
+    "url": "https://www.sciencedaily.com/releases/1999/03/990317060831.htm"
+  },
+  "50529612": {
+    "author": "craigmart",
+    "comments": 205,
+    "points": 262,
+    "title": "How the Claude Code team thinks about verification",
+    "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/"
+  },
+  "50532191": {
+    "author": "Edward40",
+    "comments": 115,
+    "points": 335,
+    "title": "What is the best harness for each model?",
+    "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/"
+  },
+  "50532849": {
+    "author": "monkeydust",
+    "comments": 544,
+    "points": 468,
+    "title": "Highly classified US national security communications network goes down",
+    "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down"
+  },
+  "50534429": {
+    "author": "ryankicks",
+    "comments": 0,
+    "points": 0,
+    "title": "YC wrote software to run our internship expo – and an 8-bit SIM to show it off",
+    "url": "https://news.ycombinator.com/item?id=50534429"
+  },
+  "50534631": {
+    "author": "louiereederson",
+    "comments": 187,
+    "points": 391,
+    "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+    "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf"
+  },
+  "50535208": {
+    "author": "gmays",
+    "comments": 28,
+    "points": 94,
+    "title": "Who Builds the Machines That Build the Machines?",
+    "url": "https://read.corematter.com/p/section-232-us-machine-tools"
+  },
+  "50535230": {
+    "author": "jasondavies",
+    "comments": 689,
+    "points": 1077,
+    "title": "GPT‑6.2 Astra and Sol",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
+  },
+  "50535238": {
+    "author": "willy_k",
+    "comments": 347,
+    "points": 627,
+    "title": "Apple Services Down",
+    "url": "https://developer.apple.com/system-status/"
+  },
+  "50535740": {
+    "author": "speckx",
+    "comments": 39,
+    "points": 98,
+    "title": "Not Everything Needs an LLM",
+    "url": "https://newsletter.posthog.com/p/decision-models"
+  },
+  "50535885": {
+    "author": "lemonish97",
+    "comments": 134,
+    "points": 286,
+    "title": "MAI Code 2 and Code 2 Flash",
+    "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/"
+  },
+  "50535992": {
+    "author": "notmine1337",
+    "comments": 39,
+    "points": 275,
+    "title": "Phrack 73 Released",
+    "url": "https://phrack.org/issues/73/introduction_md"
+  },
+  "50536387": {
+    "author": "pier25",
+    "comments": 59,
+    "points": 221,
+    "title": "Solid 2.0",
+    "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/"
+  },
+  "50536468": {
+    "author": "yonasb",
+    "comments": 31,
+    "points": 54,
+    "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+    "url": "https://starsling.dev"
+  },
+  "50536813": {
+    "author": "dxs",
+    "comments": 77,
+    "points": 244,
+    "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
+    "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969"
+  },
+  "50537120": {
+    "author": "PaulHoule",
+    "comments": 45,
+    "points": 75,
+    "title": "Effects of a Nuclear Detonation in Low Earth Orbit",
+    "url": "https://arxiv.org/abs/2611.09827"
+  },
+  "50537156": {
+    "author": "petecooper",
+    "comments": 138,
+    "points": 250,
+    "title": "jQuery 4.1.0",
+    "url": "https://github.com/jquery/jquery/releases/tag/4.1.0"
+  },
+  "50537290": {
+    "author": "ibobev",
+    "comments": 20,
+    "points": 121,
+    "title": "Web Browser Engineering (2021)",
+    "url": "https://browser.engineering/"
+  },
+  "50538184": {
+    "author": "lyra1337",
+    "comments": 9,
+    "points": 50,
+    "title": "Tencent Hy4 Flash",
+    "url": "https://hy.tencent.ai/research/hy4-flash"
+  },
+  "50538240": {
+    "author": "werrett",
+    "comments": 137,
+    "points": 507,
+    "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+    "url": "https://calif.io/java4shell/"
+  },
+  "50538303": {
+    "author": "judahmeek",
+    "comments": 72,
+    "points": 43,
+    "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+    "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/"
+  },
+  "50538994": {
+    "author": "subset",
+    "comments": 77,
+    "points": 277,
+    "title": "Quad9's withdrawal from France: A canary in the coal mine",
+    "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/"
+  },
+  "50539039": {
+    "author": "E-Reverance",
+    "comments": 4,
+    "points": 21,
+    "title": "Latent Lattice Language Models",
+    "url": "https://shivamduggal4.github.io/latent-lattice-language-models/"
+  },
+  "50539610": {
+    "author": "nvader",
+    "comments": 28,
+    "points": 112,
+    "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+    "url": "https://github.com/microsoft/onnxruntime"
+  },
+  "50539747": {
+    "author": "digitaldragon",
+    "comments": 23,
+    "points": 67,
+    "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
+    "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions"
+  },
+  "50540178": {
+    "author": "slashdev",
+    "comments": 23,
+    "points": 47,
+    "title": "Google's AI answers reducing search traffic by 40%",
+    "url": "https://revscope.co/blog/search-seo-geo-2026/"
+  },
+  "50540437": {
+    "author": "DeepLogin",
+    "comments": 3,
+    "points": 42,
+    "title": "ID.me terms required for IRS sign-in",
+    "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in"
+  },
+  "50540472": {
+    "author": "emschwartz",
+    "comments": 0,
+    "points": 7,
+    "title": "Cerebras Disaggregated Inference",
+    "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference"
+  }
+}
