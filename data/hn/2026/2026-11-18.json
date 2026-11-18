@@ -1,0 +1,212 @@
+{
+  "50504373": {
+    "author": "mariuz",
+    "comments": 10,
+    "points": 74,
+    "title": "A Perfect SimCity",
+    "url": "https://www.jeffquast.com/post/a-perfect-simcity/"
+  },
+  "50509141": {
+    "author": "genghizkhan",
+    "comments": 0,
+    "points": 15,
+    "title": "IPv6 delegation, an unusually subtle failure mode",
+    "url": "https://savyasacheejha.com/posts/why-odhcpd/"
+  },
+  "50517410": {
+    "author": "McAvey",
+    "comments": 9,
+    "points": 45,
+    "title": "Show HN: Unref – A Python dead code finder built on Ruff's parser",
+    "url": "https://github.com/Apakottur/unref"
+  },
+  "50517929": {
+    "author": "xenodium",
+    "comments": 6,
+    "points": 58,
+    "title": "My Emacs 31 contributions",
+    "url": "https://xenodium.com/my-emacs-31-contributions"
+  },
+  "50532191": {
+    "author": "Edward40",
+    "comments": 129,
+    "points": 393,
+    "title": "What is the best harness for each model?",
+    "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/"
+  },
+  "50532849": {
+    "author": "monkeydust",
+    "comments": 700,
+    "points": 621,
+    "title": "Highly classified US national security communications network goes down",
+    "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down"
+  },
+  "50534631": {
+    "author": "louiereederson",
+    "comments": 270,
+    "points": 606,
+    "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+    "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf"
+  },
+  "50535230": {
+    "author": "jasondavies",
+    "comments": 812,
+    "points": 1300,
+    "title": "GPT‑6.2 Astra and Sol",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
+  },
+  "50535885": {
+    "author": "lemonish97",
+    "comments": 155,
+    "points": 380,
+    "title": "MAI Code 2 and Code 2 Flash",
+    "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/"
+  },
+  "50535992": {
+    "author": "notmine1337",
+    "comments": 58,
+    "points": 421,
+    "title": "Phrack 73",
+    "url": "https://phrack.org/issues/73/introduction_md"
+  },
+  "50536387": {
+    "author": "pier25",
+    "comments": 105,
+    "points": 335,
+    "title": "Solid 2.0",
+    "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/"
+  },
+  "50536468": {
+    "author": "yonasb",
+    "comments": 40,
+    "points": 84,
+    "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+    "url": "https://news.ycombinator.com/item?id=50536468"
+  },
+  "50536813": {
+    "author": "dxs",
+    "comments": 118,
+    "points": 359,
+    "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
+    "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969"
+  },
+  "50537156": {
+    "author": "petecooper",
+    "comments": 177,
+    "points": 345,
+    "title": "jQuery 4.1.0",
+    "url": "https://github.com/jquery/jquery/releases/tag/4.1.0"
+  },
+  "50538240": {
+    "author": "werrett",
+    "comments": 273,
+    "points": 1027,
+    "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+    "url": "https://calif.io/java4shell/"
+  },
+  "50538303": {
+    "author": "judahmeek",
+    "comments": 312,
+    "points": 229,
+    "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+    "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/"
+  },
+  "50538994": {
+    "author": "subset",
+    "comments": 299,
+    "points": 727,
+    "title": "Quad9's withdrawal from France: A canary in the coal mine",
+    "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/"
+  },
+  "50539610": {
+    "author": "nvader",
+    "comments": 78,
+    "points": 370,
+    "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+    "url": "https://github.com/microsoft/onnxruntime"
+  },
+  "50539747": {
+    "author": "digitaldragon",
+    "comments": 87,
+    "points": 222,
+    "title": "Archive Team is archiving the Apple Support Community",
+    "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions"
+  },
+  "50540178": {
+    "author": "slashdev",
+    "comments": 390,
+    "points": 520,
+    "title": "Google's AI answers reducing search traffic by 40%",
+    "url": "https://revscope.co/blog/search-seo-geo-2026/"
+  },
+  "50540437": {
+    "author": "DeepLogin",
+    "comments": 188,
+    "points": 394,
+    "title": "ID.me terms required for IRS sign-in",
+    "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in"
+  },
+  "50540472": {
+    "author": "emschwartz",
+    "comments": 24,
+    "points": 92,
+    "title": "Cerebras Disaggregated Inference",
+    "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference"
+  },
+  "50541619": {
+    "author": "gmays",
+    "comments": 42,
+    "points": 95,
+    "title": "Claude was trained on protein sequences at scale",
+    "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/"
+  },
+  "50541790": {
+    "author": "deenadz",
+    "comments": 83,
+    "points": 166,
+    "title": "Why is Gemini 4 Carbon taking so long?",
+    "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/"
+  },
+  "50542264": {
+    "author": "_Microft",
+    "comments": 9,
+    "points": 55,
+    "title": "Why Fibonacci?",
+    "url": "https://www.evilgeniuslabs.org/why-fibonacci"
+  },
+  "50542705": {
+    "author": "grey-area",
+    "comments": 475,
+    "points": 509,
+    "title": "AI is killing All About Berlin",
+    "url": "https://nicolasbouliane.com/blog/death-by-ai"
+  },
+  "50543989": {
+    "author": "frenchmajesty",
+    "comments": 18,
+    "points": 136,
+    "title": "Energy-Based Reasoners: 385x more efficient inference",
+    "url": "https://energy-based-reasoners.github.io/"
+  },
+  "50544261": {
+    "author": "hans_castorp",
+    "comments": 234,
+    "points": 244,
+    "title": "Codeberg.org Not Reachable",
+    "url": "https://social.anoxinon.de/@codebergstatus/117636437840688845"
+  },
+  "50544821": {
+    "author": "torumitch",
+    "comments": 5,
+    "points": 9,
+    "title": "Show HN: Type Fighter 2",
+    "url": "https://typefighter2.com/"
+  },
+  "50545238": {
+    "author": "amcaskill",
+    "comments": 0,
+    "points": 0,
+    "title": "Evidence (YC S21) Is Hiring",
+    "url": "https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead"
+  }
+}
