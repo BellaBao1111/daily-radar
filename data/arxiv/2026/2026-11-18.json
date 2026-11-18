@@ -1,0 +1,347 @@
+{
+  "2611.22453v1": {
+    "authors": [
+      "Arusa Kanwal",
+      "Pablo Valle",
+      "Paola Roggero",
+      "Miren Illarramendi",
+      "Shaukat Ali"
+    ],
+    "category": "cs.SE",
+    "summary": "Vision-Language-Action (VLA) models integrate visual perception, language understanding, and action generation to control robots. Testing these systems produces trajectories and task outcomes, but existing approaches provide limited guidance on using these recorded trajectories to assess subsequent executions or inform policy repair. We conjecture that, for a given policy and task, traversing cert",
+    "title": "VoxelSBFL: Voxel-Level Spectrum-Based Failure Prediction for Vision-Language-Action Models",
+    "url": "http://arxiv.org/abs/2611.22453v1"
+  },
+  "2611.22519v1": {
+    "authors": [
+      "Chengyan Ma",
+      "Jieke Shi",
+      "Ruidong Han",
+      "Weifeng Sun",
+      "Yuqing Niu"
+    ],
+    "category": "cs.SE",
+    "summary": "GitHub natively supports workflow automation through GitHub Actions, now the dominant CI/CD tool on the platform. Yet keeping these workflows secure remains an ongoing burden: maintainers often patch a vulnerability on the default branch but leave the same flaw on the release and maintenance branches that downstream consumers continue to build from. Carrying a known fix onto these divergent branch",
+    "title": "Missing Security-Fix Backporting for GitHub Actions Workflows",
+    "url": "http://arxiv.org/abs/2611.22519v1"
+  },
+  "2611.22522v1": {
+    "authors": [
+      "W. J. Rutten",
+      "L. F. P. Etman",
+      "F. Warmer"
+    ],
+    "category": "cs.SE",
+    "summary": "The integrated analysis and optimisation codes used to design nuclear fusion reactors need to become increasingly large scale, multidisciplinary and complex to computationally verify design requirements more thoroughly and earlier in the design process. Though the manner in which the integrated models are coupled can have significant implications for computational efficiency, the structure of coup",
+    "title": "Coordinating integration of multidisciplinary design analysis and optimisation codes with design structure matrices",
+    "url": "http://arxiv.org/abs/2611.22522v1"
+  },
+  "2611.22588v1": {
+    "authors": [
+      "Mohammad Abbasinia",
+      "Behnaz Ranjbar",
+      "Akash Kumar"
+    ],
+    "category": "cs.SE",
+    "summary": "In Mixed-Criticality (MC) systems, considering multiple Worst-Case Execution Times (WCETs) for the same task, corresponding to different system operation modes, presents a fundamental challenge in MC system design. Identifying suitable WCETs for lower (LO) criticality system operational modes is inherently difficult. Tight low WCET values may trigger frequent mode switches that degrade Quality-of-",
+    "title": "ReBoT-MiCS: Reliability-Aware Bounding Time for Enhancing Timing Behavior of Embedded Mixed-Criticality Systems",
+    "url": "http://arxiv.org/abs/2611.22588v1"
+  },
+  "2611.22613v1": {
+    "authors": [
+      "Nikolaus Huber",
+      "Roly Perera",
+      "Dominic Orchard"
+    ],
+    "category": "cs.SE",
+    "summary": "The Isabelle theorem prover provides an environment for formalising mathematics and reasoning about programs. To make verified implementations practically usable, its code generator translates functions expressed in the executable fragment of its logic into conventional programming languages. Its targets have traditionally been functional languages (Standard ML, OCaml, Haskell, and Scala), recentl",
+    "title": "Python Code Generation for Isabelle/HOL",
+    "url": "http://arxiv.org/abs/2611.22613v1"
+  },
+  "2611.22835v1": {
+    "authors": [
+      "Xueping Gao"
+    ],
+    "category": "cs.SE",
+    "summary": "Verification procedures in coding agents must preserve execution facts, interpret their scope and discharge checking obligations. We study these responsibilities through qualified repository checks, controlled evidence consumers and executable workflows. A prospective thirteen-task factorial study finds that correct reported facts need not yield the requested finite verdict. Conversely, all 122 de",
+    "title": "When Passing Checks Do Not Establish Completion: Evidence Interpretation in Coding Agents",
+    "url": "http://arxiv.org/abs/2611.22835v1"
+  },
+  "2611.22888v1": {
+    "authors": [
+      "Deokhyung Kang",
+      "Minjae Gwon",
+      "Sangdon Park"
+    ],
+    "category": "cs.SE",
+    "summary": "Vulnerability exploitation tests whether language model agents can develop working exploits from known software flaws. Sequential test-time scaling can improve exploitation performance, but larger budgets do not ensure sustained exploration: agents often stop with budget remaining. Yet what happens when execution continues beyond stopping remains underexplored. We investigate this gap on ExploitBe",
+    "title": "Stopping Is Not the Limit: Understanding and Eliciting Agent Capability in Long-Horizon Vulnerability Exploitation",
+    "url": "http://arxiv.org/abs/2611.22888v1"
+  },
+  "2611.22905v1": {
+    "authors": [
+      "Ashman Mehra"
+    ],
+    "category": "cs.SE",
+    "summary": "Think Before You Code (TBYC) is a benchmark pipeline for studying whether code-focused language models can reason about software issues in ways that resemble human engineering deliberation. The benchmark curates GitHub issue discussions into structured records, extracts human discussion artifacts such as problems, solutions, constraints, rationales, and trade-offs, and then prompts models to gener",
+    "title": "Think Before You Code: A Benchmark for Testing LLMs on Software Engineering Deliberation",
+    "url": "http://arxiv.org/abs/2611.22905v1"
+  },
+  "2611.22991v1": {
+    "authors": [
+      "Moriya Dechtiar",
+      "Daniel Martin Katz",
+      "Michael J. Bommarito",
+      "Hongming Wang",
+      "Sylvain Jaume"
+    ],
+    "category": "cs.SE",
+    "summary": "Agentic systems using retrieval-augmented generation (RAG) must repair their own answers by gathering more evidence, testing alternative policies and deciding if, when, and what repairs are needed. Yet how do we know if a system's repairs are working when metrics like accuracy can be misleading? We present RagHarnessDebugger, a framework that records every repair decision in a Jev-guided harness f",
+    "title": "RagHarnessDebugger: Jev-Guided Agentic RAG in Contract Inference Repair Auditing",
+    "url": "http://arxiv.org/abs/2611.22991v1"
+  },
+  "2611.23091v1": {
+    "authors": [
+      "Minh Luu",
+      "Michael Quinn",
+      "Aakash Tyagi",
+      "David Houngninou",
+      "Jiang Hu"
+    ],
+    "category": "cs.SE",
+    "summary": "AI-assisted RTL localization and debugging need ground-truth bug datasets with known locations and observable failures, while testbench grading uses injected bugs to measure detection capability. Creating such datasets at scale remains a major EDA challenge. BugGen 1.0 shows that Large Language Models (LLMs) can generate context-aware RTL mutations. Still, it relies on the model for both choosing ",
+    "title": "BugGen 2.0: Rethinking the Roles of LLMs for Scalable RTL Bug Synthesis",
+    "url": "http://arxiv.org/abs/2611.23091v1"
+  },
+  "2611.23142v1": {
+    "authors": [
+      "Lorenzo Masoero"
+    ],
+    "category": "cs.SE",
+    "summary": "The \"AI revolution\" has enabled teams across the technology industry to deliver software features at unprecedented velocity. While code evolves faster than ever, customer-facing documentation often struggles to stay up to speed. As users increasingly rely on LLM-based agents that consume documentation as their primary interface, the impact of this documentation gap worsens: stale information propa",
+    "title": "Mind the Gap: A Deployed Multi-Agent System for Documentation Maintenance",
+    "url": "http://arxiv.org/abs/2611.23142v1"
+  },
+  "2611.23144v1": {
+    "authors": [
+      "Yifan Wang",
+      "Weiguang Zhao",
+      "Ni Yang",
+      "Haoyu Guo",
+      "Junting Dong"
+    ],
+    "category": "cs.CV",
+    "summary": "$π^4$ is a unified foundation model for 4D scene perception. From diverse, uncalibrated RGB observations in the wild---a single image, an unordered collection, or a video sequence---it recovers dense geometry, camera poses, and metric scale, together with 2D/3D point tracks and moving-object masks for multi-image inputs. It couples a geometry branch with a geometry-conditioned motion branch, which",
+    "title": "$π^4$: A Foundation Model for 4D Scene Geometry and Motion",
+    "url": "http://arxiv.org/abs/2611.23144v1"
+  },
+  "2611.23151v1": {
+    "authors": [
+      "Sami BuGhanem",
+      "Francesco Capuano",
+      "Ahitagni Das",
+      "Richard Gao",
+      "Randall Balestriero"
+    ],
+    "category": "cs.SE",
+    "summary": "Training World Models (WMs) relies on processing large amounts of high-dimensional data, which typically needs to be stored, read into memory, and moved from memory to compute units. In principle, GPU-native rendering avoids this movement of large image tensors from memory to compute cores, allowing for better GPU utilization, and training speed-ups. Rendering on-demand also allows to control perc",
+    "title": "stable-envs-v1: Fast and Reproducible Environments with Controllable Variations",
+    "url": "http://arxiv.org/abs/2611.23151v1"
+  },
+  "2611.23153v1": {
+    "authors": [
+      "Chengqian Ma",
+      "Yuanze Zeng",
+      "Hongyu Wang",
+      "Mingfeng Lin",
+      "YiCheng Xiao"
+    ],
+    "category": "cs.CV",
+    "summary": "Video question answering under tight frame budgets requires preserving localized motion and event order, yet current video multimodal large language models (MLLMs) reduce comprehension to static multi-image reasoning by discarding unselected frames and encoding keyframes independently: (1) Spatially, whole-frame pooling dilutes small moving targets into static backgrounds; (2) Temporally, dropping",
+    "title": "VIVID: Beyond Static Multi-Image Reasoning with Localized Visual Differences and Textual Entity Dynamics in Video MLLMs",
+    "url": "http://arxiv.org/abs/2611.23153v1"
+  },
+  "2611.23155v1": {
+    "authors": [
+      "Yixia Zhang",
+      "Girish A. Koushik",
+      "Xilu Wang",
+      "Wenwu Wang"
+    ],
+    "category": "cs.CV",
+    "summary": "Recent advances in text-to-image generation have substantially improved image quality, particularly through diffusion-based methods that require multiple inference steps. In contrast, Sphere Encoder offers an efficient generative framework capable of producing images with fewer forward steps. However, extending it to free-form text is nontrivial, because its class-conditioned design lacks cross-mo",
+    "title": "TextSphere: Efficient Text-to-Image Generation via Shared Hyperspherical Alignment and Uniformity",
+    "url": "http://arxiv.org/abs/2611.23155v1"
+  },
+  "2611.23161v1": {
+    "authors": [
+      "Zaer Bin Zaqy",
+      "Brinnae Bent"
+    ],
+    "category": "cs.CV",
+    "summary": "Networks that predict angles, gaze directions, and rotations do not output these quantities directly: they emit raw coordinates that a fixed decoder, such as normalization, maps to the final prediction. Attribution methods are usually applied to the raw coordinates, so they can credit inputs for changes the decoder discards, such as rescaling a vector when only its direction matters. The resulting",
+    "title": "Attribution Through the Decoder: Prediction-Space Explanations for Structured Outputs",
+    "url": "http://arxiv.org/abs/2611.23161v1"
+  },
+  "2611.23177v1": {
+    "authors": [
+      "Mranmay Shetty",
+      "Gabriel Kreiman"
+    ],
+    "category": "cs.CV",
+    "summary": "A working-memory model must remember stimuli and use its memory flexibly to perform different tasks. Here we introduce a model of working memory for images that combines dynamic activity with temporary associations between image features. We train the model on five tasks, including remembering a sample while other images are presented, categorizing distractor images while remembering the sample, a",
+    "title": "Déjà View: A Shared Working-Memory Model for Visual Tasks",
+    "url": "http://arxiv.org/abs/2611.23177v1"
+  },
+  "2611.23179v1": {
+    "authors": [
+      "Hansang Lee"
+    ],
+    "category": "cs.CV",
+    "summary": "Preference optimization (PO) is the standard way to reduce object hallucination in large vision-language models. We find that four public PO checkpoints of LLaVA-1.5-7B also lower object coverage. They name fewer object categories, and their lower hallucination rates bring no significant gain in set-level object F1 on CHAIR. We therefore ask how much of the PO gain the base model can reproduce by ",
+    "title": "Say Less, Hallucinate Less? Diagnosing and Restoring Object Coverage in Preference-Optimized Vision-Language Models",
+    "url": "http://arxiv.org/abs/2611.23179v1"
+  },
+  "2611.23187v1": {
+    "authors": [
+      "Hongye Hou",
+      "Zhuoxiao Li",
+      "Liu Xiangyu",
+      "Tengxi Wang",
+      "Jing Ou"
+    ],
+    "category": "cs.CV",
+    "summary": "Abstracting structured buildings from limited observations is essential for 3D urban modeling and digital twins. Partial point clouds and overhead images of the same building provide incomplete 3D surface measurements and visual cues to its footprint, roof geometry, and rooftop structures, respectively. This motivates a unified framework that aligns geometric and visual cues in 3D and reconstructs",
+    "title": "Any2Building: Unifying Point Clouds and Images for Building Reconstruction via Shared Spatial Queries",
+    "url": "http://arxiv.org/abs/2611.23187v1"
+  },
+  "2611.23189v1": {
+    "authors": [
+      "Vincenzo Marcianò",
+      "Xiaoming Zhang",
+      "Michela Antonelli",
+      "Sebastien Ourselin",
+      "Maria A Zuluaga"
+    ],
+    "category": "cs.CV",
+    "summary": "Automated segmentation is routinely used as the first step in quantitative image-based clinical workflows, where predicted masks are subsequently reviewed and corrected by human operators. Automated correction of the residual structural errors is currently addressed one anatomy at a time, so the number of trained correctors scales with the number of segmentation targets. We present GRACE, a retrie",
+    "title": "Retrieval-Augmented Correction for Generalist Medical Image Segmentation",
+    "url": "http://arxiv.org/abs/2611.23189v1"
+  },
+  "2611.23203v1": {
+    "authors": [
+      "Mohammadjavad Mehditabar",
+      "Saurabhsingh Rajput",
+      "Tushar Sharma"
+    ],
+    "category": "cs.SE",
+    "summary": "Energy smells are inefficient implementations that waste energy. Once code reaches production, these smells become costlier and riskier to fix, so energy efficiency checks should shift left, i.e., move earlier in the development lifecycle, to where code is written. Existing energy smell tools rely on fixed static rules and do not measure energy savings, whereas LLM-based optimizers mostly target e",
+    "title": "Identifying and Repairing Energy Smells with Agent Skills",
+    "url": "http://arxiv.org/abs/2611.23203v1"
+  },
+  "2611.23205v1": {
+    "authors": [
+      "Mehmet Altan Toksöz"
+    ],
+    "category": "cs.SE",
+    "summary": "Small language models that run on a laptop are attractive for writing signal-processing code offline, but they make systematic errors on digital signal processing (DSP) conventions. We apply supervised fine-tuning (SFT) to the Gemma 4 edge models E2B and E4B with 66 checked examples covering 11 signal-processing MATLAB subtasks, using low-rank adaptation (LoRA) and quantized LoRA (QLoRA) on the in",
+    "title": "Fine-Tuning Gemma 4 Edge Models for MATLAB Signal-Processing Code with SFT and QLoRA on a Laptop iGPU",
+    "url": "http://arxiv.org/abs/2611.23205v1"
+  },
+  "2611.23206v1": {
+    "authors": [
+      "Tongxi Wu",
+      "Yuyang Cheng",
+      "Jiacheng Xian",
+      "Menglin Yang",
+      "Kai Chen"
+    ],
+    "category": "cs.CV",
+    "summary": "Vision-language models (VLMs) can provide harmful assistance by interpreting visual events, even without an explicit request for the underlying harmful objective. We identify this \\textbf{scene-state safety vulnerability} and introduce \\textbf{SceneSafetyBench}, comprising 375 image--question pairs spanning Initial, Medium, and Ultimate scene states and five visual presentations. Across eight VLMs",
+    "title": "Reading Scene States: Uncovering Safety Failures in Vision-Language Models",
+    "url": "http://arxiv.org/abs/2611.23206v1"
+  },
+  "2611.23208v1": {
+    "authors": [
+      "Aviv Yossef",
+      "Or Patashnik",
+      "Or Zamir"
+    ],
+    "category": "cs.CV",
+    "summary": "We present a provably distortion-free semantic watermarking algorithm that requires only black-box sampling access to a generative model and black-box access to a semantic embedding. A watermark is called distortion-free if, averaged over its secret detection key, it leaves the generator's output distribution unchanged; this provides a formal guarantee that watermarking does not reduce output qual",
+    "title": "Distortion-Free Semantic Watermarks for Black-Box Generative Models",
+    "url": "http://arxiv.org/abs/2611.23208v1"
+  },
+  "2611.23209v1": {
+    "authors": [
+      "Gabriel Sarch",
+      "Declan Campbell",
+      "Nicholas Budny",
+      "Kia Ghods",
+      "Katerina Fragkiadaki"
+    ],
+    "category": "cs.CV",
+    "summary": "Human visual reasoning is driven by systematic exploration and extraction of task-relevant visual evidence. Human gaze provides a window into this process, making gaze a useful source of guidance for visually-grounded reasoning in vision-language models (VLMs). However, human gaze also includes noise and redundancies that may transfer poorly to VLMs. In this work, we investigate how human gaze dat",
+    "title": "Learning Grounded Reasoning from Human Gaze",
+    "url": "http://arxiv.org/abs/2611.23209v1"
+  },
+  "2611.23211v1": {
+    "authors": [
+      "John Gideon",
+      "Anshul Gupta",
+      "Megan Applegate-Kenton",
+      "Kayli Battel",
+      "Todd J Rowell"
+    ],
+    "category": "cs.CV",
+    "summary": "Human cognitive state (e.g., distraction, stress), gaze, and behavior interact with the driving environment in subtle ways that AI could use to assist drivers, but ground-truth labels for human cognitive state levels are costly to obtain at scale. We propose a multimodal masked-diffusion autoencoder, ID-MAE, that adds a self-supervised objective to impairment prediction: alongside predicting the i",
+    "title": "Multimodal Masked Diffusion Autoencoder for Modeling Impaired Driving",
+    "url": "http://arxiv.org/abs/2611.23211v1"
+  },
+  "2611.23212v1": {
+    "authors": [
+      "Zhouhan Qian",
+      "Sicheng Chen",
+      "Chad Wong",
+      "Tianyi Zhang",
+      "Enhui Chai"
+    ],
+    "category": "cs.CV",
+    "summary": "Histopathological analysis of whole-slide images (WSIs) plays a critical role in cancer diagnosis, and multiple instance learning (MIL) is widely adopted for WSI analysis under weak supervision. As new tumor subtypes are introduced, extending existing MIL models requires learning new classes while retaining knowledge of previously learned ones. This presents a class-incremental learning challenge,",
+    "title": "EviSlide-MIL: Multi-Query Pooling and Shared Prediction for Class-Incremental Whole-Slide Image Classification",
+    "url": "http://arxiv.org/abs/2611.23212v1"
+  },
+  "2611.23216v1": {
+    "authors": [
+      "Yining Hua"
+    ],
+    "category": "cs.SE",
+    "summary": "New coding models advertise themselves on score improvements of coding benchmarks. Yet no study has tested if a model that scores higher on these benchmarks gets more real work done. On June 12, 2026, a U.S. export control directive banned access to Claude Fable 5 for 19 days, which forced users to switch to other models. During this time, most former Fable 5 users switched to Opus 4.8 (11 points ",
+    "title": "Higher-Scoring Coding Models Did Not Get More Work Done",
+    "url": "http://arxiv.org/abs/2611.23216v1"
+  },
+  "2611.23226v1": {
+    "authors": [
+      "Gene Chou",
+      "Guandao Yang",
+      "Fujun Luan",
+      "Lars Mescheder",
+      "Wei Dong"
+    ],
+    "category": "cs.CV",
+    "summary": "Autoregressive video diffusion models generate frames based on new observations and inputs, making them a promising medium for interactive visual experiences. However, existing models are orders of magnitude too slow for fluid interaction. This paper introduces FastFrames, a family of fast autoregressive video diffusion models that achieves interactive latency without compromising quality. We prof",
+    "title": "FastFrames: Video Generation at Interactive Latency",
+    "url": "http://arxiv.org/abs/2611.23226v1"
+  },
+  "2611.23228v1": {
+    "authors": [
+      "Rui Ning",
+      "Om Chabra",
+      "Hari Balakrishnan"
+    ],
+    "category": "cs.CV",
+    "summary": "Applications such as visual accessibility agents and robotics require answering questions about recent video content promptly, over a bounded window of past frames (e.g., the last two minutes). Hybrid vision-language models (VLMs), which interleave attention with linear recurrent layers such as Gated DeltaNet (GDN), are attractive for this setting, but maintaining a sliding window is expensive. Th",
+    "title": "Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models",
+    "url": "http://arxiv.org/abs/2611.23228v1"
+  }
+}
