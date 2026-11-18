@@ -11,28 +11,28 @@
       "created": "2026-11-13",
       "description": "揪咪 Jiumi：开源安卓应用行为监测与管理，查看权限访问和网络活动。Android app activity & privacy monitor. No root required.",
       "name": "ybblab/Jiumi",
-      "stars": 217,
+      "stars": 246,
       "url": "https://github.com/ybblab/Jiumi"
-    },
-    {
-      "created": "2026-11-13",
-      "description": "A minimal Android music player for Spotify, YouTube Music, and local audio.",
-      "name": "aarush-io/melo",
-      "stars": 154,
-      "url": "https://github.com/aarush-io/melo"
     },
     {
       "created": "2026-11-17",
       "description": "本地优先的 Android 订阅管理 App：自动滚动账单日、到期前每日提醒、30+ 币种实时汇率换算、账单日历、支出统计与桌面小组件，内置 240+ 国内外服务预设",
       "name": "capllen/Subnook",
-      "stars": 142,
+      "stars": 171,
       "url": "https://github.com/capllen/Subnook"
+    },
+    {
+      "created": "2026-11-13",
+      "description": "A minimal Android music player for Spotify, YouTube Music, and local audio.",
+      "name": "aarush-io/melo",
+      "stars": 158,
+      "url": "https://github.com/aarush-io/melo"
     },
     {
       "created": "2026-11-12",
       "description": "An app that shows edge pops/animation when you press side buttons, a custom volume slider, and two action panels inspired by a concept design is now a reality",
       "name": "DarkAspect1/Nudge",
-      "stars": 138,
+      "stars": 139,
       "url": "https://github.com/DarkAspect1/Nudge"
     },
     {
@@ -46,28 +46,28 @@
       "created": "2026-11-16",
       "description": "脱敏 — Android 本地截图隐私处理工具",
       "name": "Chen-Yu-Qing2005/tuomin",
-      "stars": 120,
+      "stars": 121,
       "url": "https://github.com/Chen-Yu-Qing2005/tuomin"
-    },
-    {
-      "created": "2026-11-14",
-      "description": "Native Android WhatsApp companion in Jetpack Compose & Go, with anti-ban rate-limit protection, privacy switches, channels, and in-app updates.",
-      "name": "hanzalaramz/Wupp",
-      "stars": 96,
-      "url": "https://github.com/hanzalaramz/Wupp"
     },
     {
       "created": "2026-11-14",
       "description": "最好用的 Android 离线语音克隆与三语 TTS（误）——基于 GPT-SoVITS，支持中日英。 | The best offline voice cloning & trilingual TTS on Android (jk) — powered by GPT-SoVITS (ZH/JA/EN).",
       "name": "Renakoni/Voicebox",
-      "stars": 88,
+      "stars": 98,
       "url": "https://github.com/Renakoni/Voicebox"
+    },
+    {
+      "created": "2026-11-14",
+      "description": "Native Android WhatsApp companion in Jetpack Compose & Go, with anti-ban rate-limit protection, privacy switches, channels, and in-app updates.",
+      "name": "hanzalaramz/Wupp",
+      "stars": 98,
+      "url": "https://github.com/hanzalaramz/Wupp"
     },
     {
       "created": "2026-11-16",
       "description": "一款 Xiaomi HyperOS 风格的安卓国铁信息聚合查询应用",
       "name": "ybhgl/CRInfo",
-      "stars": 72,
+      "stars": 73,
       "url": "https://github.com/ybhgl/CRInfo"
     }
   ]
