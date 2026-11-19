@@ -20,7 +20,7 @@ picks a random subset of sources, so coverage varies from day to day.
 
 ## Trending on Hacker News this week
 
-`code` ×11 · `nvidia` ×7 · `security` ×6 · `agents` ×6 · `ground` ×6 · `all` ×5 · `national` ×4 · `down` ×4 · `stopped` ×4 · `team` ×4 · `apple` ×4 · `inference` ×4 · `software` ×4 · `engineering` ×4 · `side` ×4
+`code` ×12 · `agents` ×8 · `nvidia` ×7 · `security` ×6 · `ground` ×6 · `apple` ×5 · `live` ×5 · `stop` ×5 · `down` ×5 · `all` ×5 · `models` ×5 · `engineering` ×5 · `national` ×4 · `stopped` ×4 · `coding` ×4
 
 ## How it works
 
