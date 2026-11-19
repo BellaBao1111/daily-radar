@@ -13,6 +13,13 @@
     "title": "IPv6 delegation, an unusually subtle failure mode",
     "url": "https://savyasacheejha.com/posts/why-odhcpd/"
   },
+  "50510385": {
+    "author": "acossta",
+    "comments": 9,
+    "points": 45,
+    "title": "Cuttlefish on Mac: Android's Virtual Device Framework on Apple Silicon",
+    "url": "https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/"
+  },
   "50517410": {
     "author": "McAvey",
     "comments": 9,
@@ -26,6 +33,34 @@
     "points": 58,
     "title": "My Emacs 31 contributions",
     "url": "https://xenodium.com/my-emacs-31-contributions"
+  },
+  "50523377": {
+    "author": "aryaman_darda",
+    "comments": 2,
+    "points": 49,
+    "title": "Show HN: Open-source, real-time object tracking for live video feeds",
+    "url": "https://github.com/aryamandarda/tamserve"
+  },
+  "50524227": {
+    "author": "wawayanda",
+    "comments": 3,
+    "points": 35,
+    "title": "A Collage Showing 49 Drill Holes Made by NASA's Curiosity Mars Rover",
+    "url": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/"
+  },
+  "50525260": {
+    "author": "kusha",
+    "comments": 17,
+    "points": 49,
+    "title": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline",
+    "url": "https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/"
+  },
+  "50526087": {
+    "author": "baby",
+    "comments": 1,
+    "points": 8,
+    "title": "Collisions in Hash Functions",
+    "url": "https://collisions.zksecurity.xyz/"
   },
   "50532191": {
     "author": "Edward40",
@@ -208,5 +243,180 @@
     "points": 0,
     "title": "Evidence (YC S21) Is Hiring",
     "url": "https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead"
+  },
+  "50545958": {
+    "author": "ritzaco",
+    "comments": 227,
+    "points": 611,
+    "title": "DNS resolvers are the wrong place to fight piracy",
+    "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/"
+  },
+  "50546914": {
+    "author": "DeepLogin",
+    "comments": 172,
+    "points": 244,
+    "title": "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026",
+    "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026"
+  },
+  "50547374": {
+    "author": "speedping",
+    "comments": 520,
+    "points": 1172,
+    "title": "Unauthenticated remote code execution in Nginx",
+    "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities"
+  },
+  "50547620": {
+    "author": "gyre007",
+    "comments": 191,
+    "points": 568,
+    "title": "Inside Deutsche Bank",
+    "url": "https://www.inside-db.com/"
+  },
+  "50547777": {
+    "author": "Betelbuddy",
+    "comments": 165,
+    "points": 373,
+    "title": "AI agents ask better questions than KPMG accountants in audit trial",
+    "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/"
+  },
+  "50547980": {
+    "author": "zerocool0101",
+    "comments": 51,
+    "points": 174,
+    "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
+    "url": "https://exitpath-ruddy.vercel.app/"
+  },
+  "50548021": {
+    "author": "gmays",
+    "comments": 323,
+    "points": 463,
+    "title": "Seven new models at scalable price-performance",
+    "url": "https://microsoft.ai/news/microsoft-ignite-2026/"
+  },
+  "50548161": {
+    "author": "raj-shekhar",
+    "comments": 34,
+    "points": 159,
+    "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
+    "url": "https://rshekhar.com/voyager/"
+  },
+  "50549188": {
+    "author": "ashriv",
+    "comments": 38,
+    "points": 45,
+    "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
+    "url": "https://news.ycombinator.com/item?id=50549188"
+  },
+  "50549493": {
+    "author": "vighneshiyer",
+    "comments": 107,
+    "points": 167,
+    "title": "Advancing chip design with OpenAI models",
+    "url": "https://openai.com/index/advancing-chip-design-with-our-models/"
+  },
+  "50550415": {
+    "author": "leumon",
+    "comments": 143,
+    "points": 199,
+    "title": "Genie 4 is now available",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/"
+  },
+  "50551046": {
+    "author": "de_sty",
+    "comments": 41,
+    "points": 149,
+    "title": "DaisyRose-27B",
+    "url": "https://www.radixark.com/blog/daisyrose-27b"
+  },
+  "50552424": {
+    "author": "yigitdemirag",
+    "comments": 464,
+    "points": 502,
+    "title": "Gemini 4 Neon",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+  },
+  "50553225": {
+    "author": "ioma8",
+    "comments": 16,
+    "points": 81,
+    "title": "LLM assisted reverse engineering",
+    "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering"
+  },
+  "50553843": {
+    "author": "surprisetalk",
+    "comments": 46,
+    "points": 92,
+    "title": "Anthropic prices initial public offering",
+    "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+  },
+  "50554009": {
+    "author": "alpb",
+    "comments": 2,
+    "points": 17,
+    "title": "Palo Alto Networks to Acquire Applied Compute for $4.5B",
+    "url": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open"
+  },
+  "50554038": {
+    "author": "runesoerensen",
+    "comments": 21,
+    "points": 94,
+    "title": "Multiple vulnerabilities in Regexp and String case conversion",
+    "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/"
+  },
+  "50554045": {
+    "author": "ExMachina73",
+    "comments": 136,
+    "points": 257,
+    "title": "We need smart people who give a shit",
+    "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/"
+  },
+  "50554374": {
+    "author": "seizethecheese",
+    "comments": 31,
+    "points": 98,
+    "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+    "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/"
+  },
+  "50554641": {
+    "author": "DeepLogin",
+    "comments": 1,
+    "points": 29,
+    "title": "Black high school students sue after AI mistakes Doritos bag for gun",
+    "url": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/"
+  },
+  "50554908": {
+    "author": "dalmo3",
+    "comments": 4,
+    "points": 11,
+    "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
+    "url": "https://arxiv.org/abs/2607.29378"
+  },
+  "50554935": {
+    "author": "TheAceOfHearts",
+    "comments": 5,
+    "points": 23,
+    "title": "Unreal Tournament 2004 in the Browser",
+    "url": "https://ut2004.dev/"
+  },
+  "50554941": {
+    "author": "ri4dh",
+    "comments": 0,
+    "points": 9,
+    "title": "FailTrace – Reproduce a failed GitHub Actions run locally from its URL",
+    "url": "https://github.com/Ri4dH/failtrace"
+  },
+  "50554973": {
+    "author": "jonnyasmar",
+    "comments": 2,
+    "points": 7,
+    "title": "Show HN: ADE Index – a sourced and ranked index of 975 agentic coding tools",
+    "url": "https://adeindex.com"
+  },
+  "50555093": {
+    "author": "madars",
+    "comments": 26,
+    "points": 46,
+    "title": "AI Will Not Make You Rich (2025)",
+    "url": "https://colossus.com/article/ai-will-not-make-you-rich/"
   }
 }
