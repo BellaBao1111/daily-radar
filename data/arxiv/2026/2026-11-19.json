@@ -89,6 +89,19 @@
     "title": "Interpersonal trust, institutional trust and trust in technology in Air Traffic Control",
     "url": "http://arxiv.org/abs/2611.24715v1"
   },
+  "2611.24785v1": {
+    "authors": [
+      "Xinyi Guo",
+      "Kaile Huang",
+      "Xitong Ling",
+      "Mingyi He",
+      "Chende Zheng"
+    ],
+    "category": "cs.CV",
+    "summary": "Vision-language models (VLMs) are often asked several questions about the same image in a single prompt (co-asking), yet existing evaluations report conflicting accuracy gains and hallucinations at the prompt level without tracking how individual answers change. By pairing each question's single-question and co-asked answers across 22 open-weight VLMs (1B-35B), we find that erratic net shifts refl",
+    "title": "Read Together, Answer Apart: How Earlier Questions Help Vision-Language Models Look",
+    "url": "http://arxiv.org/abs/2611.24785v1"
+  },
   "2611.24791v1": {
     "authors": [
       "Rob Procter",
@@ -101,6 +114,62 @@
     "summary": "We report preliminary findings from an ongoing investigation into transparency techniques for computational Air Traffic Control agents. Air Traffic Controller Officers (ATCOs) observed two types of agent in simulated air traffic controlling exercises. ATCOs found the chosen transparency techniques helpful to some extent: revealing how agents were making controlling decisions was an essential found",
     "title": "Towards Transparent Computational Agents for Air Traffic Control: Explainability, Interpretability and Trust",
     "url": "http://arxiv.org/abs/2611.24791v1"
+  },
+  "2611.24792v1": {
+    "authors": [
+      "Ziwen Chen"
+    ],
+    "category": "cs.CV",
+    "summary": "Self-supervised encoders for animal behavior are often trained on, or fed, hand-built movement features. We ask whether they beat those ingredients when compared fairly. A training-free representation, made of generic per-frame measurements summarized over fixed time windows and reduced with PCA, is compared with retrained and released encoders (BAMS, hBehaveMAE) under a preregistered protocol: fr",
+    "title": "Training-free motion statistics match self-supervised behavior encoders",
+    "url": "http://arxiv.org/abs/2611.24792v1"
+  },
+  "2611.24793v1": {
+    "authors": [
+      "Tobias Braun",
+      "Marcus Rohrbach",
+      "Lorenzo Cavallaro"
+    ],
+    "category": "cs.CV",
+    "summary": "Visualizing intermediate representations could help us inspect the reasoning steps underlying a model output. Unified multimodal models offer this opportunity by combining understanding and generation in one architecture. Their image generators can access representations formed while processing text. We introduce the V-lens, which uses this connection to visualize a chosen token's hidden state wit",
+    "title": "The Elephant in the Question: Unified Models Picture the Concepts Behind Their Answers",
+    "url": "http://arxiv.org/abs/2611.24793v1"
+  },
+  "2611.24795v1": {
+    "authors": [
+      "Liu He",
+      "Yizhi Song",
+      "Ruiqi Xu",
+      "Baris Sarper Tezcan",
+      "Xiao Zeng"
+    ],
+    "category": "cs.CV",
+    "summary": "Multimodal Large Language Models (MLLMs) struggle with accurately capturing camera-object relations, especially for object orientation, camera viewpoint, and camera shots. This stems from the fact that existing MLLMs are trained on images with limited diverse camera-object relations and corresponding textual descriptions. To address this, we propose a synthetic generation pipeline to create large-",
+    "title": "Ultimate3D: Teaching Multimodal LLMs 3D Camera-Object Relations by Large-Scale Visual Instruction Data",
+    "url": "http://arxiv.org/abs/2611.24795v1"
+  },
+  "2611.24805v1": {
+    "authors": [
+      "Yunong Sun",
+      "Sicheng Chen",
+      "Fei Xia"
+    ],
+    "category": "cs.CV",
+    "summary": "Smart wearable devices, such as augmented reality glasses, increasingly rely on cameras to understand and interact with their surroundings. However, their compact sensors often capture noisy RAW images, while limited compute and power make high-quality on-device restoration difficult. This creates an emerging need to reduce both local computation and transmission cost without sacrificing image qua",
+    "title": "Edge-Efficient Joint RAW Image Compression and Restoration for Smart Wearable Devices",
+    "url": "http://arxiv.org/abs/2611.24805v1"
+  },
+  "2611.24806v1": {
+    "authors": [
+      "Juan Gutiérrez",
+      "Saman Zadtootaghaj",
+      "José Luis Blanco-Murillo",
+      "Sara Atito"
+    ],
+    "category": "cs.CV",
+    "summary": "Self-supervised learning has produced powerful visual representations, yet learning strong dense features remains challenging. While consistency between augmented views provides strong image-level supervision, extending this principle to local visual content is less straightforward. Existing approaches often match individual patches across views or identify coherent regions, introducing uncertaint",
+    "title": "ReCoCo: From Patches to Compositions for Visual Representation Learning",
+    "url": "http://arxiv.org/abs/2611.24806v1"
   },
   "2611.24818v1": {
     "authors": [
@@ -127,6 +196,19 @@
     "title": "One size does not fit all: session-specific effects of deep brain stimulation on hand-motor kinematics in Parkinson's disease",
     "url": "http://arxiv.org/abs/2611.24823v1"
   },
+  "2611.24827v1": {
+    "authors": [
+      "Ege Artan",
+      "Shuo Chen",
+      "Andrew Peng",
+      "Sammuel Aldrich Karya",
+      "Kyaw Thiha"
+    ],
+    "category": "cs.CV",
+    "summary": "The spectral range of the Field Imaging Nanosatellite for Crop residue Hyperspectral Mapping (FINCH), developed by the University of Toronto Aerospace Team's Space System Division, poses significant challenges for hyperspectral unmixing to determine crop residue cover fractional abundances. The severe lack of standard indices necessitates the use of complex, data-driven unmixing models. Complex un",
+    "title": "Synthesizing hyperspectral Data using generative Models to train spectral Unmixing Methods for low-cost Crop Residue Cover Mapping",
+    "url": "http://arxiv.org/abs/2611.24827v1"
+  },
   "2611.24830v1": {
     "authors": [
       "Haoran Ye",
@@ -150,6 +232,41 @@
     "title": "Overlooked and Underutilized: Prototypes are the Missing Piece in Tabular XAI",
     "url": "http://arxiv.org/abs/2611.24831v1"
   },
+  "2611.24840v1": {
+    "authors": [
+      "Binay Kumar Singh",
+      "Niels Da Vitoria Lobo"
+    ],
+    "category": "cs.CV",
+    "summary": "World models are increasingly used in autonomous driving to predict how a scene evolves under the ego vehicle's actions, supporting counterfactual reasoning and model-based planning. However, existing evaluations focus on prediction fidelity and planning performance, and rarely verify that the predictions depend on the conditioning action. In this paper, we study action dependence in action-condit",
+    "title": "Does the Action Matter? Probing Action-Conditioned Semantic Forecasting as a World Model for Autonomous Driving",
+    "url": "http://arxiv.org/abs/2611.24840v1"
+  },
+  "2611.24862v1": {
+    "authors": [
+      "Téo Guichoux",
+      "Théodor Lemerle",
+      "Catherine Pelachaud",
+      "Nicolas Obin"
+    ],
+    "category": "cs.CV",
+    "summary": "Human communication involves highly coordinated multimodal signals such as speech and co-speech gestures. Existing approaches for generating both modalities commonly follow a cascaded pipeline, where speech is generated first and subsequently used to drive gesture generation; speech generation is therefore independent of gestures. We introduce Gaspard, a unified speech--gesture generation model ba",
+    "title": "Gaspard: Expressive unified speech and gesture synthesis with continuous autoregressive flow-matching and decoupled classifier-free guidance",
+    "url": "http://arxiv.org/abs/2611.24862v1"
+  },
+  "2611.24864v1": {
+    "authors": [
+      "Chenjie Zhao",
+      "Zhiliang Zhu",
+      "Quan Chen",
+      "Yuquan Xue",
+      "Xingxue Shi"
+    ],
+    "category": "cs.CV",
+    "summary": "Underwater navigation requires translating visual spatial cues into motion, yet marine vision-language datasets rarely include paired robot trajectories. We present NereidVLA, a vision-language-action model that transfers marine spatial knowledge to language-conditioned 3D navigation. We first train Sea2Know on approximately two million marine examples to learn target grounding, spatial relations,",
+    "title": "NereidVLA: Learning to Understand and Navigate the Underwater World",
+    "url": "http://arxiv.org/abs/2611.24864v1"
+  },
   "2611.24888v1": {
     "authors": [
       "Muhammad Rizky Wellyanto",
@@ -163,6 +280,43 @@
     "title": "Who are you? The Personal Imitation Game",
     "url": "http://arxiv.org/abs/2611.24888v1"
   },
+  "2611.24904v1": {
+    "authors": [
+      "Shagun Mittal",
+      "Raymond A. Yeh",
+      "Satish Ukkusuri"
+    ],
+    "category": "cs.CV",
+    "summary": "Overhead aerial imagery feeds dense-prediction pipelines that are routinely trained in one geographic region and deployed in another, yet no benchmark measures how shadow detection models transfer across regions. Existing overhead shadow datasets either lack a geographic transfer protocol or rely on automatically generated labels. We introduce ShadowTransfer, a benchmark of 4,500 human-verified sh",
+    "title": "ShadowTransfer: A Geographic Transfer Benchmark for Overhead Shadow Detection",
+    "url": "http://arxiv.org/abs/2611.24904v1"
+  },
+  "2611.24915v1": {
+    "authors": [
+      "Zhaocheng Yu",
+      "Kui Jiang",
+      "Jing Cao",
+      "Yiang Chen",
+      "Xiaocheng Feng"
+    ],
+    "category": "cs.CV",
+    "summary": "Agentic image restoration composes operations to handle mixed degradations, yet its toolbox often requires storing multiple restoration networks. We propose PrismRestore, which constructs a compact bank of callable restoration actions from a single frozen all-in-one model. Our approach builds on task-dependent yet overlapping channel responses in the shared model. An offline task-prior search uses",
+    "title": "PrismRestore: A Compact Restoration Toolbox for Agentic Image Restoration",
+    "url": "http://arxiv.org/abs/2611.24915v1"
+  },
+  "2611.24917v1": {
+    "authors": [
+      "Sen Fang",
+      "Yalin Feng",
+      "Yancheng Zhang",
+      "Yanxin Zhang",
+      "Zonglin Lyu"
+    ],
+    "category": "cs.CV",
+    "summary": "In this paper, we propose a Unified Law for Visual Tasks, which could be further divided into Four Laws of Computer Vision, with the goal of enabling a single framework or method to uniformly train on and perform nearly all visual tasks. Our starting point is an inspiration and hypothesis: if the world information is encoded into image, which we call World Snapshots, then image processing is world",
+    "title": "Unified Law for Visual Tasks (The Four Laws of Computer Vision)",
+    "url": "http://arxiv.org/abs/2611.24917v1"
+  },
   "2611.24932v1": {
     "authors": [
       "Priyanka Sinha",
@@ -172,5 +326,31 @@
     "summary": "When a capable model and a human reviewer cooperate on the same decision, which human still adds value? We argue this is a question about a single cognitive trait, metacognitive calibration: the alignment between a reviewer's behavioral confidence and the actual correctness of their judgments. We develop a trait theory of reviewer value to make it precise. The theory makes five claims: value is go",
     "title": "Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems",
     "url": "http://arxiv.org/abs/2611.24932v1"
+  },
+  "2611.24940v1": {
+    "authors": [
+      "Junjie Ye",
+      "Yiqi Zhao",
+      "Muchen Xu",
+      "Celina Shiyu Wang",
+      "Hao Dong"
+    ],
+    "category": "cs.CV",
+    "summary": "We introduce $Z$-sight, a unified robot foundation model that couples vision-language-action (VLA) and generative latent world modeling. Video-based world action models (WAMs) show the value of joint future-and-action generation for control, yet inherit the heavy cost of video generators. Recent latent-space policies avoid pixel generation, yet typically align intermediate features or rely on froz",
+    "title": "$Z$-sight: Unifying Vision-Language-Action and Latent World Modeling",
+    "url": "http://arxiv.org/abs/2611.24940v1"
+  },
+  "2611.24941v1": {
+    "authors": [
+      "Jingzhi Bao",
+      "Xiaohe Ma",
+      "Hong Li",
+      "Yuanming Hu",
+      "Xiaoguang Han"
+    ],
+    "category": "cs.CV",
+    "summary": "Generating physically based rendering (PBR) texture maps for a 3D mesh from a single reference image is highly ambiguous, as the observed appearance entangles material identity, surface reflectance, and illumination. While current generative methods produce realistic albedo maps, they still struggle to infer accurate metallic and roughness attributes for relighting. We present UltraTex, a cascaded",
+    "title": "UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation",
+    "url": "http://arxiv.org/abs/2611.24941v1"
   }
 }
