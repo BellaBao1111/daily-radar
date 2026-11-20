@@ -1,0 +1,146 @@
+{
+  "C++": [
+    {
+      "created": "2026-11-16",
+      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsa",
+      "name": "krisgfx9/Wireless-Device-Battery-Monitor",
+      "stars": 5249,
+      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor"
+    },
+    {
+      "created": "2026-11-15",
+      "description": "把小爱音箱 Pro 改成孩子的英语玩伴：喊豆包豆包，用英语聊天，记得孩子",
+      "name": "rolazd/xiaoai-doubao",
+      "stars": 358,
+      "url": "https://github.com/rolazd/xiaoai-doubao"
+    },
+    {
+      "created": "2026-11-14",
+      "description": "Malware Defender 2026 desktop setup with real-time protection against malware and ransomware, deep system scan with quarantine and removal, plus web shield that blocks phishing and malicious sites for",
+      "name": "brisk-thrush-husky/malware-defender-desktop",
+      "stars": 306,
+      "url": "https://github.com/brisk-thrush-husky/malware-defender-desktop"
+    },
+    {
+      "created": "2026-11-14",
+      "description": "Topaz Video AI 2026 desktop setup with AI upscaling up to 16K with detail recovery, frame interpolation for smooth slow-motion, plus deinterlace, denoise and stabilize footage for Windows 11",
+      "name": "bradburns2001/topaz-video-ai-desktop",
+      "stars": 304,
+      "url": "https://github.com/bradburns2001/topaz-video-ai-desktop"
+    },
+    {
+      "created": "2026-11-14",
+      "description": "Adobe Acrobat PDF 2026 desktop setup with text and image editing directly inside any PDF, conversion to and from Word, Excel and images, plus fill, sign and merge documents with an AI assistant for Wi",
+      "name": "briskember13/adobe-acrobat-pdf-desktop",
+      "stars": 303,
+      "url": "https://github.com/briskember13/adobe-acrobat-pdf-desktop"
+    },
+    {
+      "created": "2026-11-14",
+      "description": "Leonardo AI 2026 desktop setup with text-to-image generation using fine-tuned models, canvas editor with inpainting and outpainting, plus real-time generation and image-to-motion for Windows 11",
+      "name": "brave-plum-co/leonardo-ai-desktop",
+      "stars": 303,
+      "url": "https://github.com/brave-plum-co/leonardo-ai-desktop"
+    },
+    {
+      "created": "2026-11-14",
+      "description": "Pro Tools 2026 desktop setup with multitrack editing, MIDI sequencing, VST hosting and a portable mode for Windows 11",
+      "name": "alicebrown323/pro-tools-desktop",
+      "stars": 211,
+      "url": "https://github.com/alicebrown323/pro-tools-desktop"
+    },
+    {
+      "created": "2026-11-14",
+      "description": "Ableton Live 11 2026 desktop setup with full plugin suite, multitrack session engine and bundled instruments for offline Windows 11 deployment",
+      "name": "cathycollins-io08/ableton-live-11-desktop",
+      "stars": 210,
+      "url": "https://github.com/cathycollins-io08/ableton-live-11-desktop"
+    },
+    {
+      "created": "2026-11-14",
+      "description": "JetBrains PyCharm 2026 desktop setup with bundled plugin suite, offline runtime and portable mode for Windows 10 and 11 x64 hosts",
+      "name": "carla-butler-46/jetbrains-pycharm-desktop",
+      "stars": 210,
+      "url": "https://github.com/carla-butler-46/jetbrains-pycharm-desktop"
+    },
+    {
+      "created": "2026-11-14",
+      "description": "Acrobat DC 2026 desktop setup with offline deployment, portable mode and bundled multilingual resources for Windows 11",
+      "name": "cindy-murray-39/acrobat-dc-desktop",
+      "stars": 210,
+      "url": "https://github.com/cindy-murray-39/acrobat-dc-desktop"
+    }
+  ],
+  "Zig": [
+    {
+      "created": "2026-11-15",
+      "description": "System programming language with explicit memory, strong value semantics, and C ABI access",
+      "name": "neucine/cyna",
+      "stars": 18,
+      "url": "https://github.com/neucine/cyna"
+    },
+    {
+      "created": "2026-11-20",
+      "description": "Native Zig and Metal inference for Flint with checked execution contracts",
+      "name": "justrach/nanoattention",
+      "stars": 14,
+      "url": "https://github.com/justrach/nanoattention"
+    },
+    {
+      "created": "2026-11-15",
+      "description": "Zig-first native desktop & mobile workspace for coding agents",
+      "name": "justrach/nanoharness",
+      "stars": 12,
+      "url": "https://github.com/justrach/nanoharness"
+    },
+    {
+      "created": "2026-11-14",
+      "description": "A fast native photo viewer in Zig for macOS and Linux",
+      "name": "asingleoat/yekk",
+      "stars": 10,
+      "url": "https://github.com/asingleoat/yekk"
+    },
+    {
+      "created": "2026-11-14",
+      "description": "A Zig-shaped programming language and compiler for the Commodore 64",
+      "name": "ReadyOS-C64/ZeroPageLang",
+      "stars": 7,
+      "url": "https://github.com/ReadyOS-C64/ZeroPageLang"
+    },
+    {
+      "created": "2026-11-17",
+      "description": "Deterministic simulation testing of real systems: a deterministic hypervisor on KVM, an explorer, and SDKs",
+      "name": "determinismo-dst/determinismo",
+      "stars": 7,
+      "url": "https://github.com/determinismo-dst/determinismo"
+    },
+    {
+      "created": "2026-11-17",
+      "description": "Fuzzy and similarity hashes (ssdeep, TLSH, imphash, telfhash, pHash, MinHash and more) in Zig, for Zig, npm and WebAssembly.",
+      "name": "Defense-Exploration-Holdings/fuzzyhash-ng",
+      "stars": 6,
+      "url": "https://github.com/Defense-Exploration-Holdings/fuzzyhash-ng"
+    },
+    {
+      "created": "2026-11-16",
+      "description": "FlightDeck-DeckBO: Parallelizable, session-supporting, nonce-misuse resistant and committing authenticated encryption.",
+      "name": "jedisct1/zig-flightdeck",
+      "stars": 5,
+      "url": "https://github.com/jedisct1/zig-flightdeck"
+    },
+    {
+      "created": "2026-11-14",
+      "description": "Give it a Star maybe?",
+      "name": "ANODs/blackwall",
+      "stars": 4,
+      "url": "https://github.com/ANODs/blackwall"
+    },
+    {
+      "created": "2026-11-17",
+      "description": "A system monitor for Linux that groups every process by the app it belongs to. Native, in Zig, drawn with nanoui.",
+      "name": "dagimg-dot/zmon",
+      "stars": 3,
+      "url": "https://github.com/dagimg-dot/zmon"
+    }
+  ]
+}
