@@ -1,4 +1,65 @@
 {
+  "2611.23879v1": {
+    "authors": [
+      "Tianyu Qi",
+      "Maria A. Rodriguez",
+      "Rajkumar Buyya"
+    ],
+    "category": "cs.DC",
+    "summary": "Stateful Serverless (Function-as-a-Service) environment are increasingly used for stream processing applications. These applications are often structured as pipelines where data flows through a sequence of distinct processing operators. Many operators are stateful and require access to the processing state during execution. To address this, stateful serverless platforms introduce state servers on ",
+    "title": "Locality-Aware Scheduling for Stream Processing Applications in Serverless Environments",
+    "url": "http://arxiv.org/abs/2611.23879v1"
+  },
+  "2611.23883v1": {
+    "authors": [
+      "Tong Wu",
+      "Ziyad Alswaidan",
+      "Shreya Mukherjee",
+      "Ting-Yu Lee",
+      "Daniel Xu"
+    ],
+    "category": "cs.DC",
+    "summary": "Ising machines, dedicated accelerators built around the dynamics of Ising-like spin models, have emerged as a leading platform for combinatorial optimization and probabilistic sampling. The problems that motivate them require millions of spins, far beyond the on-chip capacity of any single device, so a practical Ising machine must distribute its computation across many devices. Prior work reports ",
+    "title": "Accelerating Distributed Digital Ising Machines",
+    "url": "http://arxiv.org/abs/2611.23883v1"
+  },
+  "2611.23908v1": {
+    "authors": [
+      "Yixuan Tong",
+      "Yuanguo Bi",
+      "Mingjian Zhi",
+      "Wenchao Xu",
+      "Yuan Wu"
+    ],
+    "category": "cs.DC",
+    "summary": "One-shot federated learning (OSFL) has attracted increasing attention for its ability to substantially reduce communication overhead by limiting client-server interaction to a single communication round. Nevertheless, this limited interaction makes learning from heterogeneous client distributions challenging. Diffusion-based OSFL approaches seek to address this challenge by synthesizing data that ",
+    "title": "Training-Free Domain Generation for One-Shot Federated Learning with Server-Side Pre-trained Diffusion Models",
+    "url": "http://arxiv.org/abs/2611.23908v1"
+  },
+  "2611.24085v1": {
+    "authors": [
+      "Zihao Wang",
+      "Ye Tian",
+      "Tajana Rosing",
+      "Nalini Venkatasubramanian"
+    ],
+    "category": "cs.DC",
+    "summary": "Evaluating distributed large language model (LLM) serving on heterogeneous edge devices requires exploring diverse model partitions, device placements, and network conditions, making repeated physical experiments costly. An efficient simulator for edge LLM serving must support diverse, fine-grained placement configurations, capture runtime behavior, and accurately predict execution times while kee",
+    "title": "LEDGE: An Efficient Simulator for Distributed LLM Serving on Heterogeneous Edge Devices",
+    "url": "http://arxiv.org/abs/2611.24085v1"
+  },
+  "2611.24119v1": {
+    "authors": [
+      "You Peng",
+      "Youhe Jiang",
+      "Chen Wang",
+      "Binhang Yuan"
+    ],
+    "category": "cs.DC",
+    "summary": "Datacenters can procure electricity in day-ahead markets by committing to energy purchases for individual hours. For LLM services operating within these hourly budgets, maximizing aggregate throughput alone may still leave individual requests waiting or receiving much slower service than desired. Fair serving therefore requires improving service for poorly served requests while reserving electrici",
+    "title": "eFAIR: Fair LLM Serving under Hourly Electricity Commitments",
+    "url": "http://arxiv.org/abs/2611.24119v1"
+  },
   "2611.24149v1": {
     "authors": [
       "Ernesto Biempica",
@@ -34,6 +95,29 @@
     "title": "TableControl: Gesture Interaction Through Surface Vibrations",
     "url": "http://arxiv.org/abs/2611.24218v1"
   },
+  "2611.24264v1": {
+    "authors": [
+      "Michael S. Gilbert",
+      "Erik G. Boman",
+      "Kamesh Madduri"
+    ],
+    "category": "cs.DC",
+    "summary": "Graph partitioning is a key enabler in computational science, with applications to sparse linear algebra, load-balanced parallel computation, and graph computations. In recent years, graphics processing units (GPUs) have become the preferred accelerator on the world's top supercomputers. Despite this, most existing distributed graph partitioners do not utilize GPUs. In this work, we develop a new ",
+    "title": "Multilevel Graph Partitioning on GPU Supercomputers",
+    "url": "http://arxiv.org/abs/2611.24264v1"
+  },
+  "2611.24331v1": {
+    "authors": [
+      "Marcel Aach",
+      "Jiangtao Wang",
+      "Stefan Kesselheim",
+      "Andreas Lintermann"
+    ],
+    "category": "cs.DC",
+    "summary": "The Gradient Noise Scale (GNS) metric measures the signal-to-noise ratio of gradients in stochastic gradient descent and, as shown by McCandlish et al. (2018), can be used to approximate the Critical Batch Size (CBS) during neural network training. Despite its appearance in technical reports of frontier models, no open dataset of GNS measurements across modern architectures exists, limiting system",
+    "title": "OpenGNS: An Open Dataset of the Gradient Noise Scale across Vision, Language, and Diffusion Models",
+    "url": "http://arxiv.org/abs/2611.24331v1"
+  },
   "2611.24334v1": {
     "authors": [
       "Ilya Zakharov",
@@ -55,6 +139,68 @@
     "summary": "This project analysed daily emotional well-being from a personalized perspective using records of emotional states and contextual information derived from daily life. It was based on the idea that well-being is not a fixed value, but varies from day to day, and can be better understood in relation to individual context and behaviour. The work is framed within the field of Data Science and focuses ",
     "title": "Exploring Daily Emotional Well-Being through Personalized Data Analysis",
     "url": "http://arxiv.org/abs/2611.24342v1"
+  },
+  "2611.24398v1": {
+    "authors": [
+      "Ze Wang",
+      "Sajid Alam",
+      "Amjad Ullah"
+    ],
+    "category": "cs.DC",
+    "summary": "Autoscaling enables cloud-native applications to meet their SLOs by dynamically adjusting computational resources at runtime. Recent research has explored a broad range of advanced autoscaling approaches, including rule-based, optimisation-based, and machine learning-based techniques, to address the limitations of traditional resource management strategies in cloud-native environments. Despite sig",
+    "title": "ScaleBench: An Extensible and Reproducible Experimental Platform for Kubernetes Autoscaling Research",
+    "url": "http://arxiv.org/abs/2611.24398v1"
+  },
+  "2611.24437v1": {
+    "authors": [
+      "Ziwen Wang",
+      "Qi Luo",
+      "Kunlin Li",
+      "Changxi Liu",
+      "Dongsheng Wang"
+    ],
+    "category": "cs.DC",
+    "summary": "Every instruction in NVIDIA's native GPU ISA (SASS) carries a control code that guides hardware scheduling, and prior work has decoded its known fields to optimize GPU kernels. However, one control-code field remains unexplored: it appears over 500000 times in NVIDIA's closed-source libraries such as cuBLAS and cuDNN, yet nvcc never emits it when compiling user programs. This paper presents the fi",
+    "title": "Dissecting an Unexplored SASS Control-Code Field: Barrier Exemption and Programmable Warp Priority",
+    "url": "http://arxiv.org/abs/2611.24437v1"
+  },
+  "2611.24444v1": {
+    "authors": [
+      "Vojtěch Novák",
+      "Radovan Rečka",
+      "Ondřej Knebl",
+      "Ivan Zelinka"
+    ],
+    "category": "cs.DC",
+    "summary": "Classical circuit simulation supports quantum software development and verification and provides a baseline for assessing quantum advantage. We compare gate-based statevector simulation, direct Pauli evolution and matrix product states for molecular and spin Variational Hamiltonian Ansatze and hardware-efficient ansatze on CPU/GPU systems, varying width, depth, precision and resource allocation. I",
+    "title": "Efficient simulation of variational quantum circuits: representation, accuracy and CPU/GPU allocation",
+    "url": "http://arxiv.org/abs/2611.24444v1"
+  },
+  "2611.24458v1": {
+    "authors": [
+      "Ziwen Wang",
+      "Qi Luo",
+      "Kunlin Li",
+      "Changxi Liu",
+      "Dongsheng Wang"
+    ],
+    "category": "cs.DC",
+    "summary": "To avoid scheduling delays when running concurrent workloads on a GPU, Streaming Multiprocessor (SM) partitioning mechanisms such as CUDA Green Contexts restrict each workload to separate SMs. Despite this partitioning, concurrent workloads still significantly slow down latency-critical workloads, which recent studies attribute to shared L2 cache and memory contention. However, contention also occ",
+    "title": "A Runtime System for Mitigating Crossbar Port Contention on SM-Partitioned GPUs",
+    "url": "http://arxiv.org/abs/2611.24458v1"
+  },
+  "2611.24496v1": {
+    "authors": [
+      "Oana Balmau",
+      "Saurav Banka",
+      "Jiaxuan Chen",
+      "Anne-Marie Kermarrec",
+      "Ramya Narasimha Prabhu"
+    ],
+    "category": "cs.DC",
+    "summary": "GPUs are expensive, yet latency-critical large language model (LLM) inference leaves part of them idle. Colocation reclaims this capacity by running best-effort work, such as fine-tuning, alongside serving. Many leading LLMs now use a Mixture-of-Experts (MoE) architecture, which adds a new source of idle time. Under expert parallelism, MoE experts are spread across GPUs, and because the router sen",
+    "title": "Harvesting Expert-Parallel Bubbles for Fine-Tuning",
+    "url": "http://arxiv.org/abs/2611.24496v1"
   },
   "2611.24545v1": {
     "authors": [
@@ -78,6 +224,19 @@
     "summary": "Characteristics of Artificial Intelligence (AI) severely restrict human control. This creates new challenges for socio-technical systems design especially in safety-critical domains, where control over risks is essential along with the accountability for any harm caused. Drawing from human factors and AI governance literature, expert interviews and participant observation in a complex high-risk AI",
     "title": "Negotiating Control and Accountability among Stakeholders in High-Risk AI Use Cases: Development and Evaluation of the Method ALIGN",
     "url": "http://arxiv.org/abs/2611.24609v1"
+  },
+  "2611.24689v1": {
+    "authors": [
+      "Omkar Shrikanth",
+      "Soham Dambalkar",
+      "Parag Jyoti Pal",
+      "Advik Raj Basani",
+      "Arnab K. Paul"
+    ],
+    "category": "cs.DC",
+    "summary": "Malicious adversaries can employ gradient inversion attacks to reverse-engineer private data using the model updates of a round in Federated Learning. While there have been developments in gradient inversion for text, exact text recovery by a malicious client has so far remained infeasible, as FedAvg entangles the gradient contributions of many clients and obscures the signal of any individual sen",
+    "title": "Stealing Exact Training Data from Other Clients during Federated Learning",
+    "url": "http://arxiv.org/abs/2611.24689v1"
   },
   "2611.24715v1": {
     "authors": [
@@ -232,6 +391,17 @@
     "title": "Overlooked and Underutilized: Prototypes are the Missing Piece in Tabular XAI",
     "url": "http://arxiv.org/abs/2611.24831v1"
   },
+  "2611.24833v1": {
+    "authors": [
+      "Nancy Kansal",
+      "Celine Sana",
+      "Jelle Hellings"
+    ],
+    "category": "cs.DC",
+    "summary": "The advent of blockchains is fueling the development of novel resilient data management systems (RDSs). Typically, these RDSs are managed using a primary-backup design using a consensus protocol such as PBFT. In these primary-backup designs, a single participant, the primary, is responsible for coordinating the replication and execution of requests. Unfortunately, the central role of the primary m",
+    "title": "DispersedBFT: Bottleneck-Free Primary-Backup Consensus using Dispersed Replication",
+    "url": "http://arxiv.org/abs/2611.24833v1"
+  },
   "2611.24840v1": {
     "authors": [
       "Binay Kumar Singh",
@@ -279,6 +449,19 @@
     "summary": "Large Language Models (LLMs) now perform strongly on Alan Turing's 1950 Imitation Game, so we propose a harder challenge, the Personal Imitation Game, which asks whether a machine can replicate a specific individual in conversation rather than a generic human. Testing with 30 participants, we establish a human baseline and report the identity signals interrogators rely on: stylometric features, pe",
     "title": "Who are you? The Personal Imitation Game",
     "url": "http://arxiv.org/abs/2611.24888v1"
+  },
+  "2611.24902v1": {
+    "authors": [
+      "Nikolaos Kekatos",
+      "Priyanka Sinha",
+      "Stylianos Basagiannis",
+      "Antonio Anastasio Bruto da Costa",
+      "Alexios Lekidis"
+    ],
+    "category": "cs.DC",
+    "summary": "Specification mining extracts temporal rules that describe relationships between events in recorded system traces. Applying these rules in distributed monitoring systems is more difficult because observations come from different nodes, whose clocks may not be synchronized, and events may be lost or reordered during transmission. In this paper, we study how to aggregate the coverage of mined rules ",
+    "title": "Mine Locally, Verify Globally: Exact Recovery, Compilation, and Distortion of Mined Temporal Rules",
+    "url": "http://arxiv.org/abs/2611.24902v1"
   },
   "2611.24904v1": {
     "authors": [
