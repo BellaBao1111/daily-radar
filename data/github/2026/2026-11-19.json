@@ -1,0 +1,146 @@
+{
+  "Kotlin": [
+    {
+      "created": "2026-11-13",
+      "description": "揪咪 Jiumi：开源安卓应用行为监测与管理，查看权限访问和网络活动。Android app activity & privacy monitor. No root required.",
+      "name": "ybblab/Jiumi",
+      "stars": 567,
+      "url": "https://github.com/ybblab/Jiumi"
+    },
+    {
+      "created": "2026-11-13",
+      "description": "Experimental Android 3D scanning and point-cloud viewer",
+      "name": "faizwashere/ScanDot",
+      "stars": 515,
+      "url": "https://github.com/faizwashere/ScanDot"
+    },
+    {
+      "created": "2026-11-17",
+      "description": "本地优先的 Android 订阅管理 App：自动滚动账单日、到期前每日提醒、30+ 币种实时汇率换算、账单日历、支出统计与桌面小组件，内置 240+ 国内外服务预设",
+      "name": "capllen/Subnook",
+      "stars": 175,
+      "url": "https://github.com/capllen/Subnook"
+    },
+    {
+      "created": "2026-11-13",
+      "description": "A minimal Android music player for Spotify, YouTube Music, and local audio.",
+      "name": "aarush-io/melo",
+      "stars": 170,
+      "url": "https://github.com/aarush-io/melo"
+    },
+    {
+      "created": "2026-11-14",
+      "description": "最好用的 Android 离线语音克隆与三语 TTS（误）——基于 GPT-SoVITS，支持中日英。 | The best offline voice cloning & trilingual TTS on Android (jk) — powered by GPT-SoVITS (ZH/JA/EN).",
+      "name": "Renakoni/Voicebox",
+      "stars": 138,
+      "url": "https://github.com/Renakoni/Voicebox"
+    },
+    {
+      "created": "2026-11-16",
+      "description": "脱敏 — Android 本地截图隐私处理工具",
+      "name": "Chen-Yu-Qing2005/tuomin",
+      "stars": 123,
+      "url": "https://github.com/Chen-Yu-Qing2005/tuomin"
+    },
+    {
+      "created": "2026-11-14",
+      "description": "Native Android WhatsApp companion in Jetpack Compose & Go, with anti-ban rate-limit protection, privacy switches, channels, and in-app updates.",
+      "name": "hanzalaramz/Wupp",
+      "stars": 112,
+      "url": "https://github.com/hanzalaramz/Wupp"
+    },
+    {
+      "created": "2026-11-16",
+      "description": "一款 Xiaomi HyperOS 风格的安卓国铁信息聚合查询应用",
+      "name": "ybhgl/CRInfo",
+      "stars": 81,
+      "url": "https://github.com/ybhgl/CRInfo"
+    },
+    {
+      "created": "2026-11-17",
+      "description": "Private, ad-free launcher for Google TV and Android TV. Works with Nuvio and Trakt.",
+      "name": "trbrnt/Veil",
+      "stars": 51,
+      "url": "https://github.com/trbrnt/Veil"
+    },
+    {
+      "created": "2026-11-15",
+      "description": "Material 3 Expressive GitHub client for Android & Linux Desktop built with Kotlin Multiplatform and Compose Multiplatform",
+      "name": "neutron42-jp/github-mobile-maxxing",
+      "stars": 51,
+      "url": "https://github.com/neutron42-jp/github-mobile-maxxing"
+    }
+  ],
+  "Swift": [
+    {
+      "created": "2026-11-13",
+      "description": "让远程 Mac 在任意设备上获得原生级体验。专为 UU远程 打造的显示与触控增强：手机、平板、电脑各有专属屏幕，画面铺满、字号随屏，原生触屏手势，App 资源库。Make UU Remote native on any device: a dedicated screen for every phone, tablet and computer, with native touch gesture",
+      "name": "zephyr4123/snug",
+      "stars": 1094,
+      "url": "https://github.com/zephyr4123/snug"
+    },
+    {
+      "created": "2026-11-14",
+      "description": "Yab, yet another browser: a fast native macOS browser with an iPhone and Android companion",
+      "name": "yetanotherbrowser/yab",
+      "stars": 737,
+      "url": "https://github.com/yetanotherbrowser/yab"
+    },
+    {
+      "created": "2026-11-13",
+      "description": "crate: run Linux VMs on iPhone and iPad",
+      "name": "oneamendez/crate-ios",
+      "stars": 461,
+      "url": "https://github.com/oneamendez/crate-ios"
+    },
+    {
+      "created": "2026-11-15",
+      "description": "Camlo · 开幕 — Bring your iPhone Lock Screen to life: 1-tap slide-to-unlock morphs, 3D depth & motion wallpapers, no PC/jailbreak (iOS / iPhone Duo 26–27)｜让锁屏活起来：免电脑一键直写上滑变身、裸眼 3D 与动态锁屏",
+      "name": "Kianuni/Camlo",
+      "stars": 235,
+      "url": "https://github.com/Kianuni/Camlo"
+    },
+    {
+      "created": "2026-11-15",
+      "description": "Per-app volume mixer for macOS — no driver, no account. Built on Core Audio Process Tap.",
+      "name": "lishuangqiang/mixbar",
+      "stars": 221,
+      "url": "https://github.com/lishuangqiang/mixbar"
+    },
+    {
+      "created": "2026-11-16",
+      "description": "A playground for live Metal shaders on iPhone, iPad, iPhone Duo, Apple TV, Apple Vision Pro and Apple Watch. Save any shader as a wallpaper.",
+      "name": "fedesanchez0/shader-lab",
+      "stars": 194,
+      "url": "https://github.com/fedesanchez0/shader-lab"
+    },
+    {
+      "created": "2026-11-15",
+      "description": "a fast, customizable macOS space switcher",
+      "name": "cnrad/interspace",
+      "stars": 178,
+      "url": "https://github.com/cnrad/interspace"
+    },
+    {
+      "created": "2026-11-16",
+      "description": "豆仓 BeanPod：原生 macOS 录音豆管理 App — 本机转写、纪要待办、知识库问答、逐句回听与英语学习、MCP 接入 Claude / Codex",
+      "name": "andyhuo520/beanpod",
+      "stars": 96,
+      "url": "https://github.com/andyhuo520/beanpod"
+    },
+    {
+      "created": "2026-11-14",
+      "description": "Overwrite CarPlay wallpaper caches with your own images.",
+      "name": "LinkPass888/CarCanvas",
+      "stars": 81,
+      "url": "https://github.com/LinkPass888/CarCanvas"
+    },
+    {
+      "created": "2026-11-15",
+      "description": "Fig / Kiro CLI / Amazon Q alternative: IDE-style autocomplete popup for zsh on macOS. Subcommands, options, git branches and files with descriptions in Terminal, iTerm2, Ghostty, VS Code and Cursor. N",
+      "name": "rostik32/zest",
+      "stars": 64,
+      "url": "https://github.com/rostik32/zest"
+    }
+  ]
+}
