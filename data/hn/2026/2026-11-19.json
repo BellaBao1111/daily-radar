@@ -1,0 +1,212 @@
+{
+  "50517657": {
+    "author": "tison",
+    "comments": 1,
+    "points": 31,
+    "title": "Reverse-Engineering Kevin J. Lang's Lost OCaml Code in Apache DataSketches",
+    "url": "https://www.tisonkun.io/posts/ai-repair-program/"
+  },
+  "50519231": {
+    "author": "harrisonpage",
+    "comments": 313,
+    "points": 744,
+    "title": "Garage Door Spam",
+    "url": "https://blog.harrison.page/garage-door-spam/"
+  },
+  "50528119": {
+    "author": "o4c",
+    "comments": 19,
+    "points": 103,
+    "title": "How to CAD Almost Anything",
+    "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/"
+  },
+  "50530132": {
+    "author": "rbanffy",
+    "comments": 0,
+    "points": 6,
+    "title": "Talking Venice with Mahesh Subramony at AMD In-Depth",
+    "url": "https://chipsandcheese.com/p/talking-venice-with-mahesh-subramony"
+  },
+  "50536950": {
+    "author": "bookofjoe",
+    "comments": 139,
+    "points": 192,
+    "title": "An Oregon library ditched Dewey Decimal and got people excited about books again",
+    "url": "https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system"
+  },
+  "50537832": {
+    "author": "ibobev",
+    "comments": 10,
+    "points": 48,
+    "title": "Computer Graphics from Scratch (2021)",
+    "url": "https://www.gabrielgambetta.com/computer-graphics-from-scratch/index.html"
+  },
+  "50547048": {
+    "author": "cowlevel",
+    "comments": 98,
+    "points": 254,
+    "title": "Nintendo takes Picofly firmware down from GitHub [video]",
+    "url": "https://www.youtube.com/watch?v=-TLCGUpoD6c"
+  },
+  "50556287": {
+    "author": "jdns",
+    "comments": 161,
+    "points": 381,
+    "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+    "url": "https://verialabs.com/ruby2shell/"
+  },
+  "50557537": {
+    "author": "ghostfoxgod",
+    "comments": 69,
+    "points": 259,
+    "title": "Distributed, high-performance blob storage on SQLite",
+    "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/"
+  },
+  "50557661": {
+    "author": "Ecno92",
+    "comments": 205,
+    "points": 246,
+    "title": "Do not buy RAM, compress",
+    "url": "https://curiousbits.nl/blog/do-not-buy-ram-compress/"
+  },
+  "50557870": {
+    "author": "netol",
+    "comments": 126,
+    "points": 273,
+    "title": "What's New in PHP 8.6",
+    "url": "https://www.php.net/releases/8.6/en.php"
+  },
+  "50558533": {
+    "author": "liotier",
+    "comments": 313,
+    "points": 656,
+    "title": "How the European Commission rolled out Matrix to more than 40k staff",
+    "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/"
+  },
+  "50558906": {
+    "author": "notmine1337",
+    "comments": 91,
+    "points": 356,
+    "title": "Someone reported java4shell bug in September 2026",
+    "url": "https://github.com/openjdk/jdk/pull/32781"
+  },
+  "50559179": {
+    "author": "rbanffy",
+    "comments": 53,
+    "points": 146,
+    "title": "Unblockable communication with gravity",
+    "url": "https://www.science.org/doi/10.1126/sciadv.aee0802"
+  },
+  "50559719": {
+    "author": "krthr",
+    "comments": 53,
+    "points": 242,
+    "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
+    "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/"
+  },
+  "50561170": {
+    "author": "ohjeez",
+    "comments": 31,
+    "points": 73,
+    "title": "How to Make the Ink Used to Write Hamlet and the Declaration of Independence",
+    "url": "https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/"
+  },
+  "50561508": {
+    "author": "datascientist",
+    "comments": 194,
+    "points": 211,
+    "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+    "url": "https://thedataexchange.media/pete-warden-moonshine/"
+  },
+  "50561515": {
+    "author": "cornholemedia",
+    "comments": 89,
+    "points": 184,
+    "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
+    "url": "https://cornholenews.news"
+  },
+  "50562113": {
+    "author": "Terretta",
+    "comments": 205,
+    "points": 483,
+    "title": "UK government forced to admit it issued Apple a secret encryption order",
+    "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/"
+  },
+  "50562320": {
+    "author": "D_R_Farrell",
+    "comments": 66,
+    "points": 84,
+    "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+    "url": "https://github.com/onlook-dev/onlook/"
+  },
+  "50562754": {
+    "author": "wslh",
+    "comments": 1703,
+    "points": 872,
+    "title": "Anthropic’s Nasdaq debut",
+    "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/"
+  },
+  "50563066": {
+    "author": "cybermango",
+    "comments": 78,
+    "points": 535,
+    "title": "Pancreatic cancer halted by virus injection in three patients",
+    "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/"
+  },
+  "50563148": {
+    "author": "cybermango",
+    "comments": 169,
+    "points": 365,
+    "title": "Claude solves two open problems in the physics of black holes",
+    "url": "https://www.anthropic.com/research/claude-black-hole-physics"
+  },
+  "50564159": {
+    "author": "dev1one1",
+    "comments": 98,
+    "points": 186,
+    "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+    "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine"
+  },
+  "50564366": {
+    "author": "sandslash",
+    "comments": 131,
+    "points": 69,
+    "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+    "url": "https://www.youtube.com/watch?v=lwfewYL7X0o"
+  },
+  "50566261": {
+    "author": "todsacerdoti",
+    "comments": 7,
+    "points": 51,
+    "title": "Rebuilding my local voice assistant pipeline",
+    "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline"
+  },
+  "50567209": {
+    "author": "choult",
+    "comments": 57,
+    "points": 90,
+    "title": "Synology Security Advisory",
+    "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21"
+  },
+  "50567374": {
+    "author": "somebudyelse",
+    "comments": 18,
+    "points": 37,
+    "title": "RegExr: Temporarily Offline",
+    "url": "https://regexr.com/"
+  },
+  "50568082": {
+    "author": "mikhael",
+    "comments": 11,
+    "points": 56,
+    "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
+    "url": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87"
+  },
+  "50568130": {
+    "author": "hn-aarvin",
+    "comments": 20,
+    "points": 42,
+    "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+    "url": "https://git-aarvin.github.io/mei/"
+  }
+}
