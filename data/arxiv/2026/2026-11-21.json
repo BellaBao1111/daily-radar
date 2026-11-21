@@ -1,0 +1,361 @@
+{
+  "2611.25790v1": {
+    "authors": [
+      "Yule Ding",
+      "Hongzhen Wu"
+    ],
+    "category": "cs.SE",
+    "summary": "CyberGym evaluates vulnerability reproduction by checking whether a proof-of-concept input (PoC) crashes a vulnerable program version but not a fixed version. Interpreting this differential pass as successful reproduction requires consistent task materials and evidence that the PoC triggers the intended defect. We examine these requirements through a material audit of all 1,507 CyberGym tasks and ",
+    "title": "On the Reliability of CyberGym Evaluation: Task Material Consistency and Reference-Target Identity",
+    "url": "http://arxiv.org/abs/2611.25790v1"
+  },
+  "2611.25912v1": {
+    "authors": [
+      "Stepan Polokhin",
+      "Ruslan Savchenko",
+      "Yuriy Chernyshov"
+    ],
+    "category": "cs.SE",
+    "summary": "The problem of finding the lowest common ancestor in the commit graph arises when a user wants to merge two (or more) development branches: for example, to add their own development into a common branch. At that moment, the version control system must determine the merge base - the common ancestor of the latest commits of the branches, in order to show the mutual difference between the branches. T",
+    "title": "Fast Computation of Lowest Common Ancestor in Version Control Commit Graph",
+    "url": "http://arxiv.org/abs/2611.25912v1"
+  },
+  "2611.25918v1": {
+    "authors": [
+      "Mutsuha Asada",
+      "Yuhei Nakasaka",
+      "Keito Tabuchi",
+      "Shinpei Hayashi"
+    ],
+    "category": "cs.SE",
+    "summary": "Much organization-specific code review knowledge remains embedded in comments on individual changes, and recent systems reuse it by turning those comments into rules a language model applies to later changes. Teams must then decide which rules to keep, and the evidence at hand is how often the system's later comments name each rule. Tracing the rules of one such system, Kleene, through 65 days of ",
+    "title": "From Code Review Comments to Reuse in Production: An Industrial Study of Extracted Rules",
+    "url": "http://arxiv.org/abs/2611.25918v1"
+  },
+  "2611.25939v1": {
+    "authors": [
+      "Viktoria Stray",
+      "Kristina Kantima Østvold",
+      "Agnes Hunstad Birkemo",
+      "Nils Brede Mo"
+    ],
+    "category": "cs.SE",
+    "summary": "Software organizations are increasingly embedding AI capabilities into products that existing teams already own and maintain, but how this development work should be organized is not well understood. We conducted a qualitative case study of a temporary cross-functional innovation team in a large Norwegian financial organization, drawing on 18 interviews with 15 participants, 10 days of office obse",
+    "title": "Adopting Embedded AI Through an Innovation Team",
+    "url": "http://arxiv.org/abs/2611.25939v1"
+  },
+  "2611.25967v1": {
+    "authors": [
+      "Nils Brede Moe",
+      "Marthe Berntzen",
+      "Astri Barbala",
+      "Viktoria Stray"
+    ],
+    "category": "cs.SE",
+    "summary": "Organizations undergoing large-scale agile transformations are increasingly introducing generative AI (GenAI) tools into everyday work. While GenAI promises to accelerate software development, less is known about how organizations integrate GenAI into existing large-scale agile ways of working and how it interacts with tensions related to autonomy, alignment, learning, and coordination. We examine",
+    "title": "Barriers to GenAI Integration During Large-Scale Agile Transformation: An Exploratory Case Study",
+    "url": "http://arxiv.org/abs/2611.25967v1"
+  },
+  "2611.26069v1": {
+    "authors": [
+      "Yuxiang Wang",
+      "Junhao Gan",
+      "Jianzhong Qi"
+    ],
+    "category": "cs.SE",
+    "summary": "Spreadsheets are widely used for data analysis and supporting decision-making. Automating spreadsheet analysis while protecting sensitive data and controlling deployment costs motivates locally deployed open-weight large language models (LLMs). Meanwhile, complex spreadsheet tasks require both task reasoning and workbook understanding, while predefined operation interfaces impose additional tool-s",
+    "title": "SheetAlign: Grounded Interaction and Stage-Isolated Learning for Spreadsheet Agents",
+    "url": "http://arxiv.org/abs/2611.26069v1"
+  },
+  "2611.26256v1": {
+    "authors": [
+      "Anjie Xu",
+      "Zixing Wang",
+      "Yifeng Cai",
+      "Leye Wang"
+    ],
+    "category": "cs.SE",
+    "summary": "LLM agents increasingly reuse executable capabilities through skills, but a skill that works on one OS may fail on another because OS assumptions are spread across guide text, scripts, metadata, install contracts, and local entrypoints. Diagnosing such failures by running every skill on every OS is expensive: many executions spend model tokens, runner time, and review effort before revealing wheth",
+    "title": "SkillBridge: Cost-Aware Diagnosis and Repair of Cross-OS Compatibility Defects in Agent Skills",
+    "url": "http://arxiv.org/abs/2611.26256v1"
+  },
+  "2611.26311v1": {
+    "authors": [
+      "Zhiyao Xu",
+      "Zhanjie Ding",
+      "Hongyao Yu",
+      "Jingyu Xiao"
+    ],
+    "category": "cs.SE",
+    "summary": "Agents increasingly operate software and even write it, yet they are almost always told what to achieve: given a goal, a mock-up, or a demonstration. We ask whether an agent can instead understand an unfamiliar product by using it, and then rebuild it. The agent sees only rendered pixels and acts through pointer and keyboard, without access to the DOM, source, logs, or back-end. Within this interf",
+    "title": "SWE-Recreation: Benchmarking Coding Agents for Software Recreation",
+    "url": "http://arxiv.org/abs/2611.26311v1"
+  },
+  "2611.26312v1": {
+    "authors": [
+      "Daniele Lunghi",
+      "Alberick Euraste Djiré",
+      "Zacharie Chenail-Larcher",
+      "Mélissa Tessa",
+      "Quentin Stiévenart"
+    ],
+    "category": "cs.SE",
+    "summary": "Static analyzers are cheap and widely deployed, which makes their reports a candidate feedback signal for secure LLM code generation. Existing approaches place the analyzer inside an iterative repair loop with intermediate steps, which is costly and makes it hard to isolate the report's effect on the model. We introduce two strategies that give the finding to the model during generation. When the ",
+    "title": "Static Analysis Guidance for Secure LLM Code Generation",
+    "url": "http://arxiv.org/abs/2611.26312v1"
+  },
+  "2611.26333v1": {
+    "authors": [
+      "Can Xue",
+      "Changhong He",
+      "Ziyi Sun",
+      "Anliang Ge",
+      "Shimin Yu"
+    ],
+    "category": "cs.SE",
+    "summary": "Numerical simulation is important in ocean engineering, but model construction requires expert knowledge. Large language models support automated modelling, but code syntax and successful execution alone do not establish whether generated models and results meet engineering requirements. We present OceanCoder, a Qwen3-8B-based large language model for automated simulation modelling in ocean engine",
+    "title": "OceanCoder: A Verification-Guided Large Language Model for Automated Simulation Modelling in Ocean Engineering",
+    "url": "http://arxiv.org/abs/2611.26333v1"
+  },
+  "2611.26476v1": {
+    "authors": [
+      "Christian Macho",
+      "Katharina Stengg"
+    ],
+    "category": "cs.SE",
+    "summary": "Continuous Integration (CI) is a popular programming practice for the seamless integration of code changes into the code base. Using CI, developers benefit from automated assembling and testing of the code after each commit. However, while the frequent integration and building supports developers, it also comes at the high costs of wasting time and resources for minimal changes. In this work, we i",
+    "title": "Anticipating Future Build Results with BuildPredictor",
+    "url": "http://arxiv.org/abs/2611.26476v1"
+  },
+  "2611.26480v1": {
+    "authors": [
+      "Mekhala Hithyshini Sreenivasa"
+    ],
+    "category": "cs.SE",
+    "summary": "LLM agents spend nearly all their time waiting for the model. On Amazon Bedrock AgentCore, our agents waited a median of 2.7 seconds for each model reply, then computed for an estimated 5 to 40 milliseconds. AgentCore does not charge for CPU during the wait. But it reserves a separate environment, a virtual machine with its own memory, for every conversation, and keeps it reserved until the conver",
+    "title": "Held While Waiting: What LLM Agent Sessions Reserve on Serverless and Agent Runtimes",
+    "url": "http://arxiv.org/abs/2611.26480v1"
+  },
+  "2611.26511v1": {
+    "authors": [
+      "Shuang Wu",
+      "Jiachen Qian",
+      "Youtian Lin",
+      "Feihu Zhang",
+      "Philip Torr"
+    ],
+    "category": "cs.CV",
+    "summary": "Native 3D generation has largely been built around latent diffusion, with recent advances concentrating on stronger variational autoencoders (VAE) and increasingly elaborate latent representations, from vecset and triplanes to structured sparse voxels. Despite their architectural differences, these methods all share the same premise: geometry is first compressed into a latent space and only then m",
+    "title": "Direct3D-V3: Latent-Free Diffusion Transformers in the Native Voxel Domain",
+    "url": "http://arxiv.org/abs/2611.26511v1"
+  },
+  "2611.26516v1": {
+    "authors": [
+      "Hangwei Zhang",
+      "Rujing Dang",
+      "Ruimin Lin",
+      "Jiahong Wu",
+      "Xiangxiang Chu"
+    ],
+    "category": "cs.CV",
+    "summary": "Most world models for future prediction prioritize aestetic quality of generated videos, but offer only weak physical grounding and limited geometric consistency over time, due to the lack of explicit 4D modeling. In this paper, we introduce plan4d, a possible next milestone towards building a generative plannable 4D world model that predicts future RGB videos together with dense 4D geometry, incl",
+    "title": "Plan4D: Generative Plannable 4D Worlds",
+    "url": "http://arxiv.org/abs/2611.26516v1"
+  },
+  "2611.26522v1": {
+    "authors": [
+      "Qi Gao",
+      "Julius Beichert",
+      "Miriam Ratliff",
+      "Karl Rohr"
+    ],
+    "category": "cs.CV",
+    "summary": "Reliable extraction of calcium-dependent fluorescence traces in calcium imaging sequences requires identifying pixels whose fluorescence intensity reflects the same underlying cellular activity. We present a deterministic temporal embedding framework that maps pixel-wise fluorescence traces to a low-dimensional representation in which temporally coherent sources form spatially coherent regions. St",
+    "title": "Deterministic Temporal Embedding for Calcium Imaging Trace Extraction",
+    "url": "http://arxiv.org/abs/2611.26522v1"
+  },
+  "2611.26525v1": {
+    "authors": [
+      "Yicheng Cai",
+      "Taegyu Kim",
+      "Peng Liu"
+    ],
+    "category": "cs.SE",
+    "summary": "Agent applications are increasingly deployed, yet agent-specific attacks pose real threats to them. Upon a security incident, organizations backtrack to identify the CEP (compromise entry point), remediate the damage, and prevent its recurrence. The main artifacts available for backtracking are trajectory logs, which record agent functionalities, and source code; app(lication)-specific function ca",
+    "title": "Backtracking Agent Applications Security Incidents",
+    "url": "http://arxiv.org/abs/2611.26525v1"
+  },
+  "2611.26540v1": {
+    "authors": [
+      "Nathaniel Cohen",
+      "Nicolas Dufour",
+      "Amélie Royer",
+      "Alasdair Newson",
+      "Patrick Pérez"
+    ],
+    "category": "cs.CV",
+    "summary": "Current audio-driven video diffusion models can synthesize realistic talking-head videos but generally require dozens of diffusion denoising steps over multi-second video chunks, making them unsuitable for streaming applications such as voice assistants and virtual avatars, where low-latency and online causal generation are required properties. AURA generates video chunk by chunk with a rolling KV",
+    "title": "AURA: AUdio-dRiven streaming Avatar",
+    "url": "http://arxiv.org/abs/2611.26540v1"
+  },
+  "2611.26562v1": {
+    "authors": [
+      "Amirali Khosravi",
+      "Jaidip M. Jagtap",
+      "D. Chamil Codipilly",
+      "Catherine E. Hagen",
+      "Jason T. Lewis"
+    ],
+    "category": "cs.CV",
+    "summary": "Barrett's esophagus dysplasia grading suffers substantial inter-observer variability, particularly for low-grade dysplasia, complicating clinical decision-making. We conducted a retrospective multi-institutional diagnostic accuracy study of a foundation model-based deep learning system for dysplasia grading, using 969 H\\&E-stained whole slide images from four institutions. Patch-level classifiers ",
+    "title": "Multi-institutional grading of Barrett's esophagus dysplasia without stain normalization using a pathology foundation model and multiple instance learning",
+    "url": "http://arxiv.org/abs/2611.26562v1"
+  },
+  "2611.26569v1": {
+    "authors": [
+      "Ziqing Yang",
+      "Yixin Wu",
+      "Michael Backes",
+      "Yang Zhang"
+    ],
+    "category": "cs.CV",
+    "summary": "Multimodal image generation systems have made rapid progress and increasingly emphasize content safety. However, their safety mechanisms tend to rely on a single modality and lack joint consideration of both visual content and text prompts, particularly in instruction-guided image editing, where the uploaded image may itself carry risk. We thus introduce EditSafetyBench, a benchmark that measures ",
+    "title": "Text-Aware, Vision-Blind: How Multimodal Image Editing Systems Handle Unsafe Inputs",
+    "url": "http://arxiv.org/abs/2611.26569v1"
+  },
+  "2611.26588v1": {
+    "authors": [
+      "Ana E. Sanchez Villalobos",
+      "Michael D. Quinn",
+      "Aakash Tyagi",
+      "Minh D. Luu",
+      "David Kebo Houngninou"
+    ],
+    "category": "cs.SE",
+    "summary": "A passing UVM regression shows the design agrees with the reference model on what the scoreboard checks, not that it meets the specification. Bugs that pass every test yet violate the specification, termed scoreboard escapes, survive mature testbenches. We present Verify the Verifier, to our knowledge the first framework whose LLM-based Anomaly Cross-Checker examines a passing regression's traces ",
+    "title": "Verify the Verifier: Specification-Grounded LLM Cross-Checking for Bugs That Escape UVM Scoreboards",
+    "url": "http://arxiv.org/abs/2611.26588v1"
+  },
+  "2611.26590v1": {
+    "authors": [
+      "Jiahao Huang",
+      "Jun Wang"
+    ],
+    "category": "cs.CV",
+    "summary": "Vision-language models (VLMs) integrate visual and textual information, but their outputs do not reveal internal concept representations. Global workspace theory (GWT) proposes that information is selected from parallel brain processes, integrated in a shared workspace, and made available to specialised processes. We introduce the Multimodal Concept Lens (MC-Lens), a multimodal Jacobian lens, to s",
+    "title": "Probing the \"Conscious\" Mind: Selective Access and Global Workspace in Vision-Language Models",
+    "url": "http://arxiv.org/abs/2611.26590v1"
+  },
+  "2611.26595v1": {
+    "authors": [
+      "Yiyan Ji",
+      "Qixun Wang",
+      "Yang Shi",
+      "Zhuoran Zhang",
+      "Yifan Xu"
+    ],
+    "category": "cs.CV",
+    "summary": "Code2Video uses agent-authored 3D proxies to guide video generation, enabling explicit control over structure and dynamics. However, how to construct proxies and prompts for optimal downstream quality remains underexplored, as do the capabilities and limitations of this paradigm. Through controlled experiments and blinded human evaluation, we study proxy granularity, physics simulation, and prompt",
+    "title": "Coda-DaVinci: Reimagining Video Generation with Code2Video",
+    "url": "http://arxiv.org/abs/2611.26595v1"
+  },
+  "2611.26601v1": {
+    "authors": [
+      "Amine Lbath",
+      "Manan Suri",
+      "Aurelien Delaitre",
+      "Vadim Okun",
+      "Massih-Reza Amini"
+    ],
+    "category": "cs.SE",
+    "summary": "LLM-based agents are becoming increasingly capable at discovering, validating and patching vulnerabilities in real software, and vendors and researchers report that this is already changing how vulnerabilities are found and fixed. These claims, however, are scattered across papers, vendor reports and disclosures and are rarely comparable. We introduce a framework that rates these capabilities on a",
+    "title": "SoK: Assessing the Evolution of LLM Capability in Software Vulnerability Research",
+    "url": "http://arxiv.org/abs/2611.26601v1"
+  },
+  "2611.26603v1": {
+    "authors": [
+      "Peiyun Hu",
+      "Marko Mihajlovic",
+      "Lyndon Duong",
+      "Lahav Lipson",
+      "Wei Dong"
+    ],
+    "category": "cs.CV",
+    "summary": "We present Depth Pro 2, an approach to estimating dense metric depth for images and video at full resolution. By analyzing prior methods for monocular depth estimation, we find that they commonly trade off temporal consistency and boundary sharpness: multi-frame methods favor consistency, single-frame methods favor sharpness. To overcome this trade-off, we train a single, scalable network that pro",
+    "title": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
+    "url": "http://arxiv.org/abs/2611.26603v1"
+  },
+  "2611.26613v1": {
+    "authors": [
+      "Yiyang Du",
+      "Yuxuan Kuang",
+      "Qitao Zhao",
+      "Yixuan Wang",
+      "Zhanqiu Guo"
+    ],
+    "category": "cs.CV",
+    "summary": "Frontier multimodal language agents such as GPT-6 Astra have demonstrated strong capabilities in controlling robots directly via low-level numerical actions without high-level primitives. However, existing benchmarks report only episode-level success rates, which show neither how these agents succeed nor where they fail. In this paper, we present a systematic action-level analysis of frontier agen",
+    "title": "AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control",
+    "url": "http://arxiv.org/abs/2611.26613v1"
+  },
+  "2611.26615v1": {
+    "authors": [
+      "Yansong Qu",
+      "Wesker Zheng",
+      "Quanjian Song",
+      "Zhiyuan Zhang",
+      "Xiao Cao"
+    ],
+    "category": "cs.CV",
+    "summary": "High-resolution generation enables video world models to render fine-grained scene structures and textures, but directly generating high-resolution video incurs substantial computational and memory costs. We present ScaleWorld, a causal video model that unifies low-resolution world prediction and high-resolution refinement within a single shared backbone. By refining its own predictions, ScaleWorl",
+    "title": "ScaleWorld: High-Resolution World Generation through Shared Prediction and Refinement",
+    "url": "http://arxiv.org/abs/2611.26615v1"
+  },
+  "2611.26617v1": {
+    "authors": [
+      "Yuxin Jiang",
+      "Wenqiang Sun",
+      "Jiaqi Li",
+      "Yuchao Gu",
+      "Lvmin Zhang"
+    ],
+    "category": "cs.CV",
+    "summary": "Videos reveal how the world changes, but rarely the actions that cause those changes. Latent action learning recovers such supervision from visual transitions, yet often learns the underlying dynamics largely from scratch. We ask whether a pretrained video generator can instead provide the prior for both inverse and forward dynamics. We introduce O$^{2}$LaF, built on a simple principle: one prior,",
+    "title": "One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning",
+    "url": "http://arxiv.org/abs/2611.26617v1"
+  },
+  "2611.26624v1": {
+    "authors": [
+      "Weihao Cheng"
+    ],
+    "category": "cs.CV",
+    "summary": "Recent AI agents can generate playable games, but these games are not necessarily engaging. Mastery is a key source of engagement, yet designing for it requires extensive human play and tuning. We propose PlayCraft, an automated framework that uses a vision-based agent to play games and draws on its detailed play experience to revise them for mastery. Starting from an initial game, PlayCraft alter",
+    "title": "PlayCraft: Designing Engaging Games from Agent Play Experience",
+    "url": "http://arxiv.org/abs/2611.26624v1"
+  },
+  "2611.26627v1": {
+    "authors": [
+      "Tuna Han Salih Meral",
+      "Kaan Oktay",
+      "Alec Helbling",
+      "Atakan Kara",
+      "Duen Horng Chau"
+    ],
+    "category": "cs.CV",
+    "summary": "Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers. Because capabilities such as rendering requested text or composing multiple objects are inherently prompt-dependent, a natural hypothesis is that improving them requires learning complex, input-dependent transformations. To isolate how much of t",
+    "title": "RL Post-Training in Diffusion Transformers Is Activation Steering",
+    "url": "http://arxiv.org/abs/2611.26627v1"
+  },
+  "2611.26629v1": {
+    "authors": [
+      "Hidir Yesiltepe",
+      "Julius Berner",
+      "Arash Vahdat",
+      "Pinar Yanardag"
+    ],
+    "category": "cs.CV",
+    "summary": "Diffusion distillation accelerates image and video generation by compressing a pretrained teacher's iterative sampling process into a few network evaluations. Distribution-based methods achieve this by matching the student's output distribution to the teacher's. This matching is often driven by reverse-KL objectives, whose mode-seeking bias favors dominant teacher modes at the expense of diversity",
+    "title": "Posterior Matching Distillation",
+    "url": "http://arxiv.org/abs/2611.26629v1"
+  }
+}
