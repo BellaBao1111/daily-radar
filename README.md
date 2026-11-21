@@ -4,10 +4,11 @@ A small bot that keeps a daily log of what is happening in tech: the Hacker News
 front page, fast-rising new GitHub repositories, and fresh arXiv papers. Each run
 picks a random subset of sources, so coverage varies from day to day.
 
-**11** daily digests so far · snapshots: hn 8, github 8, arxiv 11
+**12** daily digests so far · snapshots: hn 9, github 8, arxiv 12
 
 ## Recent digests
 
+- [2026-11-21](digests/2026/2026-11-21.md)
 - [2026-11-20](digests/2026/2026-11-20.md)
 - [2026-11-19](digests/2026/2026-11-19.md)
 - [2026-11-18](digests/2026/2026-11-18.md)
@@ -22,7 +23,7 @@ picks a random subset of sources, so coverage varies from day to day.
 
 ## Trending on Hacker News this week
 
-`code` ×12 · `down` ×6 · `models` ×5 · `apple` ×5 · `engineering` ×5 · `agents` ×5 · `github` ×4 · `video` ×4 · `browser` ×4 · `launch` ×4 · `security` ×4 · `gemini` ×4 · `rce` ×3 · `out` ×3 · `java4shell` ×3
+`code` ×10 · `github` ×5 · `agents` ×5 · `down` ×5 · `models` ×5 · `apple` ×5 · `rce` ×4 · `launch` ×4 · `gemini` ×4 · `tax` ×3 · `years` ×3 · `speed` ×3 · `verification` ×3 · `runtime` ×3 · `video` ×3
 
 ## How it works
 
