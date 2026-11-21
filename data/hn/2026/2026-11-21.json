@@ -1,0 +1,212 @@
+{
+  "50532417": {
+    "author": "PaulHoule",
+    "comments": 14,
+    "points": 36,
+    "title": "Tropical Rainforests Species may be surprisingly young",
+    "url": "https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html"
+  },
+  "50532613": {
+    "author": "dvaplima",
+    "comments": 223,
+    "points": 695,
+    "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria"
+  },
+  "50533517": {
+    "author": "chippy",
+    "comments": 22,
+    "points": 18,
+    "title": "Bolt's Scooters Are Becoming Accessibility Sensors",
+    "url": "https://geoawesome.com/bolt-scooters-accessibility-mapping-wheels4wheels/"
+  },
+  "50541047": {
+    "author": "kborer",
+    "comments": 16,
+    "points": 48,
+    "title": "Show HN: An ASCII cell aquarium for your terminal",
+    "url": "https://github.com/kborer/cells/"
+  },
+  "50546495": {
+    "author": "neuwirth",
+    "comments": 60,
+    "points": 85,
+    "title": "Exponential Behavior in Magic: The Gathering",
+    "url": "https://levineuwirth.org/essays/exponential-magic/"
+  },
+  "50546587": {
+    "author": "fortran77",
+    "comments": 118,
+    "points": 172,
+    "title": "LLMs can read and write executables byte by byte from a hex dump",
+    "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/"
+  },
+  "50548136": {
+    "author": "maybevoid",
+    "comments": 0,
+    "points": 13,
+    "title": "Context-Generic Programming v0.8.0 – Pluggable trait implementations for Rust",
+    "url": "https://contextgeneric.dev/blog/v0.8.0-release/"
+  },
+  "50560203": {
+    "author": "surprisetalk",
+    "comments": 16,
+    "points": 22,
+    "title": "Windows has two settings that bring work back after restart, both off by default",
+    "url": "https://www.makeuseof.com/windows-can-bring-your-work-back-after-restart/"
+  },
+  "50575644": {
+    "author": "lapcat",
+    "comments": 256,
+    "points": 462,
+    "title": "Why there are still no non-WebKit browsers on iOS",
+    "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/"
+  },
+  "50577991": {
+    "author": "evakhoury",
+    "comments": 31,
+    "points": 136,
+    "title": "I'm quite pleased by the tech architecture of my art website",
+    "url": "https://klauria.tech/klauria-art/"
+  },
+  "50579331": {
+    "author": "QueensGambit",
+    "comments": 308,
+    "points": 575,
+    "title": "We promoted developers into architects without informing them",
+    "url": "https://manidoraisamy.com/developer-to-architect.html"
+  },
+  "50579568": {
+    "author": "jasondavies",
+    "comments": 1150,
+    "points": 2379,
+    "title": "Hurried Announcement: Alessandro Masullo GRH",
+    "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/"
+  },
+  "50581260": {
+    "author": "jasondavies",
+    "comments": 277,
+    "points": 1361,
+    "title": "Inkling 2 Mini",
+    "url": "https://thinkingmachines.ai/news/inkling-2-mini/"
+  },
+  "50582069": {
+    "author": "rafaelc",
+    "comments": 118,
+    "points": 440,
+    "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+    "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib"
+  },
+  "50583028": {
+    "author": "jger15",
+    "comments": 43,
+    "points": 111,
+    "title": "Getting the mind to steer the body to steer you",
+    "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body"
+  },
+  "50583761": {
+    "author": "LetThingsBeDiff",
+    "comments": 645,
+    "points": 588,
+    "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+    "url": "https://news.ycombinator.com/item?id=50583761"
+  },
+  "50587208": {
+    "author": "gdgghhhhh",
+    "comments": 89,
+    "points": 223,
+    "title": "RCE in Gnupg",
+    "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html"
+  },
+  "50587875": {
+    "author": "soheilpro",
+    "comments": 218,
+    "points": 441,
+    "title": "My monitor was cutting my download speed by 75%",
+    "url": "https://blog.tymscar.com/posts/studiodisplayethernet/"
+  },
+  "50588982": {
+    "author": "beginning_end",
+    "comments": 319,
+    "points": 486,
+    "title": "Detonating a pile of lead azide",
+    "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really"
+  },
+  "50589618": {
+    "author": "g-b-r",
+    "comments": 603,
+    "points": 755,
+    "title": "Lean verification of the Riemann Hypothesis",
+    "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/"
+  },
+  "50590279": {
+    "author": "reverseblade2",
+    "comments": 92,
+    "points": 116,
+    "title": "Show HN: Zero C# – C# without a runtime or GC",
+    "url": "https://onurgumus.github.io/zero-csharp/index.html"
+  },
+  "50590441": {
+    "author": "Bluestein",
+    "comments": 30,
+    "points": 84,
+    "title": "Verification files for the Lean proof of the Riemann Hypothesis",
+    "url": "https://math.mit.edu/~drew/grh/"
+  },
+  "50591260": {
+    "author": "valyala",
+    "comments": 18,
+    "points": 109,
+    "title": "PostgreSQL Extensions in Go",
+    "url": "https://jespino.github.io/gopgext/"
+  },
+  "50591853": {
+    "author": "k__",
+    "comments": 85,
+    "points": 317,
+    "title": "Inkling-2-Mini in 5.4 GB Memory",
+    "url": "https://github.com/ShinMegamiBoson/lookatmyquant"
+  },
+  "50592097": {
+    "author": "f311a",
+    "comments": 23,
+    "points": 65,
+    "title": "Upload2Shell (CVE-2026-125396)",
+    "url": "https://pwn.ai/upload2shell"
+  },
+  "50593481": {
+    "author": "vasie",
+    "comments": 1,
+    "points": 13,
+    "title": "Pandex – Official European Law for AI Agents, over MCP",
+    "url": "https://www.pandex.io"
+  },
+  "50593637": {
+    "author": "marojejian",
+    "comments": 10,
+    "points": 13,
+    "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
+    "url": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746"
+  },
+  "50593679": {
+    "author": "mayop100",
+    "comments": 0,
+    "points": 0,
+    "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
+    "url": "https://tasklet.ai/careers"
+  },
+  "50593737": {
+    "author": "raphlinus",
+    "comments": 1,
+    "points": 35,
+    "title": "Advice for the next 100 Rust GUIs",
+    "url": "https://linebender.org/blog/next-100-guis/"
+  },
+  "50594132": {
+    "author": "sebaandrada",
+    "comments": 2,
+    "points": 27,
+    "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
+    "url": "https://github.com/sebaandrada-cell/PcapAnalyzer"
+  }
+}
