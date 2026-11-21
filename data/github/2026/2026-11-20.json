@@ -71,6 +71,222 @@
       "url": "https://github.com/cindy-murray-39/acrobat-dc-desktop"
     }
   ],
+  "Kotlin": [
+    {
+      "created": "2026-11-14",
+      "description": "最好用的 Android 离线语音克隆与三语 TTS（误）——基于 GPT-SoVITS，支持中日英。 | The best offline voice cloning & trilingual TTS on Android (jk) — powered by GPT-SoVITS (ZH/JA/EN).",
+      "name": "Renakoni/Voicebox",
+      "stars": 204,
+      "url": "https://github.com/Renakoni/Voicebox"
+    },
+    {
+      "created": "2026-11-17",
+      "description": "本地优先的 Android 订阅/分期管理 App：自动计算未来每月/年需要花费的金额，自动滚动账单日、到期前每日提醒、30+ 币种实时汇率换算、账单日历、支出统计与桌面小组件，内置 240+ 国内外服务预设，支持余额钱包订阅。所有数据均存储在本地",
+      "name": "capllen/Subnook",
+      "stars": 178,
+      "url": "https://github.com/capllen/Subnook"
+    },
+    {
+      "created": "2026-11-14",
+      "description": "Native Android WhatsApp companion in Jetpack Compose & Go, with anti-ban rate-limit protection, privacy switches, channels, and in-app updates.",
+      "name": "hanzalaramz/Wupp",
+      "stars": 129,
+      "url": "https://github.com/hanzalaramz/Wupp"
+    },
+    {
+      "created": "2026-11-16",
+      "description": "脱敏 — Android 本地截图隐私处理工具",
+      "name": "Chen-Yu-Qing2005/tuomin",
+      "stars": 124,
+      "url": "https://github.com/Chen-Yu-Qing2005/tuomin"
+    },
+    {
+      "created": "2026-11-16",
+      "description": "一款 Xiaomi HyperOS 风格的安卓国铁信息聚合查询应用",
+      "name": "ybhgl/CRInfo",
+      "stars": 84,
+      "url": "https://github.com/ybhgl/CRInfo"
+    },
+    {
+      "created": "2026-11-15",
+      "description": "Material 3 Expressive GitHub client for Android & Linux Desktop built with Kotlin Multiplatform and Compose Multiplatform",
+      "name": "neutron42-jp/github-mobile-maxxing",
+      "stars": 55,
+      "url": "https://github.com/neutron42-jp/github-mobile-maxxing"
+    },
+    {
+      "created": "2026-11-17",
+      "description": "시험 감독관용 Android 앱 KoriyoSCAN: 빈 교실의 와이파이·블루투스 전파를 기록하고, 시험 중 새로 잡히는 전파를 표시합니다.",
+      "name": "reform-dev-team/exam-rf-guard",
+      "stars": 53,
+      "url": "https://github.com/reform-dev-team/exam-rf-guard"
+    },
+    {
+      "created": "2026-11-17",
+      "description": "Private, ad-free launcher for Google TV and Android TV. Works with Nuvio and Trakt.",
+      "name": "trbrnt/Veil",
+      "stars": 52,
+      "url": "https://github.com/trbrnt/Veil"
+    },
+    {
+      "created": "2026-11-19",
+      "description": "Aether — open-source AI agent for Android (Kotlin, Jetpack Compose). Local LLM chat app with bash, file and MCP tools, subagents, offline Alpine/Proot runtime, Termux and Shizuku support. Signed APK r",
+      "name": "aether-aiagent/aether",
+      "stars": 38,
+      "url": "https://github.com/aether-aiagent/aether"
+    },
+    {
+      "created": "2026-11-15",
+      "description": "A fast, free IPTV player for Android TV",
+      "name": "majorleeevil/imd-tv",
+      "stars": 35,
+      "url": "https://github.com/majorleeevil/imd-tv"
+    }
+  ],
+  "Python": [
+    {
+      "created": "2026-11-17",
+      "description": "",
+      "name": "gylive/google-ultra",
+      "stars": 2539,
+      "url": "https://github.com/gylive/google-ultra"
+    },
+    {
+      "created": "2026-11-15",
+      "description": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+      "name": "Hut-hzf/ung220z-tool",
+      "stars": 2032,
+      "url": "https://github.com/Hut-hzf/ung220z-tool"
+    },
+    {
+      "created": "2026-11-14",
+      "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "name": "duwqijlk/muse-protocol",
+      "stars": 1700,
+      "url": "https://github.com/duwqijlk/muse-protocol"
+    },
+    {
+      "created": "2026-11-14",
+      "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
+      "name": "haziqahmedqasmi/PeakCut",
+      "stars": 1551,
+      "url": "https://github.com/haziqahmedqasmi/PeakCut"
+    },
+    {
+      "created": "2026-11-16",
+      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+      "name": "sybil-solutions/inference-optimisation-skill",
+      "stars": 1346,
+      "url": "https://github.com/sybil-solutions/inference-optimisation-skill"
+    },
+    {
+      "created": "2026-11-19",
+      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+      "name": "iamajmeena/neonclipping",
+      "stars": 1260,
+      "url": "https://github.com/iamajmeena/neonclipping"
+    },
+    {
+      "created": "2026-11-15",
+      "description": "Allo is your friendly neighborhood typeface, free and open source",
+      "name": "joshpuckett/allo",
+      "stars": 1254,
+      "url": "https://github.com/joshpuckett/allo"
+    },
+    {
+      "created": "2026-11-14",
+      "description": "A 4.5M-parameter two-voice English text-to-speech model, trained from scratch",
+      "name": "n4ze3m/tiny-voca",
+      "stars": 792,
+      "url": "https://github.com/n4ze3m/tiny-voca"
+    },
+    {
+      "created": "2026-11-16",
+      "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
+      "name": "boringmarketer/boring-marketing-skills",
+      "stars": 745,
+      "url": "https://github.com/boringmarketer/boring-marketing-skills"
+    },
+    {
+      "created": "2026-11-14",
+      "description": "Agent skill that steers the model away from its first, most average pick in creative work: names, ideas, logo, posters, UI.",
+      "name": "mankidev/antialgorithm",
+      "stars": 572,
+      "url": "https://github.com/mankidev/antialgorithm"
+    }
+  ],
+  "Swift": [
+    {
+      "created": "2026-11-14",
+      "description": "Yab, yet another browser: a fast native macOS browser with an iPhone and Android companion",
+      "name": "yetanotherbrowser/yab",
+      "stars": 763,
+      "url": "https://github.com/yetanotherbrowser/yab"
+    },
+    {
+      "created": "2026-11-15",
+      "description": "Per-app volume mixer for macOS — no driver, no account. Built on Core Audio Process Tap.",
+      "name": "lishuangqiang/mixbar",
+      "stars": 315,
+      "url": "https://github.com/lishuangqiang/mixbar"
+    },
+    {
+      "created": "2026-11-15",
+      "description": "Camlo · 开幕 — Bring your iPhone Lock Screen to life: 1-tap slide-to-unlock morphs, 3D depth & motion wallpapers, no PC/jailbreak (iOS / iPhone Duo 26–27)｜让锁屏活起来：免电脑一键直写上滑变身、裸眼 3D 与动态锁屏",
+      "name": "Kianuni/Camlo",
+      "stars": 261,
+      "url": "https://github.com/Kianuni/Camlo"
+    },
+    {
+      "created": "2026-11-16",
+      "description": "A playground for live Metal shaders on iPhone, iPad, iPhone Duo, Apple TV, Apple Vision Pro and Apple Watch. Save any shader as a wallpaper.",
+      "name": "fedesanchez0/shader-lab",
+      "stars": 198,
+      "url": "https://github.com/fedesanchez0/shader-lab"
+    },
+    {
+      "created": "2026-11-15",
+      "description": "a fast, customizable macOS space switcher",
+      "name": "cnrad/interspace",
+      "stars": 179,
+      "url": "https://github.com/cnrad/interspace"
+    },
+    {
+      "created": "2026-11-16",
+      "description": "豆仓 BeanPod：原生 macOS 录音豆管理 App — 本机转写、纪要待办、知识库问答、逐句回听与英语学习、MCP 接入 Claude / Codex",
+      "name": "andyhuo520/beanpod",
+      "stars": 99,
+      "url": "https://github.com/andyhuo520/beanpod"
+    },
+    {
+      "created": "2026-11-14",
+      "description": "Overwrite CarPlay wallpaper caches with your own images.",
+      "name": "LinkPass888/CarCanvas",
+      "stars": 84,
+      "url": "https://github.com/LinkPass888/CarCanvas"
+    },
+    {
+      "created": "2026-11-15",
+      "description": "Fig / Kiro CLI / Amazon Q alternative: IDE-style autocomplete popup for zsh on macOS. Subcommands, options, git branches and files with descriptions in Terminal, iTerm2, Ghostty, VS Code and Cursor. N",
+      "name": "rostik32/zest",
+      "stars": 64,
+      "url": "https://github.com/rostik32/zest"
+    },
+    {
+      "created": "2026-11-18",
+      "description": "Native WebKit browser panes for Rex",
+      "name": "acoyfellow/rexweb",
+      "stars": 63,
+      "url": "https://github.com/acoyfellow/rexweb"
+    },
+    {
+      "created": "2026-11-14",
+      "description": "Nino Game Translator: PS5 oyunlarının İngilizce altyazısını anlık Türkçeye çevirip TV'de oyunun üstünde gösteren ücretsiz ve açık kaynak uygulama. Mac, Windows, Android telefon, Android TV / Google TV",
+      "name": "yunusdemirbag/nino-game-translator",
+      "stars": 61,
+      "url": "https://github.com/yunusdemirbag/nino-game-translator"
+    }
+  ],
   "Zig": [
     {
       "created": "2026-11-15",
