@@ -1,0 +1,146 @@
+{
+  "Kotlin": [
+    {
+      "created": "2026-11-19",
+      "description": "An opensource tool for Android devices to debloat and optimize them. Enhancing speed and privacy.",
+      "name": "cyb3rl00m/prune-debloater",
+      "stars": 275,
+      "url": "https://github.com/cyb3rl00m/prune-debloater"
+    },
+    {
+      "created": "2026-11-17",
+      "description": "本地优先的 Android 订阅/分期管理 App：自动计算未来每月/年需要花费的金额，自动滚动账单日、到期前每日提醒、30+ 币种实时汇率换算、账单日历、支出统计与桌面小组件，内置 240+ 国内外服务预设，支持余额钱包订阅。所有数据均存储在本地",
+      "name": "capllen/Subnook",
+      "stars": 188,
+      "url": "https://github.com/capllen/Subnook"
+    },
+    {
+      "created": "2026-11-18",
+      "description": "记清每个邮箱、手机号注册/绑定了哪些网站和 App · 网页 + iOS + 安卓三端，原生 SwiftUI / Jetpack Compose，加密同步互通",
+      "name": "Ckxkx/account-atlas",
+      "stars": 146,
+      "url": "https://github.com/Ckxkx/account-atlas"
+    },
+    {
+      "created": "2026-11-20",
+      "description": "兼容 HICAR 安卓车机接收端",
+      "name": "GGBondLab/OpenHC",
+      "stars": 132,
+      "url": "https://github.com/GGBondLab/OpenHC"
+    },
+    {
+      "created": "2026-11-16",
+      "description": "脱敏 — Android 本地截图隐私处理工具",
+      "name": "Chen-Yu-Qing2005/tuomin",
+      "stars": 124,
+      "url": "https://github.com/Chen-Yu-Qing2005/tuomin"
+    },
+    {
+      "created": "2026-11-16",
+      "description": "一款 Xiaomi HyperOS 风格的安卓国铁信息聚合查询应用",
+      "name": "ybhgl/CRInfo",
+      "stars": 89,
+      "url": "https://github.com/ybhgl/CRInfo"
+    },
+    {
+      "created": "2026-11-22",
+      "description": "Private line for your family",
+      "name": "midplane/taar",
+      "stars": 72,
+      "url": "https://github.com/midplane/taar"
+    },
+    {
+      "created": "2026-11-17",
+      "description": "Private, ad-free launcher for Google TV and Android TV. Works with Nuvio and Trakt.",
+      "name": "trbrnt/Veil",
+      "stars": 55,
+      "url": "https://github.com/trbrnt/Veil"
+    },
+    {
+      "created": "2026-11-17",
+      "description": "시험 감독관용 Android 앱 KoriyoSCAN: 빈 교실의 와이파이·블루투스 전파를 기록하고, 시험 중 새로 잡히는 전파를 표시합니다.",
+      "name": "reform-dev-team/exam-rf-guard",
+      "stars": 54,
+      "url": "https://github.com/reform-dev-team/exam-rf-guard"
+    },
+    {
+      "created": "2026-11-22",
+      "description": "美图 醒图APP 自用开发版。完全开源自用 无广告修图 App",
+      "name": "iam567/qiongtu",
+      "stars": 42,
+      "url": "https://github.com/iam567/qiongtu"
+    }
+  ],
+  "Rust": [
+    {
+      "created": "2026-11-16",
+      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+      "name": "erkamyaman/rust-anything",
+      "stars": 8035,
+      "url": "https://github.com/erkamyaman/rust-anything"
+    },
+    {
+      "created": "2026-11-21",
+      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+      "name": "EL4CTEO/fast-anything",
+      "stars": 1976,
+      "url": "https://github.com/EL4CTEO/fast-anything"
+    },
+    {
+      "created": "2026-11-21",
+      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+      "name": "omonkeyz/xbox-emulator",
+      "stars": 1338,
+      "url": "https://github.com/omonkeyz/xbox-emulator"
+    },
+    {
+      "created": "2026-11-17",
+      "description": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
+      "name": "Lemxy/WinRust",
+      "stars": 1246,
+      "url": "https://github.com/Lemxy/WinRust"
+    },
+    {
+      "created": "2026-11-16",
+      "description": "A desktop app for the Google Colab CLI: accounts, GPU sessions with cost guards, port forwarding and plugins.",
+      "name": "scarletkc/colab-playground",
+      "stars": 392,
+      "url": "https://github.com/scarletkc/colab-playground"
+    },
+    {
+      "created": "2026-11-20",
+      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
+      "name": "ivall/xcl",
+      "stars": 317,
+      "url": "https://github.com/ivall/xcl"
+    },
+    {
+      "created": "2026-11-20",
+      "description": "Lightweight alternative Windows client for game trainers: hotkeys, overlay and phone control.",
+      "name": "tweak-for-me/impulse",
+      "stars": 264,
+      "url": "https://github.com/tweak-for-me/impulse"
+    },
+    {
+      "created": "2026-11-21",
+      "description": "A fast, local and native Gmail client for macOS, inspired by Superhuman.",
+      "name": "m1guelpf/Exo",
+      "stars": 249,
+      "url": "https://github.com/m1guelpf/Exo"
+    },
+    {
+      "created": "2026-11-20",
+      "description": "run android apps on web, linux, macOS and windows",
+      "name": "sohzm/winedroid",
+      "stars": 237,
+      "url": "https://github.com/sohzm/winedroid"
+    },
+    {
+      "created": "2026-11-18",
+      "description": "Airplay/Chrome Cast anything",
+      "name": "mitsuhiko/tvpipe",
+      "stars": 189,
+      "url": "https://github.com/mitsuhiko/tvpipe"
+    }
+  ]
+}
