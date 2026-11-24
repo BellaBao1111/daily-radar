@@ -1,0 +1,320 @@
+{
+  "2611.30993v1": {
+    "authors": [
+      "Aggelos Semoglou",
+      "Thomas Tselentis",
+      "John Pavlopoulos"
+    ],
+    "category": "cs.CL",
+    "summary": "We present CART, a computational pipeline for extracting political narratives from parliamentary discourse and organizing them into a data-driven taxonomy without relying on predefined narrative categories. It encodes parliamentary discourse using semantic representations, filters relevant and reliable content through unsupervised confidence estimation, extracts narrative statements using LLMs, an",
+    "title": "CART: Clustering-based Analysis of Recurring narratives for Taxonomy construction",
+    "url": "http://arxiv.org/abs/2611.30993v1"
+  },
+  "2611.31002v1": {
+    "authors": [
+      "Jinkun Liu",
+      "Yingze Wang",
+      "Situ Wang",
+      "Deyao Hong",
+      "Mingju Gao"
+    ],
+    "category": "cs.CL",
+    "summary": "Agentic Robotics, in which foundation models act as coding agents to control robots through executable programs, has emerged as a compelling paradigm for embodied intelligence. Yet unlike software engineering, where massive executable environments power post-training, robotics remains constrained by small, manual benchmarks and in-distribution evaluation. To bridge this gap, we introduce RoboUnive",
+    "title": "RoboUniverse-10K: Toward the Scaling Era of Agentic Robotics via Real-to-Sim Environments",
+    "url": "http://arxiv.org/abs/2611.31002v1"
+  },
+  "2611.31015v1": {
+    "authors": [
+      "Tomer Ashuach",
+      "Zorik Gekhman",
+      "Avi Caciularu",
+      "Ori Ram",
+      "Jonathan Herzig"
+    ],
+    "category": "cs.CL",
+    "summary": "LLMs typically solve complex tasks with chain-of-thought (CoT) reasoning, which is also the main tool for monitoring them for misaligned behavior. However, standard transformers can also solve tasks with complete latent reasoning (CLR), carrying out the whole task internally and outputting only the final answer. Theory bounds the depth of CLR, the number of sequential steps it can carry out, and r",
+    "title": "Can Latent Reasoning Drive LLM Outputs Without a Trace?",
+    "url": "http://arxiv.org/abs/2611.31015v1"
+  },
+  "2611.31021v1": {
+    "authors": [
+      "Zhuoying Yang",
+      "Yichen Guo",
+      "Kathy Jia",
+      "Zichang Su",
+      "Ayesha Kashif"
+    ],
+    "category": "cs.CL",
+    "summary": "Spatial reasoning across multiple views requires inferring the 3D relations between objects and the camera from 2D observations, which depends on cross-view correspondence and scene geometry that vision-language models (VLMs) do not reliably extract. Pretrained vision encoders already capture this information in their latent features, with CLIP linking objects to image regions, DINOv3 matching sem",
+    "title": "Parsing Visual Latents for Multimodal Spatial Reasoning",
+    "url": "http://arxiv.org/abs/2611.31021v1"
+  },
+  "2611.31055v1": {
+    "authors": [
+      "Aditya Mishra",
+      "Thanish Bolla",
+      "Bidisha Sharma",
+      "Balaji Pitchaikannu",
+      "Surbhi Sinha"
+    ],
+    "category": "cs.CL",
+    "summary": "Despite rapid progress in automatic speech recognition (ASR), caption generation for long-form entertainment video remains challenging for content dense in music and effects, rich in accents, crosstalk, and noise. The transcript quality depends on segmentation and surrounding modules as much as the acoustic model. A single pass voice activity detection (VAD) can miss faint, low-energy voice while ",
+    "title": "CAST: A Deployed Speech-to-Text Cascade for Closed Captioning of Entertainment Television",
+    "url": "http://arxiv.org/abs/2611.31055v1"
+  },
+  "2611.31056v1": {
+    "authors": [
+      "Qi Li",
+      "Jianjun Xu",
+      "Jiu Li",
+      "Pingtao Wei"
+    ],
+    "category": "cs.CL",
+    "summary": "Evidence selection in normative knowledge question answering requires determining whether a candidate article contains content that directly supports an answer under the applicable conditions of the question. We present DKnown-Jev-2, an article-level answer evidence classifier designed for evidence integration across multiple paragraphs. The model jointly encodes question conditions, article metad",
+    "title": "DKnown-Jev-2: Article-Level Answer-Evidence Classification and Efficient Inference with a Pre-trained Language Model",
+    "url": "http://arxiv.org/abs/2611.31056v1"
+  },
+  "2611.31068v1": {
+    "authors": [
+      "Safal Thapaliya",
+      "Jiatan Huang",
+      "Debapriya Chatterjee",
+      "Yanfang Ye",
+      "Chuxu Zhang"
+    ],
+    "category": "cs.CL",
+    "summary": "Dietary decisions require identifying a food's nutrient content and considering individual dietary needs, but recognizing food from an image alone does not provide this information. Visually similar foods can have different nutrient profiles, so selecting the wrong food record can lead to incorrect decisions even when nutrient rules are applied correctly. Furthermore, satisfying nutrient constrain",
+    "title": "UMAMI: A Multimodal Benchmark Dataset for Evidence-Grounded Dietary Decisions",
+    "url": "http://arxiv.org/abs/2611.31068v1"
+  },
+  "2611.31094v1": {
+    "authors": [
+      "Xuanlei Zhao",
+      "Hailun Xu",
+      "Kai Wang",
+      "Yang Luo",
+      "Yingxuan Ren"
+    ],
+    "category": "cs.CL",
+    "summary": "Looped Transformers iterate a shared block of layers to increase computation without adding parameters, offering stronger performance and test-time scaling. However, this power has so far required training from scratch and yielded only modest gains for LLMs. Finetuning existing models into loops is far cheaper, yet also brings only marginal gains over SFT. We propose LoopRes, an effective, scalabl",
+    "title": "Unlocking the Power of Loops in Pretrained LLMs with Loop Residuals",
+    "url": "http://arxiv.org/abs/2611.31094v1"
+  },
+  "2611.31112v1": {
+    "authors": [
+      "Mohammad Mahdi Moradi",
+      "Ali Pourranjbar",
+      "Zongzuo Wang",
+      "Mingming Zhu",
+      "Ben Feng"
+    ],
+    "category": "cs.CL",
+    "summary": "Parallel speculative decoders propose an entire token block at once, yet one early inconsistency can cause the target to reject its remaining suffix. We introduce Corrective Prefix Attention (CPA), which combines prefix-aware selection with autoregressive supervision to improve these parallel drafts. CPA lets each candidate attend to earlier choices within the block. Fixed candidate shortlists all",
+    "title": "Look Back, Draft Ahead: Corrective Prefix Attention for Parallel Speculative Decoding",
+    "url": "http://arxiv.org/abs/2611.31112v1"
+  },
+  "2611.31113v1": {
+    "authors": [
+      "Ruben Navasardyan"
+    ],
+    "category": "cs.CL",
+    "summary": "A training-time attention change is usually judged for zero-shot context extension against a dense baseline beyond the training length at the default temperature, $τ= 1$. The outcome depends on how miscalibrated the baseline is there: the share of perplexity it recovers when its logits are sharpened by one scalar. Under the standard recipe (fp32 master weights), an 8k-trained baseline is 8-15% mis",
+    "title": "Attention Temperature Confounds Zero-Shot Context Extension",
+    "url": "http://arxiv.org/abs/2611.31113v1"
+  },
+  "2611.31129v1": {
+    "authors": [
+      "Peter Horvath",
+      "Ilia Shumailov",
+      "Zhuoran Liu",
+      "Lukasz Chmielewski",
+      "Lejla Batina"
+    ],
+    "category": "cs.AI",
+    "summary": "Model alignment is the primary safety and security mechanism for enforcing refusal of malicious prompts in modern foundation models; yet, existing adversarial evaluations implicitly assume underlying hardware integrity. In this paper, we present FATCAT, the first physical fault-injection attacks capable of eliminating refusal in modern large language and vision-language models. Specifically, we pr",
+    "title": "FATCAT: Fault Injection Attacks Targeting Chip-level Alignment",
+    "url": "http://arxiv.org/abs/2611.31129v1"
+  },
+  "2611.31132v1": {
+    "authors": [
+      "Son T. Huynh",
+      "Thuy T. Le",
+      "Thu H. A. Huynh",
+      "Binh T. Nguyen"
+    ],
+    "category": "cs.AI",
+    "summary": "Antimicrobial resistance in Escherichia coli is established in routine practice by culture-based susceptibility testing, which is slow relative to the clinical need for an early treatment decision. Resistance status also leaves a measurable trace in cell morphology, and whole-genome sequencing of clinical isolates is increasingly available, which raises the question of whether colony appearance ca",
+    "title": "Genome-to-Image Translation: Reconstructing Escherichia coli Morphology from Genomic Sequences",
+    "url": "http://arxiv.org/abs/2611.31132v1"
+  },
+  "2611.31133v1": {
+    "authors": [
+      "Jean Barré",
+      "Antoine Bourgois",
+      "Thierry Poibeau"
+    ],
+    "category": "cs.CL",
+    "summary": "Every novel divides a finite quantity of narrative attention among its characters, and whether the shape of that division, between a narrative organized around a single figure and one spread across a crowd, has a history is far less settled than the abundance of critical commentary on protagonists might suggest. We operationalize Woloch's notion of the character-system, the distribution of narrati",
+    "title": "Serialization and the Character-System: Measuring Narrative Concentration in French Fiction (1800--1940)",
+    "url": "http://arxiv.org/abs/2611.31133v1"
+  },
+  "2611.31135v1": {
+    "authors": [
+      "Fareeha Amir"
+    ],
+    "category": "cs.AI",
+    "summary": "Multi-label remote sensing scene classification remains a challenging task due to complex spatial-spectral patterns, extreme class imbalance, and inter-label dependencies that are often insufficiently modeled. To address these challenges, we introduce a Semantic-Relational Cross-Window Dual-Graph Network (SRCWDNet), which integrates three key modules: (1) a Cross-Window Attention module that captu",
+    "title": "SRCWDNet: Semantic-Relational Cross-Window Dual-Graph Network for Multi-Label Remote Sensing Scene Classification",
+    "url": "http://arxiv.org/abs/2611.31135v1"
+  },
+  "2611.31139v1": {
+    "authors": [
+      "Mohammed Nayeem Khan",
+      "Akhil P",
+      "Shahina Shaik"
+    ],
+    "category": "cs.AI",
+    "summary": "Laya is a 421M-parameter encoder that answers a question about a text in one pass: each answer option, written as a name plus a description, gets a marker token, and one score is read from the network at each marker. We first confirm that such models can follow an option's name when it contradicts the description; the question is where in the network this happens. We locate it. On 951 synthetic qu",
+    "title": "Deneb-Vritra: Descriptions, Edges and Names Examined by Blocking Via Restoring Token Representations and Attention",
+    "url": "http://arxiv.org/abs/2611.31139v1"
+  },
+  "2611.31160v1": {
+    "authors": [
+      "Nicolas Bolouri",
+      "Gaya Mehenni",
+      "Daniel Toyama"
+    ],
+    "category": "cs.AI",
+    "summary": "Designing what an agent should optimize can be as difficult as optimizing the agent itself. Existing language-model-based reward-generation methods typically refine objectives for predefined tasks and couple the decision of what to explore with the synthesis of how to implement it, potentially narrowing the resulting behavioral repertoire. We introduce Habitats, a framework for open-ended evolutio",
+    "title": "Habitats: A Framework for Open-Ended Evolution of Agent Objectives",
+    "url": "http://arxiv.org/abs/2611.31160v1"
+  },
+  "2611.31165v1": {
+    "authors": [
+      "Terry Ma",
+      "Aidan Zhang"
+    ],
+    "category": "cs.AI",
+    "summary": "When should additional reasoning or verification replace a majority-vote answer? We call such a replacement an override. We examine two obstacles: the availability of correct alternatives and the reliability of methods that produce or select them. We compare additional reasoning, executed programs, and cross-model reasoning on 150 competition-mathematics questions with three open reasoning models.",
+    "title": "When Does Overriding the Majority Vote Help?",
+    "url": "http://arxiv.org/abs/2611.31165v1"
+  },
+  "2611.31166v1": {
+    "authors": [
+      "Nan Chen",
+      "Soledad Villar",
+      "Soufiane Hayou"
+    ],
+    "category": "cs.CL",
+    "summary": "The post-training of pretrained large language models, including supervised finetuning (SFT), direct preference optimization (DPO), and reinforcement learning with verifiable reward (RLVR), is very sensitive to the learning rate, and tuning it through grid search is costly in both computation and memory. In this work, we propose \\textbf{TipSweep}, a method to transfer the learning rate across the ",
+    "title": "Precision-Aware Learning Rate Transfer Across Block Count in LLM Post-Training",
+    "url": "http://arxiv.org/abs/2611.31166v1"
+  },
+  "2611.31174v1": {
+    "authors": [
+      "Bodong Liu",
+      "Dongyoung Go",
+      "Sofian Zalouk",
+      "Kilian Q. Weinberger"
+    ],
+    "category": "cs.AI",
+    "summary": "Decision models are emerging as fast components of larger AI systems. Yet recent decision models, such as Jev, process options sequentially, leading to different predictions based on their ordering. Across ten open- and closed-source decision models, we find that \\emph{order-sensitivity} is pervasive, causing substantial accuracy degradation and unreliable decision-making. These effects become mor",
+    "title": "Reducing Order Sensitivity in Decision Models",
+    "url": "http://arxiv.org/abs/2611.31174v1"
+  },
+  "2611.31175v1": {
+    "authors": [
+      "Sungchul Kim",
+      "Weixiao Huang",
+      "Mekala Raja Sekhar Reddy",
+      "Amrutha Srinivasan"
+    ],
+    "category": "cs.AI",
+    "summary": "Conversational recommenders must rank items against needs that catalogs record only in part, while users add, withdraw and reverse needs and switch between requests. LLM rankers re-read the dialogue at every turn: they are slow, and their ordering does not show which needs an item meets. We show that a conversational recommender can be built from typed decisions instead: named questions over fixed",
+    "title": "Needwise: Generation-Free Conversational Recommendation from Need-Level Typed Decisions",
+    "url": "http://arxiv.org/abs/2611.31175v1"
+  },
+  "2611.31185v1": {
+    "authors": [
+      "Ramraj Chandradevan",
+      "Sayontan Ghosh",
+      "Vinoth Selvendran"
+    ],
+    "category": "cs.AI",
+    "summary": "Reinforcement learning (RL) improves large language model search agents by up to 32 exact-match (EM) points over their pre-RL initializations, yet overall accuracy gains do not identify which underlying functional capabilities improve or interact during training. We introduce CO-GRAFT, a reward-agnostic interventional attribution framework in which an RL-trained agent and its pre-RL initialization",
+    "title": "CO-GRAFT: Attributing Reinforcement Learning Gains in Search Agents via Role-Level Policy Grafting",
+    "url": "http://arxiv.org/abs/2611.31185v1"
+  },
+  "2611.31190v1": {
+    "authors": [
+      "Avinash Kumar Singh",
+      "Bhaskarjit Sarmah",
+      "Stefano Pasquali"
+    ],
+    "category": "cs.AI",
+    "summary": "Text-to-SQL systems often return queries that execute successfully but answer the wrong question. Detecting these errors at deployment is hard because execution correctness is defined against a gold query, which exists only in labeled data. We formulate confidence estimation for Text-to-SQL as probabilistic query validation under a latent correctness variable that is observable at calibration time",
+    "title": "Know When to Abstain: Conformal Confidence Estimation for Text-to-SQL",
+    "url": "http://arxiv.org/abs/2611.31190v1"
+  },
+  "2611.31194v1": {
+    "authors": [
+      "Yiming Sun",
+      "Yifan Wang",
+      "Aosong Feng",
+      "Yijia Ma",
+      "Ben Cheng"
+    ],
+    "category": "cs.AI",
+    "summary": "In this paper, we introduce Neurovascular Codes as shared EEG representations for fMRI generation. We first train a separate EEG encoder to predict each fMRI signal, learning target-specific temporal and spectral features from the same EEG window. After training, we freeze the encoders and project their concatenated hidden features into a shared neurovascular code. Conditioned on this code, stocha",
+    "title": "Learning Neurovascular Codes for EEG-to-fMRI Synthesis",
+    "url": "http://arxiv.org/abs/2611.31194v1"
+  },
+  "2611.31198v1": {
+    "authors": [
+      "Rui Sun",
+      "Junhua Huang",
+      "Luca Zancato",
+      "Md Mofijul Islam",
+      "Kai-Wei Chang"
+    ],
+    "category": "cs.AI",
+    "summary": "Recent multimodal search agents use reasoning, vision, and live web search across many turns to answer questions beyond parametric knowledge by orchestrating a small library of hand-crafted search and visual tools. However, the library is laborious to create and maintain, and frozen when new query types, evidence formats, and failure modes are encountered in the wild. Human practitioners, by contr",
+    "title": "ToolSmith: An Automatic Tool-Generation Framework for Multimodal Search Agents",
+    "url": "http://arxiv.org/abs/2611.31198v1"
+  },
+  "2611.31215v1": {
+    "authors": [
+      "Xiwei Liu",
+      "Yulong Li",
+      "Xuhui Li",
+      "Xinlin Zhuang",
+      "Zhixiang Lu"
+    ],
+    "category": "cs.AI",
+    "summary": "Humans explore unfamiliar spaces with purpose, deciding where to look until they have gathered the evidence a spatial question requires. However, can vision-language models (VLMs), which reason increasingly well over curated images and videos, also seek in space when the evidence is not handed to them? We present ActSpace-Bench, a benchmark of 994 questions across 234 exploration episodes in 72 re",
+    "title": "Seeking in Space: Benchmarking Purposeful Active Exploration of Vision-Language Models for Spatial Reasoning",
+    "url": "http://arxiv.org/abs/2611.31215v1"
+  },
+  "2611.31222v1": {
+    "authors": [
+      "Mohammed Baharoon",
+      "Sung Eun Kim",
+      "Mahmoud Hussain Alabbad",
+      "Lucas Bijnens",
+      "Ali Piracha"
+    ],
+    "category": "cs.AI",
+    "summary": "Radiology reports describe findings in text only, without visually marking them on the scan, so readers cannot directly see which abnormality each reported finding refers to. We introduce CTLink, a text-prompted 3D segmentation model that segments findings described in a chest CT report. CTLink was trained on 4123 noncontrast chest CT scans with 9547 segmented report findings, including ReXGroundi",
+    "title": "CTLink: A Text-Prompted Segmentation Model for Linking Radiology Report Findings to 3D Chest CT Scans",
+    "url": "http://arxiv.org/abs/2611.31222v1"
+  },
+  "2611.31228v1": {
+    "authors": [
+      "Daniel Theron"
+    ],
+    "category": "cs.AI",
+    "summary": "Prompting language models to verbalize stepwise numerical confidence during generation is an increasingly popular approach for triggering backtracking and error correction in agentic reasoning. This strategy presupposes two capabilities: (1) in-situ monitoring fidelity (does confidence drop when an error occurs?) and (2) downstream steering control (does an uncertainty token causally steer the mod",
+    "title": "Language Models Steer on Injected Uncertainty Tokens, but Fail to Self-Monitor In Situ",
+    "url": "http://arxiv.org/abs/2611.31228v1"
+  }
+}
