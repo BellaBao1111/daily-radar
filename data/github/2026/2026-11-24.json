@@ -1,0 +1,218 @@
+{
+  "C++": [
+    {
+      "created": "2026-11-20",
+      "description": "Hookshot Is A Native PC Recompilation Of The Switch 2 Ocarina Of Time Remake",
+      "name": "ItsNotRexed/Hookshot",
+      "stars": 679,
+      "url": "https://github.com/ItsNotRexed/Hookshot"
+    },
+    {
+      "created": "2026-11-23",
+      "description": "🐱 Native macOS & Windows desktop cat pet with full-state keyboard/mouse capture (typing & gaming), 2.5D head tracking, hunting boba eyes, and Black/Siamese skins",
+      "name": "chanke17/KuroCat",
+      "stars": 346,
+      "url": "https://github.com/chanke17/KuroCat"
+    },
+    {
+      "created": "2026-11-20",
+      "description": "Experimental, clean-room Xbox Series X|S (Scarlett) HLE and compatibility layer for Windows x64.",
+      "name": "Freminet/ScarlettX",
+      "stars": 249,
+      "url": "https://github.com/Freminet/ScarlettX"
+    },
+    {
+      "created": "2026-11-20",
+      "description": "Experimental Xbox One (Durango) & Series X|S (Scarlett) compatibility layer for Windows",
+      "name": "sammwyy/xvalkyrie",
+      "stars": 214,
+      "url": "https://github.com/sammwyy/xvalkyrie"
+    },
+    {
+      "created": "2026-11-23",
+      "description": "Compatibility layer for Xbox Series apps on Windows",
+      "name": "boykopovar/AnyBox",
+      "stars": 189,
+      "url": "https://github.com/boykopovar/AnyBox"
+    },
+    {
+      "created": "2026-11-18",
+      "description": "Native PC port of Ace Combat 6: Fires of Liberation using XenonRecomp",
+      "name": "Dipshet/GracemeriaRecomp",
+      "stars": 130,
+      "url": "https://github.com/Dipshet/GracemeriaRecomp"
+    },
+    {
+      "created": "2026-11-20",
+      "description": "Open USB optical spectrometer (400–650 nm, up to 1 nm resolution). 3D-printable hardware + desktop software for science education and experiments.",
+      "name": "lhoyer/spectral-explorer",
+      "stars": 124,
+      "url": "https://github.com/lhoyer/spectral-explorer"
+    },
+    {
+      "created": "2026-11-21",
+      "description": "",
+      "name": "oguz463/OLEDTextFix",
+      "stars": 117,
+      "url": "https://github.com/oguz463/OLEDTextFix"
+    },
+    {
+      "created": "2026-11-20",
+      "description": "",
+      "name": "ItsNotRexed/Blueshell",
+      "stars": 109,
+      "url": "https://github.com/ItsNotRexed/Blueshell"
+    },
+    {
+      "created": "2026-11-20",
+      "description": "Retro VFD-style desk gadget for the Waveshare ESP32-S3-Touch-LCD-3.49: clock, weather, internet radio, focus timer, pixel scenes. Browser installer.",
+      "name": "melihkoray/phosphor",
+      "stars": 86,
+      "url": "https://github.com/melihkoray/phosphor"
+    }
+  ],
+  "Go": [
+    {
+      "created": "2026-11-20",
+      "description": "Fast, lightweight, zero-CGO native desktop client for Vaultwarden/Bitwarden in Go and NSGo",
+      "name": "txchen/govault",
+      "stars": 191,
+      "url": "https://github.com/txchen/govault"
+    },
+    {
+      "created": "2026-11-18",
+      "description": "A TUI for chrony NTP time server monitoring",
+      "name": "geerlingguy/chronytop",
+      "stars": 154,
+      "url": "https://github.com/geerlingguy/chronytop"
+    },
+    {
+      "created": "2026-11-21",
+      "description": "QuickWork / Amazon Quick → OpenAI API  把 Amazon Quick（QuickWork）桌面端的聊天能力转换成 **OpenAI 兼容的 HTTP API**。  项目是单一 Go 可执行文件：原生 OAuth 登录、账号存储、token 刷新和反代全部由 Go 完成，不需要 Python，也不用启动官方桌面应用或 outpost 进程。登录后由反代把 `/",
+      "name": "jasonxu114514/aws-quickwork-2api",
+      "stars": 138,
+      "url": "https://github.com/jasonxu114514/aws-quickwork-2api"
+    },
+    {
+      "created": "2026-11-19",
+      "description": "Mirra (镜衣): put a face, an outfit and a pose from reference galleries together with an image model, in the cloud or on your own server. A cross-platform NSGo app in Go.",
+      "name": "yldm-ai/mirra",
+      "stars": 105,
+      "url": "https://github.com/yldm-ai/mirra"
+    },
+    {
+      "created": "2026-11-20",
+      "description": "Modern robotics and industrial middleware.",
+      "name": "podomy/weld",
+      "stars": 101,
+      "url": "https://github.com/podomy/weld"
+    },
+    {
+      "created": "2026-11-18",
+      "description": "Quantconnect Lean Selvon Research: structured environment for strategy experiments and backtesting",
+      "name": "piyushverse001/quantconnect-lean-selvon-research",
+      "stars": 68,
+      "url": "https://github.com/piyushverse001/quantconnect-lean-selvon-research"
+    },
+    {
+      "created": "2026-11-18",
+      "description": "Plan shared Palworld sessions and coordinate co-op routes together.",
+      "name": "Dhaarani007/palworld-coop-orroven",
+      "stars": 68,
+      "url": "https://github.com/Dhaarani007/palworld-coop-orroven"
+    },
+    {
+      "created": "2026-11-23",
+      "description": "A small packet path visualizer for Linux.",
+      "name": "iximiuz/pathviz",
+      "stars": 59,
+      "url": "https://github.com/iximiuz/pathviz"
+    },
+    {
+      "created": "2026-11-19",
+      "description": "Build PostgreSQL extensions from Go code with TinyGo",
+      "name": "jespino/gopgext",
+      "stars": 58,
+      "url": "https://github.com/jespino/gopgext"
+    },
+    {
+      "created": "2026-11-20",
+      "description": "Search and ask across your organization's knowledge: Slack, coding-agent sessions, docs and tickets. Self-hosted.",
+      "name": "bluesky-social/diderot",
+      "stars": 53,
+      "url": "https://github.com/bluesky-social/diderot"
+    }
+  ],
+  "Zig": [
+    {
+      "created": "2026-11-20",
+      "description": "Native Zig and Metal inference for Flint with checked execution contracts",
+      "name": "justrach/nanoattention",
+      "stars": 54,
+      "url": "https://github.com/justrach/nanoattention"
+    },
+    {
+      "created": "2026-11-20",
+      "description": "Rewrite your app in Zig, one piece at a time, checked against the original's recorded behavior at every step. Functions in JavaScript, TypeScript and Python, and CLIs in any language.",
+      "name": "Layfate/zig-anything",
+      "stars": 5,
+      "url": "https://github.com/Layfate/zig-anything"
+    },
+    {
+      "created": "2026-11-18",
+      "description": "Convert Spine skeleton data and atlases between versions 3.5 and 4.3, with a report of every change. Web app, CLI, C ABI and bindings for C++, C#, JavaScript, Python, Zig, Unity and Godot.",
+      "name": "MindsMaster/spine-converter",
+      "stars": 5,
+      "url": "https://github.com/MindsMaster/spine-converter"
+    },
+    {
+      "created": "2026-11-23",
+      "description": "A Nushell plugin that projects terminals held on the server into a web page as plain HTML",
+      "name": "cablehead/nu_plugin_ghostty",
+      "stars": 3,
+      "url": "https://github.com/cablehead/nu_plugin_ghostty"
+    },
+    {
+      "created": "2026-11-18",
+      "description": "Superfast declarative application framework for Zig, in the spirit of QML and Slint: one UI from desktop GPUs down to ESP32 and bare-metal MCUs",
+      "name": "gattoarancione/zigulee",
+      "stars": 3,
+      "url": "https://github.com/gattoarancione/zigulee"
+    },
+    {
+      "created": "2026-11-19",
+      "description": "a simple os kernel written in zig",
+      "name": "HissingRat/Carmine",
+      "stars": 2,
+      "url": "https://github.com/HissingRat/Carmine"
+    },
+    {
+      "created": "2026-11-22",
+      "description": "The icon format of Sinty OS: layered SVG sources compiled to bitmaps",
+      "name": "singularityos-lab/iride",
+      "stars": 2,
+      "url": "https://github.com/singularityos-lab/iride"
+    },
+    {
+      "created": "2026-11-18",
+      "description": "Typed interfaces between Zig, C, JavaScript and Lua.",
+      "name": "ratatoskr/salamander",
+      "stars": 2,
+      "url": "https://github.com/ratatoskr/salamander"
+    },
+    {
+      "created": "2026-11-20",
+      "description": "A personal Windows terminal based on shiweis/ghostty-windows.",
+      "name": "zszushi/Madotty",
+      "stars": 2,
+      "url": "https://github.com/zszushi/Madotty"
+    },
+    {
+      "created": "2026-11-22",
+      "description": "Export AI harness chats (OpenCode, Claude, ChatGPT, Kagi, Cline and more) to Markdown, JSON, and attachments on disk, with dedupe, import quarantining, and remote response caching.",
+      "name": "bevry-vibes/ai-export",
+      "stars": 2,
+      "url": "https://github.com/bevry-vibes/ai-export"
+    }
+  ]
+}
