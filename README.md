@@ -25,7 +25,7 @@ picks a random subset of sources, so coverage varies from day to day.
 
 ## Trending on Hacker News this week
 
-`models` ×6 · `code` ×6 · `without` ×5 · `now` ×5 · `built` ×4 · `coding` ×4 · `microsoft` ×4 · `graphql` ×4 · `open-source` ×4 · `github` ×4 · `agents` ×4 · `gemini` ×4 · `again` ×3 · `network` ×3 · `archive` ×3
+`models` ×7 · `code` ×6 · `built` ×5 · `without` ×5 · `now` ×5 · `agents` ×5 · `rust` ×4 · `coding` ×4 · `microsoft` ×4 · `graphql` ×4 · `security` ×4 · `hiring` ×4 · `launch` ×4 · `open-source` ×4 · `github` ×4
 
 ## How it works
 
