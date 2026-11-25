@@ -1,10 +1,24 @@
 {
+  "50589784": {
+    "author": "teledream",
+    "comments": 57,
+    "points": 112,
+    "title": "SSH is a GUI framework",
+    "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/"
+  },
   "50598555": {
     "author": "vinhnx",
     "comments": 126,
     "points": 548,
     "title": "The Spray Bottle",
     "url": "https://mechanical-pencil.com/products/spray-bottle"
+  },
+  "50601280": {
+    "author": "bjin",
+    "comments": 46,
+    "points": 185,
+    "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+    "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard"
   },
   "50607849": {
     "author": "synapsomorphy",
@@ -13,6 +27,20 @@
     "title": "The short age of dragon riders",
     "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/"
   },
+  "50610682": {
+    "author": "surprisetalk",
+    "comments": 1,
+    "points": 13,
+    "title": "A Beer Brewer's Noise Estimation",
+    "url": "https://chillphysicsenjoyer.substack.com/p/a-beer-brewers-noise-estimation"
+  },
+  "50611593": {
+    "author": "0x23",
+    "comments": 8,
+    "points": 62,
+    "title": "Show HN: An agent skill that optimizes code with falsifiable hypotheses",
+    "url": "https://chszlab.github.io/AgenticAlgorithmEngineering/"
+  },
   "50613769": {
     "author": "zdw",
     "comments": 35,
@@ -20,12 +48,40 @@
     "title": "When in Doubt, Flail About",
     "url": "https://www.seangoedecke.com/when-in-doubt-flail-about/"
   },
+  "50619073": {
+    "author": "franze",
+    "comments": 9,
+    "points": 25,
+    "title": "The undocumented 249-file limit for Googlebot rendering",
+    "url": "https://www.fullstackoptimization.com/a/googlebot-249-file-rendering-limit"
+  },
+  "50623028": {
+    "author": "furstenheim",
+    "comments": 1,
+    "points": 8,
+    "title": "A fast CAS with a focus on resolution of singularities",
+    "url": "https://github.com/pportilla/atlas"
+  },
   "50623866": {
     "author": "todsacerdoti",
     "comments": 9,
     "points": 65,
     "title": "The algebra of dependent types (2025)",
     "url": "https://dotat.at/@/2025-05-28-types.html"
+  },
+  "50624446": {
+    "author": "jaydenmilne",
+    "comments": 85,
+    "points": 206,
+    "title": "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs",
+    "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html"
+  },
+  "50624684": {
+    "author": "kevinsync",
+    "comments": 15,
+    "points": 24,
+    "title": "Show HN: Rchive – Every drive I've owned since the 90s, searchable in one window",
+    "url": "https://www.rchive.computer/"
   },
   "50625654": {
     "author": "simonebrunozzi",
@@ -89,6 +145,13 @@
     "points": 309,
     "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
     "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/"
+  },
+  "50635783": {
+    "author": "jxmorris12",
+    "comments": 11,
+    "points": 103,
+    "title": "Predicting LoRA size for any dataset",
+    "url": "https://engram.com/blog/lora-size"
   },
   "50637056": {
     "author": "smusamashah",
@@ -176,15 +239,22 @@
   },
   "50638503": {
     "author": "arkits",
-    "comments": 50,
-    "points": 231,
+    "comments": 73,
+    "points": 328,
     "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
     "url": "https://gpu-demo-gallery.pages.dev/"
   },
+  "50639698": {
+    "author": "matthewsinclair",
+    "comments": 193,
+    "points": 250,
+    "title": "Smart people who give a shit use tools",
+    "url": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools"
+  },
   "50641171": {
     "author": "ThrowNotAway",
-    "comments": 84,
-    "points": 149,
+    "comments": 172,
+    "points": 304,
     "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
     "url": "https://github.com/xoxorwr/pw-loudness-eq"
   },
@@ -197,9 +267,9 @@
   },
   "50642086": {
     "author": "rgwohlbold",
-    "comments": 46,
-    "points": 104,
-    "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
+    "comments": 320,
+    "points": 424,
+    "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
     "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers"
   },
   "50642496": {
@@ -208,5 +278,117 @@
     "points": 28,
     "title": "U.S. jury convicts Huawei of fraud, Iran sanctions violations",
     "url": "https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/"
+  },
+  "50642939": {
+    "author": "encyclopedism",
+    "comments": 58,
+    "points": 169,
+    "title": "I checked Clojure's core with Lean and found unreported bugs",
+    "url": "https://s.conao3.com/blog/2026/e4f733"
+  },
+  "50643065": {
+    "author": "lilytweed",
+    "comments": 330,
+    "points": 453,
+    "title": "Rumors swirling that labs might have cracked Factoring in P",
+    "url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/"
+  },
+  "50643129": {
+    "author": "gumby",
+    "comments": 100,
+    "points": 418,
+    "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+    "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts"
+  },
+  "50643199": {
+    "author": "surprisetalk",
+    "comments": 161,
+    "points": 99,
+    "title": "In C++, = default and {} are not the same constructor",
+    "url": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/"
+  },
+  "50644817": {
+    "author": "lxhrstn",
+    "comments": 428,
+    "points": 1018,
+    "title": "1Password Security Incident",
+    "url": "https://1password.com/blog/update-on-nov-2026-security-incident"
+  },
+  "50644980": {
+    "author": "acossta",
+    "comments": 25,
+    "points": 107,
+    "title": "The polynomial Hirsch conjecture is false [pdf]",
+    "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf"
+  },
+  "50645074": {
+    "author": "translocator",
+    "comments": 18,
+    "points": 83,
+    "title": "Britain's ghost stations",
+    "url": "https://spectator.com/article/britains-ghost-stations-are-fascinating/"
+  },
+  "50646108": {
+    "author": "Kotlopou",
+    "comments": 613,
+    "points": 771,
+    "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+    "url": "https://scottaaronson.blog/?p=10379"
+  },
+  "50647158": {
+    "author": "handfuloflight",
+    "comments": 38,
+    "points": 82,
+    "title": "72-Hour Fasting Can Reset Your Immune System, USC Study Shows",
+    "url": "https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/"
+  },
+  "50647161": {
+    "author": "dm",
+    "comments": 18,
+    "points": 58,
+    "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+    "url": "https://opensec.in/blog/nfs2root-cve-2026-99362"
+  },
+  "50647181": {
+    "author": "gslin",
+    "comments": 30,
+    "points": 88,
+    "title": "Slow Ubuntu security response times",
+    "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9"
+  },
+  "50647673": {
+    "author": "rmason",
+    "comments": 58,
+    "points": 114,
+    "title": "The New York Times tells photographers not to use the latest Photoshop",
+    "url": "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/"
+  },
+  "50648035": {
+    "author": "gregsadetsky",
+    "comments": 14,
+    "points": 40,
+    "title": "Defang Security Incident",
+    "url": "https://defang.io/blog/post/security-incident-november-2026/"
+  },
+  "50648050": {
+    "author": "nb-t",
+    "comments": 77,
+    "points": 175,
+    "title": "Much shorter version of GRH Lean verification from Anthropic",
+    "url": "https://github.com/lsernau/grh-lean"
+  },
+  "50648365": {
+    "author": "miohtama",
+    "comments": 0,
+    "points": 8,
+    "title": "Bare Metal Qwen",
+    "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os"
+  },
+  "50648823": {
+    "author": "csoham",
+    "comments": 0,
+    "points": 54,
+    "title": "Jev is (probably) Qwen3.5-35B-A3B",
+    "url": "https://modaic.dev/blog/latency-doesnt-lie"
   }
 }
