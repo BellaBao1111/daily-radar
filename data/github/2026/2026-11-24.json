@@ -143,6 +143,150 @@
       "url": "https://github.com/bluesky-social/diderot"
     }
   ],
+  "Kotlin": [
+    {
+      "created": "2026-11-23",
+      "description": "Free open-source FFmpeg GUI for Windows to convert video and audio, batch process media, and analyze quality.",
+      "name": "umbradev315/ffmpeg-video-audio-converter",
+      "stars": 513,
+      "url": "https://github.com/umbradev315/ffmpeg-video-audio-converter"
+    },
+    {
+      "created": "2026-11-20",
+      "description": "兼容 HICAR 安卓车机接收端",
+      "name": "GGBondLab/OpenHC",
+      "stars": 422,
+      "url": "https://github.com/GGBondLab/OpenHC"
+    },
+    {
+      "created": "2026-11-19",
+      "description": "An opensource tool for Android devices to debloat and optimize them. Enhancing speed and privacy.",
+      "name": "cyb3rl00m/prune-debloater",
+      "stars": 357,
+      "url": "https://github.com/cyb3rl00m/prune-debloater"
+    },
+    {
+      "created": "2026-11-18",
+      "description": "记清每个邮箱、手机号注册/绑定了哪些网站和 App · 网页 + iOS + 安卓三端，原生 SwiftUI / Jetpack Compose，加密同步互通",
+      "name": "Ckxkx/account-atlas",
+      "stars": 184,
+      "url": "https://github.com/Ckxkx/account-atlas"
+    },
+    {
+      "created": "2026-11-23",
+      "description": "tiny-ava: 4.5M-parameter Persian (Farsi) TTS models (PyTorch & ONNX, 24 kHz, 38-77x real-time on CPU)",
+      "name": "mallahyari/tiny-ava",
+      "stars": 107,
+      "url": "https://github.com/mallahyari/tiny-ava"
+    },
+    {
+      "created": "2026-11-22",
+      "description": "Private line for your family",
+      "name": "midplane/taar",
+      "stars": 94,
+      "url": "https://github.com/midplane/taar"
+    },
+    {
+      "created": "2026-11-20",
+      "description": "利用安卓提供iphone 定位修改，实现尾插外设功能",
+      "name": "iiranlin/catgo",
+      "stars": 76,
+      "url": "https://github.com/iiranlin/catgo"
+    },
+    {
+      "created": "2026-11-22",
+      "description": "美图 醒图APP 自用开发版。完全开源自用 无广告修图 App",
+      "name": "iam567/qiongtu",
+      "stars": 73,
+      "url": "https://github.com/iam567/qiongtu"
+    },
+    {
+      "created": "2026-11-22",
+      "description": "MapleSU source",
+      "name": "FengQiuFQ/MapleSU",
+      "stars": 56,
+      "url": "https://github.com/FengQiuFQ/MapleSU"
+    },
+    {
+      "created": "2026-11-18",
+      "description": "小米墓碑机制Millet的增强模块",
+      "name": "univers629/XMillet",
+      "stars": 45,
+      "url": "https://github.com/univers629/XMillet"
+    }
+  ],
+  "TypeScript": [
+    {
+      "created": "2026-11-19",
+      "description": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
+      "name": "INK-Q/agy-fast",
+      "stars": 1169,
+      "url": "https://github.com/INK-Q/agy-fast"
+    },
+    {
+      "created": "2026-11-21",
+      "description": "KuroCat — Free open-source desktop typing cat pet & OBS overlay (Bongo Cat alternative, Tauri v2 + Rust + MCP)｜轻量级透明置顶桌面打字小黑猫伴侣（6款猫咪+鲸鱼娘大肥鱼 / 输密码防偷窥 / OBS透明源 / AI捏猫 / Win·Mac·Linux·Android）",
+      "name": "qianyiai/kurocat",
+      "stars": 604,
+      "url": "https://github.com/qianyiai/kurocat"
+    },
+    {
+      "created": "2026-11-21",
+      "description": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
+      "name": "w01fb0ss/PiBot",
+      "stars": 557,
+      "url": "https://github.com/w01fb0ss/PiBot"
+    },
+    {
+      "created": "2026-11-23",
+      "description": "Free Steam idler for trading card farming, achievement management, playtime boosting and multi-account automation on Windows.",
+      "name": "Basil0879/steam-game-idler",
+      "stars": 518,
+      "url": "https://github.com/Basil0879/steam-game-idler"
+    },
+    {
+      "created": "2026-11-21",
+      "description": "Run a Minecraft Java server entirely on Cloudflare. Sleeps when nobody's playing.",
+      "name": "sshkeda/minecraft-server-on-orange-cloud",
+      "stars": 428,
+      "url": "https://github.com/sshkeda/minecraft-server-on-orange-cloud"
+    },
+    {
+      "created": "2026-11-19",
+      "description": "DeFi狙击手开发的本地趋势判断工作台。支持加密货币、美股、A股和大宗商品，提供多周期看盘、方向复盘与多空之战。X https://x.com/bi_9527zx ｜讨论社群 https://t.me/jujishou9527",
+      "name": "nhovongoc0-max/trend-workbench",
+      "stars": 197,
+      "url": "https://github.com/nhovongoc0-max/trend-workbench"
+    },
+    {
+      "created": "2026-11-19",
+      "description": "面向复杂软件工程与产品设计的旗舰级跨厂商多 Agent 集群：架构层直出 PRD、技术架构与交互原型（完美适配产品经理任务），实现层跨厂互审与沙箱实证交付 | Multi-vendor AI cluster: Architecture layer outputs PRDs & prototypes (built for PMs), Implementation ships Docker-verif",
+      "name": "Johnson-Durui/ApexCluster",
+      "stars": 176,
+      "url": "https://github.com/Johnson-Durui/ApexCluster"
+    },
+    {
+      "created": "2026-11-21",
+      "description": "Free open-source Steam artwork manager for custom game covers, banners, icons and logos in Gaming Mode.",
+      "name": "indigo-832/steam-library-artwork-manager",
+      "stars": 163,
+      "url": "https://github.com/indigo-832/steam-library-artwork-manager"
+    },
+    {
+      "created": "2026-11-19",
+      "description": "Self-hosted personal AI agent: research, a live browser, reminders and small apps, with approvals before actions. Runs on your own computer with an OpenAI key.",
+      "name": "replit/amuse",
+      "stars": 154,
+      "url": "https://github.com/replit/amuse"
+    },
+    {
+      "created": "2026-11-21",
+      "description": "",
+      "name": "Dksie09/unfold",
+      "stars": 150,
+      "url": "https://github.com/Dksie09/unfold"
+    }
+  ],
   "Zig": [
     {
       "created": "2026-11-20",
