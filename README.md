@@ -25,7 +25,7 @@ picks a random subset of sources, so coverage varies from day to day.
 
 ## Trending on Hacker News this week
 
-`models` ×7 · `again` ×5 · `windows` ×5 · `rust` ×5 · `without` ×5 · `getting` ×4 · `security` ×4 · `hiring` ×4 · `built` ×4 · `now` ×4 · `graphql` ×4 · `running` ×3 · `servers` ×3 · `anthropic` ×3 · `launch` ×3
+`security` ×7 · `models` ×7 · `again` ×5 · `windows` ×5 · `rust` ×5 · `shit` ×5 · `now` ×5 · `without` ×5 · `llms` ×4 · `getting` ×4 · `anthropic` ×4 · `c++` ×4 · `hiring` ×4 · `lean` ×4 · `holy` ×4
 
 ## How it works
 
