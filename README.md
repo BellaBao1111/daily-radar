@@ -4,10 +4,11 @@ A small bot that keeps a daily log of what is happening in tech: the Hacker News
 front page, fast-rising new GitHub repositories, and fresh arXiv papers. Each run
 picks a random subset of sources, so coverage varies from day to day.
 
-**15** daily digests so far · snapshots: hn 11, github 11, arxiv 13
+**16** daily digests so far · snapshots: hn 12, github 11, arxiv 13
 
 ## Recent digests
 
+- [2026-11-25](digests/2026/2026-11-25.md)
 - [2026-11-24](digests/2026/2026-11-24.md)
 - [2026-11-23](digests/2026/2026-11-23.md)
 - [2026-11-22](digests/2026/2026-11-22.md)
@@ -21,11 +22,10 @@ picks a random subset of sources, so coverage varies from day to day.
 - [2026-11-14](digests/2026/2026-11-14.md)
 - [2026-11-13](digests/2026/2026-11-13.md)
 - [2026-11-12](digests/2026/2026-11-12.md)
-- [2026-11-11](digests/2026/2026-11-11.md)
 
 ## Trending on Hacker News this week
 
-`models` ×7 · `code` ×6 · `built` ×5 · `without` ×5 · `now` ×5 · `agents` ×5 · `rust` ×4 · `coding` ×4 · `microsoft` ×4 · `graphql` ×4 · `security` ×4 · `hiring` ×4 · `launch` ×4 · `open-source` ×4 · `github` ×4
+`models` ×7 · `again` ×5 · `windows` ×5 · `rust` ×5 · `without` ×5 · `getting` ×4 · `security` ×4 · `hiring` ×4 · `built` ×4 · `now` ×4 · `graphql` ×4 · `running` ×3 · `servers` ×3 · `anthropic` ×3 · `launch` ×3
 
 ## How it works
 
