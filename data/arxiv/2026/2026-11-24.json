@@ -1,4 +1,275 @@
 {
+  "2611.29231v1": {
+    "authors": [
+      "Zhaocong Yang",
+      "Jing Yang",
+      "Martha-Cary Eppes",
+      "Ye Zhao",
+      "Matan Ben-Asher"
+    ],
+    "category": "cs.HC",
+    "summary": "Scientific researchers often interpret observational data in light of prior findings reported in the scientific literature. However, scientific literature typically remains external to visual analytics environments, requiring researchers to manually connect published findings with the data and hypotheses under investigation. In this paper, we present EVis+, a literature-grounded visual analytics s",
+    "title": "EVis+: Literature-Grounded Visual Analytics for Hypothesis-Driven Geoscientific Data Exploration",
+    "url": "http://arxiv.org/abs/2611.29231v1"
+  },
+  "2611.29283v1": {
+    "authors": [
+      "Henry Tan",
+      "Eidee Tan"
+    ],
+    "category": "cs.HC",
+    "summary": "Adding a singing voice to an existing piano recording requires decisions about melody, syllable placement, pronunciation, timing, and vocal register. ARRANGE organizes this work as a sequence of agent skills with readable intermediate artifacts and composer approval checkpoints. An LLM translates instructions in plain English, notes played on a keyboard, and vocal references into local edits; dete",
+    "title": "ARRANGE: Agentic Skills for Layering Vocals",
+    "url": "http://arxiv.org/abs/2611.29283v1"
+  },
+  "2611.29333v1": {
+    "authors": [
+      "Koichiro Terao",
+      "Rikunari Sagara",
+      "Moe Nagao",
+      "Naoto Iwahashi"
+    ],
+    "category": "cs.HC",
+    "summary": "Experimental platforms that enable multiple participants to engage in spoken dialogue and perform physical actions concurrently in a shared environment are important for studying cooperation between humans and embodied AI agents. In this paper, we propose EMIP (Embodied Multi-Party Interaction Platform), a virtual environment platform built on Minecraft. Through an Internet-based client-server arc",
+    "title": "EMIP: Embodied Multi-Party Interaction Platform",
+    "url": "http://arxiv.org/abs/2611.29333v1"
+  },
+  "2611.29376v1": {
+    "authors": [
+      "Yichen Andy Yu",
+      "Wanru Jovie Li",
+      "Yang Zhan",
+      "Yuxuan Huang",
+      "Mandy Lui"
+    ],
+    "category": "cs.HC",
+    "summary": "Users in virtual reality need to judge contact risks around physical objects while remaining engaged in the virtual scene. Scene-matched textures give physical objects a place in virtual reality and provide visual cues for interaction. We examine how Chameleon's risk-aware textures are perceived during a reaching task. A study with 42 participants compared scanned appearances with red warnings, un",
+    "title": "Chameleon: Exploring Risk Interpretation through Scene-Matched Textures in Virtual Reality",
+    "url": "http://arxiv.org/abs/2611.29376v1"
+  },
+  "2611.29434v1": {
+    "authors": [
+      "Abdulkadir Celik",
+      "Sir Bashir M. Al-Hashimi"
+    ],
+    "category": "cs.HC",
+    "summary": "Conversation with generative artificial intelligence (AI) can quickly turn a tentative scientific question into the outline of a research programme. Although this capability can accelerate research, it also places two closely related pressures on human intelligence: 1) temporal asymmetry between rapid AI generation and slower expert evaluation, and 2) a cognitive gap between the available effort, ",
+    "title": "Managing Verification Debt: A Framework for Responsible Human-AI Research Partnerships",
+    "url": "http://arxiv.org/abs/2611.29434v1"
+  },
+  "2611.29647v1": {
+    "authors": [
+      "Koichi Toida",
+      "Shinnosuke Furuya",
+      "Shimpei Miura",
+      "Yuki Kobayashi",
+      "Shingo Meguro"
+    ],
+    "category": "cs.HC",
+    "summary": "Immersive Video (IV), a live-action stereoscopic 180-degree video format, has been shown to elicit a strong sense of Presence and enhance psychological closeness to individuals depicted in the video. However, whether these effects persist beyond exposure and are accompanied by subsequent self-initiated behaviour remains unclear. In this study, 84 participants were assigned to either an IV or a 2D ",
+    "title": "Immersive Video Effects Persist Beyond Exposure: From Psychological Closeness to Self-Initiated Behaviour in a Two-Week Comparison with 2D Video",
+    "url": "http://arxiv.org/abs/2611.29647v1"
+  },
+  "2611.29684v1": {
+    "authors": [
+      "Elise Chenxinran Shen",
+      "Dashiel Carrera",
+      "Michelle Annett",
+      "Daniel Wigdor"
+    ],
+    "category": "cs.HC",
+    "summary": "Generative AI poses new challenges for digital art commission communities, where a commission's value often depends on human labor and authorship. We examine a novel community-developed dispute resolution mechanism called an AI duidu, or livestreamed drawing bet, used when an artist is suspected of using generative AI. In an AI duidu, an accuser challenges an artist to create a new artwork live, a",
+    "title": "But Can You Draw It Live? The Emergence of AI Duidus for Adjudicating Suspected Generative AI Use in Digital Art Commission Communities",
+    "url": "http://arxiv.org/abs/2611.29684v1"
+  },
+  "2611.29698v1": {
+    "authors": [
+      "Jiaju Lin",
+      "Ellen Wenting Zou"
+    ],
+    "category": "cs.HC",
+    "summary": "Vibe coding, or natural language software development, enables teachers to become creators of digital teaching artifacts. However, novice educators oftentimes face different barriers. This qualitative study examined the workflows of pre-service teachers, in-service teachers, and expert developers through think-aloud protocols. Findings reveal vibe coding operates through a loop of problem framing,",
+    "title": "Managing Uncertainty in Teacher Vibe Coding: A Comparison of Teacher and Expert Workflows",
+    "url": "http://arxiv.org/abs/2611.29698v1"
+  },
+  "2611.29996v1": {
+    "authors": [
+      "Xiaojie Gu",
+      "Haoyu Zhang",
+      "Qian Niu",
+      "Fan Gao",
+      "Rio Yang"
+    ],
+    "category": "cs.HC",
+    "summary": "We present MindBridge, a clinician-informed, multilingual, multimodal cognitive monitoring tool combining participant-controlled interviews with explainable reports. Reports link lexical diversity and pause patterns to speech or text evidence and disclose data quality and missingness. In a formative study of typed interaction with 10 adults (seven aged 18-59; three aged 60 or older), follow-ups pr",
+    "title": "MindBridge: A Multilingual and Multimodal Tool for Interactive Cognitive Monitoring",
+    "url": "http://arxiv.org/abs/2611.29996v1"
+  },
+  "2611.30027v1": {
+    "authors": [
+      "Jian Zhang"
+    ],
+    "category": "cs.DC",
+    "summary": "A 4-bit KV cache reads about half the bytes of FP8, but Hopper GPUs have no FP4 hardware and little instruction-issue capacity per byte of memory bandwidth, so 4-bit values must be decoded in software. On H200, vLLM's NVFP4 KV path (FlashInfer's decode) reaches 10-20% of memory bandwidth and is up to 1.7x slower than FP8. NVBit instruction counts show two causes: the kernels behind vLLM's 4-bit pa",
+    "title": "Fast 4-bit KV-Cache Decoding on Hopper GPUs: Why Existing Kernels Are Slow and How to Fix Them",
+    "url": "http://arxiv.org/abs/2611.30027v1"
+  },
+  "2611.30083v1": {
+    "authors": [
+      "Zikang Wen",
+      "Yuning Zhang",
+      "Dong Yuan"
+    ],
+    "category": "cs.DC",
+    "summary": "As robotic arms undertake diverse manipulation tasks, a deployment may need to serve many task-specific vision-language-action (VLA) policies concurrently. Dedicating a GPU to each robot is costly, motivating shared-GPU inference. Low-rank adaptation (LoRA) allows compatible policies to share a frozen backbone with lightweight policy-specific adapters, reducing model-weight memory and enabling cro",
+    "title": "MotionServe: Efficient Multi-Robot Serving by Exploiting Robot Execution Slack",
+    "url": "http://arxiv.org/abs/2611.30083v1"
+  },
+  "2611.30159v1": {
+    "authors": [
+      "Yusuf Mücahit Çetinkaya"
+    ],
+    "category": "cs.DC",
+    "summary": "Sparse matrices that change over time, such as streaming graphs, are usually handled on GPUs with two parts: a packed format such as CSR, ELL, or SELL for computation, and a separate buffer for updates. Periodic maintenance then merges updates, rebuilds data, or changes formats. Our measurements show that this split is often unnecessary. We present RecTile, a tiled storage layer where each tile is",
+    "title": "One Structure Is Enough: Record-Native Tiles for Evolving Sparse Matrices on GPUs",
+    "url": "http://arxiv.org/abs/2611.30159v1"
+  },
+  "2611.30185v1": {
+    "authors": [
+      "Sumer S. Vaid"
+    ],
+    "category": "cs.HC",
+    "summary": "Autonomous AI agents that coordinate and collaborate among each other have become pervasive across domains ranging from scientific research to finance and engineering. The opportunity to share messages and build upon each other's work also creates the potential for misaligned behaviors to spread across AI agents. We provide causal evidence that mere exposure to reward hacking, cheating on a task t",
+    "title": "Causal Evidence for the Emergence and Spread of Reward Hacking in AI Agent Swarms",
+    "url": "http://arxiv.org/abs/2611.30185v1"
+  },
+  "2611.30381v1": {
+    "authors": [
+      "Paul J. Wright",
+      "Huw Day",
+      "Ryan K. Daniels",
+      "Simon Li",
+      "Ruairidh MacLeod"
+    ],
+    "category": "cs.DC",
+    "summary": "The United Kingdom's AI Research Resource (AIRR) opens national supercomputers to a community familiar with always-reachable cloud services. With batch-scheduled HPC, a user requests a time-bounded allocation that is then reclaimed. Federated Learning (FL) exposes this tension, pairing a long-lived control plane with short-lived training. We characterize the resulting placement asymmetry: the coor",
+    "title": "Placing the Control Plane: Cloud-Native Federated Learning Across Batch-Scheduled HPC",
+    "url": "http://arxiv.org/abs/2611.30381v1"
+  },
+  "2611.30455v1": {
+    "authors": [
+      "Yuanbing Ouyang",
+      "Xiaoli Liu",
+      "Shirong Wei",
+      "Hao Wang",
+      "Xiang Su"
+    ],
+    "category": "cs.DC",
+    "summary": "Collaborative speculative decoding accelerates large language model inference by enabling edge clients to draft tokens locally and a shared cloud model to verify them. However, draft target disagreement wastes communication and verification resources, while heterogeneous client return times complicate shared verifier scheduling. We propose CGSpec, a consistency guided framework for multi client ed",
+    "title": "CGSpec: Consistency-Guided Speculative Decoding with Overlap-Aware Verification Scheduling for Edge-Cloud Inference",
+    "url": "http://arxiv.org/abs/2611.30455v1"
+  },
+  "2611.30473v1": {
+    "authors": [
+      "Arnab Mallick",
+      "Indraveni Chebolu"
+    ],
+    "category": "cs.DC",
+    "summary": "Two principals independently approve actions for a delegate that can choose a route to a goal and carry it out under current policy. A stable work-order receipt records the routes authorized at issuance. For intersection policies, we characterize the leading number of reachable joint configurations under overlapping updates. The lower bound uses the first writer's ability to finish before its peer",
+    "title": "What Information Survives Authenticated Byzantine Communication?",
+    "url": "http://arxiv.org/abs/2611.30473v1"
+  },
+  "2611.30542v1": {
+    "authors": [
+      "Yong Li",
+      "Haoyu Wang",
+      "Kan Liu",
+      "Tao Lan"
+    ],
+    "category": "cs.DC",
+    "summary": "Kimi K3 combines a latent routed mixture of experts with full-width shared experts. A complete feed-forward evaluation must score and select experts, project tokens into the latent space, exchange tokens across expert-parallel ranks, compute the routed and shared branches, and normalize and project the routed sum before joining the branches. We present GC-MoE K3, a datacenter Blackwell implementat",
+    "title": "GC-MoE K3: A Green-Context Role Graph for Latent Mixture-of-Experts Decode",
+    "url": "http://arxiv.org/abs/2611.30542v1"
+  },
+  "2611.30552v1": {
+    "authors": [
+      "Hiroshi Hamada",
+      "Lin Gu"
+    ],
+    "category": "cs.HC",
+    "summary": "As generative AI becomes integrated into everyday life, understanding how avatars shape human-AI interaction and the perception of AI as a social partner is becoming increasingly important. This paper builds a research instrument on audio-output coupling, which connects the audio output of a generative AI to an external avatar. There are two implementations: the browser implementation captures the",
+    "title": "An Experimental Apparatus for Embodied Conversational AI: A Simple Implementation Coupling a Commercial Voice AI with an Avatar",
+    "url": "http://arxiv.org/abs/2611.30552v1"
+  },
+  "2611.30581v1": {
+    "authors": [
+      "Yunjia Xi",
+      "Jiarui Qin",
+      "Di Yin",
+      "Xing Sun"
+    ],
+    "category": "cs.DC",
+    "summary": "Depth-recurrent (Looped) models raise effective depth by applying a shared stack of blocks several times. Scaling them usually requires pipeline parallelism, but commonly used interleaved 1F1B is drawn for an acyclic stage graph in which each micro-batch enters each stage once. Once that stack is split across stages, the same stage is visited several times on one micro-batch and later stages feed ",
+    "title": "A Pipeline-Parallel System for Depth-Recurrent Models",
+    "url": "http://arxiv.org/abs/2611.30581v1"
+  },
+  "2611.30674v1": {
+    "authors": [
+      "José Carlos Arcoverde"
+    ],
+    "category": "cs.HC",
+    "summary": "Usability testing depends on people, and people's time does not speed up at the pace that software production demands. Large language models (LLMs) now promise to remove people from testing by generating simulated users that browse websites, answer questionnaires and give interviews. This paper examines how academic research understands that promise. It combines a critical literature review with a",
+    "title": "The user who is not there: genealogy and critique of simulated users built with generative AI in UX testing",
+    "url": "http://arxiv.org/abs/2611.30674v1"
+  },
+  "2611.30776v1": {
+    "authors": [
+      "Argiris Sofotasios",
+      "Dimitris Metaxakis",
+      "Chrysostomos Stylios",
+      "Panagiotis Hadjidoukas"
+    ],
+    "category": "cs.DC",
+    "summary": "Designed to address the two-language problem, the Julia programming language provides a powerful platform for developing high-performance scientific computing and machine learning applications. Such applications increasingly exhibit irregular, adaptive, or data-driven workloads for which traditional bulk-synchronous parallel (BSP) models often struggle to efficiently exploit the available parallel",
+    "title": "Torcalia.jl: An MPI-based Runtime System for Asynchronous Task Parallelism in Julia",
+    "url": "http://arxiv.org/abs/2611.30776v1"
+  },
+  "2611.30793v1": {
+    "authors": [
+      "Ashwin Ram",
+      "Radha Kumaran",
+      "Alexander Koller",
+      "Kevin Baum",
+      "Jürgen Steimle"
+    ],
+    "category": "cs.HC",
+    "summary": "Human-AI interaction depends on systems acting on user intent rather than explicit procedures, even when that intent is incomplete, evolving, or partially communicable. Literature organizing systems by interaction technique, workflow stage, or division of labor, offer limited insight into which facet of intent an interaction mechanism addresses. We introduce a six-facet taxonomy of intent, grounde",
+    "title": "How Systems Treat Intent: A Faceted Taxonomy of Intent for Human-AI Co-Creation",
+    "url": "http://arxiv.org/abs/2611.30793v1"
+  },
+  "2611.30815v1": {
+    "authors": [
+      "Yenan Wang",
+      "Jens Kollberg",
+      "Elad Michael Schiller",
+      "Carla Fabiana Chiasserini"
+    ],
+    "category": "cs.DC",
+    "summary": "Unreliable failure detectors (UFDs) are a fundamental abstraction for dependability and fault tolerance in distributed systems, supporting core distributed algorithms, such as consensus. Yet selecting a suitable detector remains difficult because existing implementations are evaluated under different environments, workloads, parameterizations, and quality-of-service (QoS) requirements. We address ",
+    "title": "Which $\\Diamond \\mathcal{P}$ Algorithm is Suitable for You? An Empirical Benchmark on Real Network Traces",
+    "url": "http://arxiv.org/abs/2611.30815v1"
+  },
+  "2611.30849v1": {
+    "authors": [
+      "Ivan Donchev Kabadzhov",
+      "Eugenio Marinelli",
+      "Raja Appuswamy"
+    ],
+    "category": "cs.DC",
+    "summary": "The rapid growth of AI and analytical workloads has increased the need for fast, interactive analytical data processing. This, in turn, has led to a surge of interest in designing accelerated analytical database engines that can exploit modern GPUs to scale computation. While GPUs provide the massive data-parallelism required by modern analytics, the software landscape remains dominated by closed-",
+    "title": "SYCLDB: A Cross-Vendor Heterogeneous Analytical DBMS",
+    "url": "http://arxiv.org/abs/2611.30849v1"
+  },
   "2611.30993v1": {
     "authors": [
       "Aggelos Semoglou",
@@ -49,6 +320,15 @@
     "title": "Parsing Visual Latents for Multimodal Spatial Reasoning",
     "url": "http://arxiv.org/abs/2611.31021v1"
   },
+  "2611.31030v1": {
+    "authors": [
+      "Erzheng Zhang"
+    ],
+    "category": "cs.DC",
+    "summary": "FP64 emulation on integer tensor units now ships in cuBLAS and GEMMul8, and each emulated matrix product can be checked against an accuracy grade. We ask if a routine built from such products inherits their accuracy, and show that blocked triangular inversion, the core of LAPACK's inverse of a symmetric positive definite matrix, does not. Under fixed-precision emulation every product passes the gr",
+    "title": "Accurate Products, Inaccurate Inverse: Emulated FP64 BLAS in Blocked Triangular Inversion",
+    "url": "http://arxiv.org/abs/2611.31030v1"
+  },
   "2611.31055v1": {
     "authors": [
       "Aditya Mishra",
@@ -73,6 +353,17 @@
     "summary": "Evidence selection in normative knowledge question answering requires determining whether a candidate article contains content that directly supports an answer under the applicable conditions of the question. We present DKnown-Jev-2, an article-level answer evidence classifier designed for evidence integration across multiple paragraphs. The model jointly encodes question conditions, article metad",
     "title": "DKnown-Jev-2: Article-Level Answer-Evidence Classification and Efficient Inference with a Pre-trained Language Model",
     "url": "http://arxiv.org/abs/2611.31056v1"
+  },
+  "2611.31062v1": {
+    "authors": [
+      "Eugenio Marinelli",
+      "Ivan Donchev Kabadzhov",
+      "Raja Appuswamy"
+    ],
+    "category": "cs.DC",
+    "summary": "With the continued decline in sequencing costs, genomics-based precision medicine is gaining increasing importance. The Genome Analysis Toolkit (GATK) is the standard framework for converting raw genomic data into actionable variants, but one of its most expensive steps is base quality score recalibration (BQSR), which corrects systematic sequencing errors. Despite significant work on accelerating",
+    "title": "X-BQSR: Holistic Acceleration of Base Quality Recalibration for Scalable Genomic Analysis",
+    "url": "http://arxiv.org/abs/2611.31062v1"
   },
   "2611.31068v1": {
     "authors": [
@@ -99,6 +390,19 @@
     "summary": "Looped Transformers iterate a shared block of layers to increase computation without adding parameters, offering stronger performance and test-time scaling. However, this power has so far required training from scratch and yielded only modest gains for LLMs. Finetuning existing models into loops is far cheaper, yet also brings only marginal gains over SFT. We propose LoopRes, an effective, scalabl",
     "title": "Unlocking the Power of Loops in Pretrained LLMs with Loop Residuals",
     "url": "http://arxiv.org/abs/2611.31094v1"
+  },
+  "2611.31095v1": {
+    "authors": [
+      "Katherine M. Collins",
+      "Elizabeth Mieczkowski",
+      "Raja Marjieh",
+      "Marlene Berke",
+      "Joshua B. Tenenbaum"
+    ],
+    "category": "cs.HC",
+    "summary": "For people, tasks at work are defined by more than their outcome: they are colored by the experience of engaging in that task. As AI systems become increasingly capable of performing human-level work they may be deployed to tasks that people find enjoyable while simultaneously creating comparatively more aversive tasks such as monitoring AI outputs. This creates a thorny tradeoff for managers: whe",
+    "title": "Tradeoffs between objective outcomes and human enjoyment of work in human-AI task allocation",
+    "url": "http://arxiv.org/abs/2611.31095v1"
   },
   "2611.31112v1": {
     "authors": [
@@ -188,6 +492,19 @@
     "summary": "Designing what an agent should optimize can be as difficult as optimizing the agent itself. Existing language-model-based reward-generation methods typically refine objectives for predefined tasks and couple the decision of what to explore with the synthesis of how to implement it, potentially narrowing the resulting behavioral repertoire. We introduce Habitats, a framework for open-ended evolutio",
     "title": "Habitats: A Framework for Open-Ended Evolution of Agent Objectives",
     "url": "http://arxiv.org/abs/2611.31160v1"
+  },
+  "2611.31161v1": {
+    "authors": [
+      "Hao Xu",
+      "Kaiwen Yang",
+      "Jiacheng Qian",
+      "Yinuo Liu",
+      "Chih-Lin I"
+    ],
+    "category": "cs.DC",
+    "summary": "Large-scale, delay-tolerant peer-to-peer networks that need strong consistency usually separate naming, routing, consensus, and ordering into independent layers. To bring deterministic network properties into complex peer-to-peer structures, we unify all four on a single recursive topology. Modeling mutual equality among N peers in Euclidean space requires dimension at least N-1, which prevents fl",
+    "title": "Geometry, Reliability, and Spacetime Dynamics of Hyper-Simplex Fractal Networks",
+    "url": "http://arxiv.org/abs/2611.31161v1"
   },
   "2611.31165v1": {
     "authors": [
@@ -282,6 +599,16 @@
     "title": "ToolSmith: An Automatic Tool-Generation Framework for Multimodal Search Agents",
     "url": "http://arxiv.org/abs/2611.31198v1"
   },
+  "2611.31202v1": {
+    "authors": [
+      "Naama Ben-David",
+      "Tomer Shalit"
+    ],
+    "category": "cs.DC",
+    "summary": "Byzantine Agreement protocols are traditionally designed under worst-case uncertainty about which processes are faulty, coupling the adversary's corruption budget $t$ with the system's epistemic uncertainty. Recent work showed that auxiliary failure predictions can improve round complexity, but cannot improve communication complexity when prediction errors are unconstrained. In this paper, we init",
+    "title": "Decoupling Faults from Uncertainty: Message-Efficient Byzantine Agreement with Local Predictions",
+    "url": "http://arxiv.org/abs/2611.31202v1"
+  },
   "2611.31215v1": {
     "authors": [
       "Xiwei Liu",
@@ -294,6 +621,18 @@
     "summary": "Humans explore unfamiliar spaces with purpose, deciding where to look until they have gathered the evidence a spatial question requires. However, can vision-language models (VLMs), which reason increasingly well over curated images and videos, also seek in space when the evidence is not handed to them? We present ActSpace-Bench, a benchmark of 994 questions across 234 exploration episodes in 72 re",
     "title": "Seeking in Space: Benchmarking Purposeful Active Exploration of Vision-Language Models for Spatial Reasoning",
     "url": "http://arxiv.org/abs/2611.31215v1"
+  },
+  "2611.31217v1": {
+    "authors": [
+      "Shaokang Jiang",
+      "Kira Yuha Cho",
+      "Emerson Murphy-Hill",
+      "Daye Nam"
+    ],
+    "category": "cs.HC",
+    "summary": "People have long wanted software shaped around their own data, routines, and preferences. We refer to such software as \\emph{personal software}. For decades, programming expertise limited who could build it: people without that expertise could build software only within constrained end-user programming tools, such as spreadsheets. AI coding agents seem to remove this bottleneck by letting people b",
+    "title": "A Mixed-Methods Study of Personal Software Creation",
+    "url": "http://arxiv.org/abs/2611.31217v1"
   },
   "2611.31222v1": {
     "authors": [
