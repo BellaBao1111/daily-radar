@@ -6,6 +6,13 @@
     "title": "How photos were transmitted by wire in the 1930s (2024)",
     "url": "https://kottke.org/24/03/how-photos-were-transmitted-by-wire-in-the-1930s"
   },
+  "50591024": {
+    "author": "pqpdf",
+    "comments": 5,
+    "points": 19,
+    "title": "Show HN: PQCrypta Proxy: Rust proxy with HTTP/3, QUIC, hybrid post-quantum TLS",
+    "url": "https://github.com/PQCrypta/pqcrypta-proxy"
+  },
   "50592307": {
     "author": "grep_it",
     "comments": 0,
@@ -13,12 +20,33 @@
     "title": "Arctic: A Practical Lock-Free Adaptive Radix Tree",
     "url": "https://www.usenix.org/conference/osdi26/presentation/ni"
   },
+  "50598297": {
+    "author": "altilunium",
+    "comments": 0,
+    "points": 5,
+    "title": "Overpass QL EBNF Grammar",
+    "url": "https://github.com/b1tw153/overpass-ebnf"
+  },
+  "50598555": {
+    "author": "vinhnx",
+    "comments": 93,
+    "points": 328,
+    "title": "The Spray Bottle",
+    "url": "https://mechanical-pencil.com/products/spray-bottle"
+  },
   "50598679": {
     "author": "bookofjoe",
     "comments": 1,
     "points": 7,
     "title": "Del Casher–guitarist who was driving force behind the wah-wah pedal–dies at 88",
     "url": "https://www.nytimes.com/2026/11/17/obituaries/del-casher-dead.html"
+  },
+  "50599458": {
+    "author": "martincmartin",
+    "comments": 54,
+    "points": 208,
+    "title": "How a Mechanical Watch Keeps Time",
+    "url": "https://martincmartin.github.io/slidev-stem/watches/article/1/"
   },
   "50600838": {
     "author": "dverlaeckt80",
@@ -34,12 +62,26 @@
     "title": "Falsehoods Programmers Believe About ATProto",
     "url": "https://reiver.link/atproto/falsehoods-programmers-believe/"
   },
+  "50604355": {
+    "author": "ncr100",
+    "comments": 139,
+    "points": 96,
+    "title": "Cento fine foods has been sued for “tomato fraud”",
+    "url": "https://slate.com/life/2026/11/cento-san-marzano-tomato-sauce-recipes-lawsuit.html"
+  },
   "50604710": {
     "author": "edward",
     "comments": 8,
     "points": 112,
     "title": "Modernizing iperf/iperf3 and introducing fireperf",
     "url": "https://blog.daniel-baumann.ch/posts/20261122-1.html"
+  },
+  "50605361": {
+    "author": "ot",
+    "comments": 107,
+    "points": 120,
+    "title": "The new set of problems for engineers to solve",
+    "url": "https://www.katelynlesse.com/blog/new-problems-for-engineers-to-solve"
   },
   "50606192": {
     "author": "SockThief",
@@ -62,6 +104,13 @@
     "title": "Lowering Perplexity Without Scaling",
     "url": "https://micjm.com/blog/lowering-perplexity-without-scaling/"
   },
+  "50609483": {
+    "author": "joshcsimmons",
+    "comments": 9,
+    "points": 68,
+    "title": "Calculate how many mesh radio nodes your city needs",
+    "url": "https://meshcoveragecalculator.lalala.ing/"
+  },
   "50609685": {
     "author": "foohis",
     "comments": 369,
@@ -75,6 +124,13 @@
     "points": 32,
     "title": "New material gets stronger the more it bends",
     "url": "https://source.washu.edu/2026/11/breakthrough-material-gets-stronger-the-more-it-bends/"
+  },
+  "50610820": {
+    "author": "surprisetalk",
+    "comments": 72,
+    "points": 104,
+    "title": "An Italian folding bicycle design that fits into a suitcase",
+    "url": "https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase"
   },
   "50611402": {
     "author": "toebee",
@@ -202,11 +258,165 @@
     "title": "2035 Came Early",
     "url": "https://fzakaria.com/2026/11/23/2035-came-early"
   },
+  "50625265": {
+    "author": "benbreen",
+    "comments": 22,
+    "points": 63,
+    "title": "Gödel Enigma",
+    "url": "https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description"
+  },
+  "50625384": {
+    "author": "farrokhi",
+    "comments": 169,
+    "points": 337,
+    "title": "Quad9 pulled their DNS service from France",
+    "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/"
+  },
   "50625888": {
     "author": "DonAtimator",
     "comments": 4,
     "points": 23,
     "title": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
     "url": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/"
+  },
+  "50626413": {
+    "author": "kqr",
+    "comments": 40,
+    "points": 216,
+    "title": "Worshipping at the altar of Brendan Gregg",
+    "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg"
+  },
+  "50627340": {
+    "author": "surprisetalk",
+    "comments": 368,
+    "points": 878,
+    "title": "LLM agents work for their parent companies, not for you",
+    "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/"
+  },
+  "50627783": {
+    "author": "andrem",
+    "comments": 305,
+    "points": 256,
+    "title": "GTA 6 Running on Windows",
+    "url": "https://twitter.com/raul_bs3/status/2125213756238291075"
+  },
+  "50627836": {
+    "author": "Betelbuddy",
+    "comments": 629,
+    "points": 316,
+    "title": "Anthropic breaks below $83 IPO price",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading"
+  },
+  "50629106": {
+    "author": "fcjr",
+    "comments": 82,
+    "points": 126,
+    "title": "Splitting USB-C: USB 3 and USB 2 on one port",
+    "url": "https://www.frankchiarulli.com/blog/splitting-usb-c/"
+  },
+  "50629231": {
+    "author": "bluepeter",
+    "comments": 49,
+    "points": 165,
+    "title": "A training engine for your local model, using your idle compute",
+    "url": "https://github.com/sous-labs/songe"
+  },
+  "50629962": {
+    "author": "Anon84",
+    "comments": 33,
+    "points": 83,
+    "title": "The KL Divergence Is Never Negative, Except in PyTorch",
+    "url": "https://arxiv.org/abs/2611.30835"
+  },
+  "50630294": {
+    "author": "tagspace",
+    "comments": 15,
+    "points": 80,
+    "title": "Show HN: Mason – A lightweight Postgres read-replica, built on columnar storage",
+    "url": "https://masondata.ai/"
+  },
+  "50630462": {
+    "author": "zdw",
+    "comments": 116,
+    "points": 251,
+    "title": "Jetty Pro",
+    "url": "http://hypercritical.co/2026/11/23/jetty-pro"
+  },
+  "50630594": {
+    "author": "louiereederson",
+    "comments": 118,
+    "points": 251,
+    "title": "Active intrusion campaign against Check Point security management servers",
+    "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign"
+  },
+  "50631041": {
+    "author": "adchurch",
+    "comments": 0,
+    "points": 0,
+    "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+    "url": "https://jobs.ashbyhq.com/weave-os"
+  },
+  "50633159": {
+    "author": "petecooper",
+    "comments": 20,
+    "points": 117,
+    "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)",
+    "url": "https://grafana.com/grafana/download"
+  },
+  "50633424": {
+    "author": "Artgor",
+    "comments": 1,
+    "points": 58,
+    "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
+    "url": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu"
+  },
+  "50633922": {
+    "author": "b0m",
+    "comments": 94,
+    "points": 281,
+    "title": "Ternary Bonsai 2.5 27B",
+    "url": "https://prismml.com/news/bonsai-2-5-27b"
+  },
+  "50634426": {
+    "author": "harshithl1777",
+    "comments": 34,
+    "points": 55,
+    "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+    "url": "https://news.ycombinator.com/item?id=50634426"
+  },
+  "50634658": {
+    "author": "acossta",
+    "comments": 25,
+    "points": 127,
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/"
+  },
+  "50634933": {
+    "author": "armcat",
+    "comments": 26,
+    "points": 85,
+    "title": "An unclassified CIA system was breached in a cyberattack",
+    "url": "https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77"
+  },
+  "50635271": {
+    "author": "gmays",
+    "comments": 40,
+    "points": 102,
+    "title": "Heart attack and stroke risk detectable decades in advance",
+    "url": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance"
+  },
+  "50635698": {
+    "author": "atlun",
+    "comments": 22,
+    "points": 22,
+    "title": "Fable 5.2 Tries Less on Some Hard Tasks When a Shortcut Is Available",
+    "url": "https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available"
+  },
+  "50636286": {
+    "author": "Kye",
+    "comments": 9,
+    "points": 9,
+    "title": "Get in, friends, the Atmosphere is happening",
+    "url": "https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9"
   }
 }
