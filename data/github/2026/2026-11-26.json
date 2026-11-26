@@ -1,0 +1,218 @@
+{
+  "C++": [
+    {
+      "created": "2026-11-23",
+      "description": "Free Windows FFmpeg GUI for video and audio conversion, batch transcoding, and multimedia format encoding.",
+      "name": "kai415-debug/ffmpeg-video-audio-converter",
+      "stars": 1020,
+      "url": "https://github.com/kai415-debug/ffmpeg-video-audio-converter"
+    },
+    {
+      "created": "2026-11-20",
+      "description": "Hookshot Is A Native PC Recompilation Of The Switch 2 Ocarina Of Time Remake",
+      "name": "ItsNotRexed/Hookshot",
+      "stars": 741,
+      "url": "https://github.com/ItsNotRexed/Hookshot"
+    },
+    {
+      "created": "2026-11-23",
+      "description": "KuroCat — Free open-source native desktop cat pet & OBS overlay (Bongo Cat alternative, Swift/C++, 802 KB)｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 / 数位板 / OBS透明绿幕 / 在线皮肤工坊 / 零按键上传）",
+      "name": "chanke17/KuroCat",
+      "stars": 627,
+      "url": "https://github.com/chanke17/KuroCat"
+    },
+    {
+      "created": "2026-11-23",
+      "description": "Compatibility layer for Xbox Series apps on Windows",
+      "name": "boykopovar/AnyBox",
+      "stars": 380,
+      "url": "https://github.com/boykopovar/AnyBox"
+    },
+    {
+      "created": "2026-11-20",
+      "description": "Experimental, clean-room Xbox Series X|S (Scarlett) HLE and compatibility layer for Windows x64.",
+      "name": "Freminet/ScarlettX",
+      "stars": 268,
+      "url": "https://github.com/Freminet/ScarlettX"
+    },
+    {
+      "created": "2026-11-20",
+      "description": "Experimental Xbox One (Durango) & Series X|S (Scarlett) compatibility layer for Windows",
+      "name": "sammwyy/xvalkyrie",
+      "stars": 235,
+      "url": "https://github.com/sammwyy/xvalkyrie"
+    },
+    {
+      "created": "2026-11-20",
+      "description": "Open USB optical spectrometer (400–650 nm, up to 1 nm resolution). 3D-printable hardware + desktop software for science education and experiments.",
+      "name": "lhoyer/spectral-explorer",
+      "stars": 139,
+      "url": "https://github.com/lhoyer/spectral-explorer"
+    },
+    {
+      "created": "2026-11-21",
+      "description": "",
+      "name": "oguz463/OLEDTextFix",
+      "stars": 135,
+      "url": "https://github.com/oguz463/OLEDTextFix"
+    },
+    {
+      "created": "2026-11-20",
+      "description": "",
+      "name": "ItsNotRexed/Blueshell",
+      "stars": 118,
+      "url": "https://github.com/ItsNotRexed/Blueshell"
+    },
+    {
+      "created": "2026-11-24",
+      "description": "An open-source compatibility layer and runtime environment for running Xbox One / Series X|S (Era / GameCore) titles natively on Windows.",
+      "name": "PlutonusDev/OpenEra",
+      "stars": 115,
+      "url": "https://github.com/PlutonusDev/OpenEra"
+    }
+  ],
+  "Swift": [
+    {
+      "created": "2026-11-22",
+      "description": "make your macbook's trackpad talk using its haptic motor",
+      "name": "os6/nospeaker",
+      "stars": 1913,
+      "url": "https://github.com/os6/nospeaker"
+    },
+    {
+      "created": "2026-11-25",
+      "description": "iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA)",
+      "name": "Reukix/Reloc",
+      "stars": 242,
+      "url": "https://github.com/Reukix/Reloc"
+    },
+    {
+      "created": "2026-11-22",
+      "description": "A Linux environment and Ghostty-based terminal for iOS.",
+      "name": "swipt-automation/Swipterm",
+      "stars": 165,
+      "url": "https://github.com/swipt-automation/Swipterm"
+    },
+    {
+      "created": "2026-11-20",
+      "description": "把手机屏幕当触感记录仪，让你的 AI 感觉到你的手指。你摸的时候，画面在指下回应，指尖按下会被轻轻抵住，抚过有细细的摩擦感，松手轻轻一弹；它收到的是「指腹轻轻贴在你的右脸颊」。你能感觉到自己在摸什么，它也能感觉到你。iOS / 网页 / 安卓参考代码",
+      "name": "sibylsea-hub/touch-space",
+      "stars": 106,
+      "url": "https://github.com/sibylsea-hub/touch-space"
+    },
+    {
+      "created": "2026-11-24",
+      "description": "Verso for Immich: a native app for your Immich library on the iPhone, the iPad, the Mac and Linux, with the library as a drive in Files or Finder. Unofficial.",
+      "name": "jakobhviid/verso",
+      "stars": 76,
+      "url": "https://github.com/jakobhviid/verso"
+    },
+    {
+      "created": "2026-11-21",
+      "description": "Read and write external NTFS disks on macOS with per-drive auto mount, verified copying, and safe ejection.",
+      "name": "ixiehao/ezNTFS",
+      "stars": 70,
+      "url": "https://github.com/ixiehao/ezNTFS"
+    },
+    {
+      "created": "2026-11-22",
+      "description": "Simulate mechanical keyboard sounds through your MacBook's Force Touch trackpad (no speakers). Inspired by os6/nospeaker.",
+      "name": "asadm/mechpad",
+      "stars": 68,
+      "url": "https://github.com/asadm/mechpad"
+    },
+    {
+      "created": "2026-11-21",
+      "description": "🎀 On-device IPA signer for iOS: sign with .p12 or Apple ID, inject tweaks with its own hooking engine, install offline.",
+      "name": "murk-sus/SayoSign",
+      "stars": 64,
+      "url": "https://github.com/murk-sus/SayoSign"
+    },
+    {
+      "created": "2026-11-20",
+      "description": "Pinch a photo off your phone and unfold it into a 3D Gaussian scene on Apple Vision Pro. Four filmed works, a Mac preview, and the full Xcode project.",
+      "name": "xibihe/PinchDrop",
+      "stars": 62,
+      "url": "https://github.com/xibihe/PinchDrop"
+    },
+    {
+      "created": "2026-11-24",
+      "description": "Mac app that shows the USB-C link speed next to the port when you plug in",
+      "name": "diegobruegger-prog/cablepeek",
+      "stars": 58,
+      "url": "https://github.com/diegobruegger-prog/cablepeek"
+    }
+  ],
+  "TypeScript": [
+    {
+      "created": "2026-11-21",
+      "description": "KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/Mac/Linux/Android)｜开源3D桌面打字小黑猫与AI伴侣",
+      "name": "qianyiai/kurocat",
+      "stars": 1205,
+      "url": "https://github.com/qianyiai/kurocat"
+    },
+    {
+      "created": "2026-11-23",
+      "description": "Free Steam idler for trading card farming, achievement management, playtime boosting and multi-account automation on Windows.",
+      "name": "Basil0879/steam-game-idler",
+      "stars": 681,
+      "url": "https://github.com/Basil0879/steam-game-idler"
+    },
+    {
+      "created": "2026-11-21",
+      "description": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
+      "name": "w01fb0ss/PiBot",
+      "stars": 637,
+      "url": "https://github.com/w01fb0ss/PiBot"
+    },
+    {
+      "created": "2026-11-21",
+      "description": "Run a Minecraft Java server entirely on Cloudflare. Sleeps when nobody's playing.",
+      "name": "sshkeda/minecraft-server-on-orange-cloud",
+      "stars": 442,
+      "url": "https://github.com/sshkeda/minecraft-server-on-orange-cloud"
+    },
+    {
+      "created": "2026-11-22",
+      "description": "",
+      "name": "mattpocock/cookout",
+      "stars": 295,
+      "url": "https://github.com/mattpocock/cookout"
+    },
+    {
+      "created": "2026-11-24",
+      "description": "StikSound — Ponle sonido de hasta 5 segundos a tus stickers PNG y GIFs animados para WhatsApp (Windows, macOS & Chrome Extension, 100% local sin instalar nada extra)",
+      "name": "SilverFeit/StikSound",
+      "stars": 225,
+      "url": "https://github.com/SilverFeit/StikSound"
+    },
+    {
+      "created": "2026-11-24",
+      "description": "Prospecção open source do Google Maps ao Pix: acha negócios no Maps, gera um site-prévia com o nome de cada um, conversa no WhatsApp e cobra por Pix, Mercado Pago ou Stripe. Pagou, fecha sozinho. Roda",
+      "name": "matheusmongarde/garimpo",
+      "stars": 190,
+      "url": "https://github.com/matheusmongarde/garimpo"
+    },
+    {
+      "created": "2026-11-21",
+      "description": "Little City, a tiny hand-drawn sandbox city builder. Playable at https://littlecity.io",
+      "name": "yaoderek/littlecity.io",
+      "stars": 164,
+      "url": "https://github.com/yaoderek/littlecity.io"
+    },
+    {
+      "created": "2026-11-21",
+      "description": "",
+      "name": "Dksie09/unfold",
+      "stars": 161,
+      "url": "https://github.com/Dksie09/unfold"
+    },
+    {
+      "created": "2026-11-21",
+      "description": "Free open-source Steam artwork manager for custom game covers, banners, icons and logos in Gaming Mode.",
+      "name": "indigo-832/steam-library-artwork-manager",
+      "stars": 160,
+      "url": "https://github.com/indigo-832/steam-library-artwork-manager"
+    }
+  ]
+}
