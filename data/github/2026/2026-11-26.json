@@ -71,6 +71,78 @@
       "url": "https://github.com/PlutonusDev/OpenEra"
     }
   ],
+  "Kotlin": [
+    {
+      "created": "2026-11-23",
+      "description": "Free open-source FFmpeg GUI for Windows to convert video and audio, batch process media, and analyze quality.",
+      "name": "umbradev315/ffmpeg-video-audio-converter",
+      "stars": 551,
+      "url": "https://github.com/umbradev315/ffmpeg-video-audio-converter"
+    },
+    {
+      "created": "2026-11-20",
+      "description": "兼容 HICAR 安卓车机接收端",
+      "name": "GGBondLab/OpenHC",
+      "stars": 550,
+      "url": "https://github.com/GGBondLab/OpenHC"
+    },
+    {
+      "created": "2026-11-23",
+      "description": "tiny-ava: 4.5M-parameter Persian (Farsi) TTS models (PyTorch & ONNX, 24 kHz, 38-77x real-time on CPU)",
+      "name": "mallahyari/tiny-ava",
+      "stars": 144,
+      "url": "https://github.com/mallahyari/tiny-ava"
+    },
+    {
+      "created": "2026-11-20",
+      "description": "利用安卓提供iphone 虚拟定位修改，实现尾插外设功能",
+      "name": "iiranlin/catgo",
+      "stars": 102,
+      "url": "https://github.com/iiranlin/catgo"
+    },
+    {
+      "created": "2026-11-22",
+      "description": "Private line for your family",
+      "name": "midplane/taar",
+      "stars": 100,
+      "url": "https://github.com/midplane/taar"
+    },
+    {
+      "created": "2026-11-22",
+      "description": "美图 醒图APP 自用开发版。完全开源自用 无广告修图 App",
+      "name": "iam567/qiongtu",
+      "stars": 74,
+      "url": "https://github.com/iam567/qiongtu"
+    },
+    {
+      "created": "2026-11-22",
+      "description": "MapleSU source",
+      "name": "FengQiuFQ/MapleSU",
+      "stars": 63,
+      "url": "https://github.com/FengQiuFQ/MapleSU"
+    },
+    {
+      "created": "2026-11-22",
+      "description": "Root-free Android multi-display desktop workstation (LocalDeX, native macOS streaming & Type-C external display) with Liquid Glass window engine.",
+      "name": "lengsukq/OpalDesk",
+      "stars": 54,
+      "url": "https://github.com/lengsukq/OpalDesk"
+    },
+    {
+      "created": "2026-11-20",
+      "description": "آنتی ریجستر: دو گوشی را با بلوتوث به هم وصل کن؛ گوشی ریجستر‌نشده‌ات را هر روز استفاده کن، در حالی که سیم‌کارت داخل گوشی ریجستر‌شده است. پیامک، مخاطبین و تاریخچه تماس (فقط خواندنی). نسخه بتا، بخش تماس ",
+      "name": "ChikyChikyBoomBoom/AntiRegister",
+      "stars": 47,
+      "url": "https://github.com/ChikyChikyBoomBoom/AntiRegister"
+    },
+    {
+      "created": "2026-11-23",
+      "description": "Flashpoint Archive for Android: native ARM64 player and launcher",
+      "name": "jpolo1224/ARMFlash",
+      "stars": 46,
+      "url": "https://github.com/jpolo1224/ARMFlash"
+    }
+  ],
   "Swift": [
     {
       "created": "2026-11-22",
@@ -213,6 +285,78 @@
       "name": "indigo-832/steam-library-artwork-manager",
       "stars": 160,
       "url": "https://github.com/indigo-832/steam-library-artwork-manager"
+    }
+  ],
+  "Zig": [
+    {
+      "created": "2026-11-20",
+      "description": "Native Zig and Metal inference for Flint with checked execution contracts",
+      "name": "justrach/nanoattention",
+      "stars": 56,
+      "url": "https://github.com/justrach/nanoattention"
+    },
+    {
+      "created": "2026-11-24",
+      "description": "TF-Rewind (TensorFold Research): Exact checkpoint-free arbitrary-boundary state rewind for hybrid linear-attention LLMs (Qwen3.5/3.8, Gated DeltaNet) + bare-Metal Zig/Metal engine.",
+      "name": "ashhart/tf-rewind",
+      "stars": 7,
+      "url": "https://github.com/ashhart/tf-rewind"
+    },
+    {
+      "created": "2026-11-20",
+      "description": "Rewrite your app in Zig, one piece at a time, checked against the original's recorded behavior at every step. Functions in JavaScript, TypeScript and Python, and CLIs in any language.",
+      "name": "Layfate/zig-anything",
+      "stars": 5,
+      "url": "https://github.com/Layfate/zig-anything"
+    },
+    {
+      "created": "2026-11-25",
+      "description": "Full GLM-5.3 (mlx-community 4-bit) on one Apple M5 Ultra with TensorFold: glm_ax Metal family + MTP speculative decoding",
+      "name": "drowzeys/keys-Apple-M5U-TF-Full-GLM5.3-MLX-4bit",
+      "stars": 4,
+      "url": "https://github.com/drowzeys/keys-Apple-M5U-TF-Full-GLM5.3-MLX-4bit"
+    },
+    {
+      "created": "2026-11-23",
+      "description": "A Nushell plugin that projects terminals held on the server into a web page as plain HTML",
+      "name": "cablehead/nu_plugin_ghostty",
+      "stars": 3,
+      "url": "https://github.com/cablehead/nu_plugin_ghostty"
+    },
+    {
+      "created": "2026-11-22",
+      "description": "The icon format of Sinty OS: layered SVG sources compiled to bitmaps",
+      "name": "singularityos-lab/iride",
+      "stars": 3,
+      "url": "https://github.com/singularityos-lab/iride"
+    },
+    {
+      "created": "2026-11-20",
+      "description": "A personal Windows terminal based on shiweis/ghostty-windows.",
+      "name": "zszushi/Madotty",
+      "stars": 2,
+      "url": "https://github.com/zszushi/Madotty"
+    },
+    {
+      "created": "2026-11-22",
+      "description": "native cursor trail in ghostty, just like in kitty.",
+      "name": "GeraGCKM/ghostty-kitty-trail",
+      "stars": 2,
+      "url": "https://github.com/GeraGCKM/ghostty-kitty-trail"
+    },
+    {
+      "created": "2026-11-22",
+      "description": "Export AI harness chats (OpenCode, Claude, ChatGPT, Kagi, Cline and more) to Markdown, JSON, and attachments on disk, with dedupe, import quarantining, and remote response caching.",
+      "name": "bevry-vibes/ai-export",
+      "stars": 2,
+      "url": "https://github.com/bevry-vibes/ai-export"
+    },
+    {
+      "created": "2026-11-24",
+      "description": "Zero-copy Wayland screen recorder and live streamer (ext-image-copy-capture-v1 + VAAPI)",
+      "name": "xifan2333/wlrec",
+      "stars": 2,
+      "url": "https://github.com/xifan2333/wlrec"
     }
   ]
 }
