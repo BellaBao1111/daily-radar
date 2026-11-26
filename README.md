@@ -4,10 +4,11 @@ A small bot that keeps a daily log of what is happening in tech: the Hacker News
 front page, fast-rising new GitHub repositories, and fresh arXiv papers. Each run
 picks a random subset of sources, so coverage varies from day to day.
 
-**16** daily digests so far · snapshots: hn 12, github 11, arxiv 13
+**17** daily digests so far · snapshots: hn 12, github 12, arxiv 14
 
 ## Recent digests
 
+- [2026-11-26](digests/2026/2026-11-26.md)
 - [2026-11-25](digests/2026/2026-11-25.md)
 - [2026-11-24](digests/2026/2026-11-24.md)
 - [2026-11-23](digests/2026/2026-11-23.md)
@@ -21,11 +22,10 @@ picks a random subset of sources, so coverage varies from day to day.
 - [2026-11-15](digests/2026/2026-11-15.md)
 - [2026-11-14](digests/2026/2026-11-14.md)
 - [2026-11-13](digests/2026/2026-11-13.md)
-- [2026-11-12](digests/2026/2026-11-12.md)
 
 ## Trending on Hacker News this week
 
-`security` ×7 · `models` ×7 · `again` ×5 · `windows` ×5 · `rust` ×5 · `shit` ×5 · `now` ×5 · `without` ×5 · `llms` ×4 · `getting` ×4 · `anthropic` ×4 · `c++` ×4 · `hiring` ×4 · `lean` ×4 · `holy` ×4
+`security` ×6 · `windows` ×5 · `models` ×5 · `rust` ×5 · `shit` ×5 · `now` ×5 · `without` ×5 · `llms` ×4 · `getting` ×4 · `again` ×4 · `c++` ×4 · `hiring` ×4 · `lean` ×4 · `holy` ×4 · `built` ×4
 
 ## How it works
 
