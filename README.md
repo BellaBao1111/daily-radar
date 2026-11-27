@@ -4,7 +4,7 @@ A small bot that keeps a daily log of what is happening in tech: the Hacker News
 front page, fast-rising new GitHub repositories, and fresh arXiv papers. Each run
 picks a random subset of sources, so coverage varies from day to day.
 
-**18** daily digests so far · snapshots: hn 12, github 13, arxiv 14
+**18** daily digests so far · snapshots: hn 13, github 13, arxiv 14
 
 ## Recent digests
 
@@ -25,7 +25,7 @@ picks a random subset of sources, so coverage varies from day to day.
 
 ## Trending on Hacker News this week
 
-`security` ×6 · `windows` ×5 · `models` ×5 · `rust` ×5 · `shit` ×5 · `now` ×5 · `without` ×5 · `llms` ×4 · `getting` ×4 · `again` ×4 · `c++` ×4 · `hiring` ×4 · `lean` ×4 · `holy` ×4 · `built` ×4
+`rust` ×6 · `security` ×6 · `again` ×5 · `windows` ×5 · `models` ×5 · `shit` ×5 · `now` ×5 · `without` ×5 · `mcp` ×4 · `one` ×4 · `over` ×4 · `fun` ×4 · `first` ×4 · `llms` ×4 · `getting` ×4
 
 ## How it works
 
