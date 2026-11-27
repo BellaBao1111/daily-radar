@@ -4,71 +4,71 @@
       "created": "2026-11-23",
       "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
       "name": "ubiquitarianism/leonida",
-      "stars": 2571,
+      "stars": 2589,
       "url": "https://github.com/ubiquitarianism/leonida"
-    },
-    {
-      "created": "2026-11-23",
-      "description": "Free offline file converter for Windows – convert PDF, documents, images, audio and video privately.",
-      "name": "zero5122/offline-file-converter-windows",
-      "stars": 1074,
-      "url": "https://github.com/zero5122/offline-file-converter-windows"
     },
     {
       "created": "2026-11-21",
       "description": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
       "name": "sybil-solutions/skill-distill",
-      "stars": 955,
+      "stars": 972,
       "url": "https://github.com/sybil-solutions/skill-distill"
     },
     {
       "created": "2026-11-26",
       "description": "fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to data brokers on your behalf.",
       "name": "gary23w/f-ck_data_brokers",
-      "stars": 481,
+      "stars": 508,
       "url": "https://github.com/gary23w/f-ck_data_brokers"
     },
     {
       "created": "2026-11-22",
       "description": "Minecraft to native RCE",
       "name": "bikini/minecraft2shell",
-      "stars": 461,
+      "stars": 465,
       "url": "https://github.com/bikini/minecraft2shell"
     },
     {
       "created": "2026-11-24",
       "description": "Experimental Xbox Series compatibility runtime for Windows x64, built in Rust.",
       "name": "stellarr-studio/kelvaroq",
-      "stars": 382,
+      "stars": 453,
       "url": "https://github.com/stellarr-studio/kelvaroq"
     },
     {
       "created": "2026-11-22",
       "description": "Turn a car's dashcam footage into a 3D world you can drive through again: Gaussian splats, a 1 cm road atlas, tracked vehicles and a diffusion-repaired chase view.",
       "name": "R44VC0RP/dashsplat",
-      "stars": 350,
+      "stars": 353,
       "url": "https://github.com/R44VC0RP/dashsplat"
+    },
+    {
+      "created": "2026-11-25",
+      "description": "Recursive Self Improving Loopers: Autonomous Multi-Generation Recursive Self-Improvement (SelfWrite) & Banach Fixed-Point Alignment for Looped MoE Transformers",
+      "name": "eelbaz/Recursive-Self-Improving-Loopers",
+      "stars": 284,
+      "url": "https://github.com/eelbaz/Recursive-Self-Improving-Loopers"
     },
     {
       "created": "2026-11-25",
       "description": "招投标大师 (Bidding Master) —— 涵盖国内 20+ 核心公开招投标平台（中国政府采购网、全国公共资源交易平台、国家电网、南方电网、中石油、中化、国家能源、中国华能、中国电信、中国邮政、国铁 95306、中国国航、中国烟草、金采网等）的深网采集与数据解析底座。项目包含早期的多站点自动化解析脚本、跨平台标题清洗与 MD5 指纹去重、6 级预算金额与多联系人防错配正则提取引擎，以及演进",
       "name": "Lappercn/tender-master",
-      "stars": 266,
+      "stars": 269,
       "url": "https://github.com/Lappercn/tender-master"
     },
     {
       "created": "2026-11-26",
       "description": "LingBot-Map 2.0: Geometric Streaming Base Model",
       "name": "Robbyant/lingbot-map-v2",
-      "stars": 219,
+      "stars": 254,
       "url": "https://github.com/Robbyant/lingbot-map-v2"
     },
     {
-      "created": "2026-11-25",
-      "description": "Google One (iOS Shadowrocket & Android) 隐藏免费试用与折扣 SKU 模块 (Pro 18M/15M/12M Free & Ultra 1M Free) — 基于 crhywun/g1-acq 扩展",
-      "name": "Dgkncn/g1-acq-plus",
-      "stars": 205,
-      "url": "https://github.com/Dgkncn/g1-acq-plus"
+      "created": "2026-11-23",
+      "description": "Together Cinema · 自托管的同步放映室，支持共享片库、弹幕和语音。",
+      "name": "liu-qingyuan/together-cinema",
+      "stars": 218,
+      "url": "https://github.com/liu-qingyuan/together-cinema"
     }
   ],
   "Swift": [
@@ -141,6 +141,78 @@
       "name": "a1024053774/EnCopy",
       "stars": 57,
       "url": "https://github.com/a1024053774/EnCopy"
+    }
+  ],
+  "Zig": [
+    {
+      "created": "2026-11-26",
+      "description": "Zero-copy shared-memory pub/sub for Zig, modelled on iceoryx2's architecture. 34 ns one-way on a shared core, ~100 ns across cores.",
+      "name": "5usu/zig-iceoryx",
+      "stars": 21,
+      "url": "https://github.com/5usu/zig-iceoryx"
+    },
+    {
+      "created": "2026-11-24",
+      "description": "TF-Rewind (TensorFold Research): Exact checkpoint-free arbitrary-boundary state rewind for hybrid linear-attention LLMs (Qwen3.5/3.8, Gated DeltaNet) + bare-Metal Zig/Metal engine.",
+      "name": "ashhart/tf-rewind",
+      "stars": 7,
+      "url": "https://github.com/ashhart/tf-rewind"
+    },
+    {
+      "created": "2026-11-25",
+      "description": "Full GLM-5.3 (mlx-community 4-bit) on one Apple M5 Ultra with TensorFold: glm_ax Metal family + MTP speculative decoding",
+      "name": "drowzeys/keys-Apple-M5U-TF-Full-GLM5.3-MLX-4bit",
+      "stars": 5,
+      "url": "https://github.com/drowzeys/keys-Apple-M5U-TF-Full-GLM5.3-MLX-4bit"
+    },
+    {
+      "created": "2026-11-23",
+      "description": "A Nushell plugin that projects terminals held on the server into a web page as plain HTML",
+      "name": "cablehead/nu_plugin_ghostty",
+      "stars": 4,
+      "url": "https://github.com/cablehead/nu_plugin_ghostty"
+    },
+    {
+      "created": "2026-11-22",
+      "description": "The icon format of Sinty OS: layered SVG sources compiled to bitmaps",
+      "name": "singularityos-lab/iride",
+      "stars": 3,
+      "url": "https://github.com/singularityos-lab/iride"
+    },
+    {
+      "created": "2026-11-24",
+      "description": "Redis-compatible in-memory database with branching",
+      "name": "sadilet/ramusdb",
+      "stars": 2,
+      "url": "https://github.com/sadilet/ramusdb"
+    },
+    {
+      "created": "2026-11-26",
+      "description": "Rex sessions in a web browser",
+      "name": "lexlapax/rweb",
+      "stars": 2,
+      "url": "https://github.com/lexlapax/rweb"
+    },
+    {
+      "created": "2026-11-22",
+      "description": "native cursor trail in ghostty, just like in kitty.",
+      "name": "GeraGCKM/ghostty-kitty-trail",
+      "stars": 2,
+      "url": "https://github.com/GeraGCKM/ghostty-kitty-trail"
+    },
+    {
+      "created": "2026-11-22",
+      "description": "Export AI harness chats (OpenCode, Claude, ChatGPT, Kagi, Cline and more) to Markdown, JSON, and attachments on disk, with dedupe, import quarantining, and remote response caching.",
+      "name": "bevry-vibes/ai-export",
+      "stars": 2,
+      "url": "https://github.com/bevry-vibes/ai-export"
+    },
+    {
+      "created": "2026-11-24",
+      "description": "Zero-copy Wayland screen recorder and live streamer (ext-image-copy-capture-v1 + VAAPI)",
+      "name": "xifan2333/wlrec",
+      "stars": 2,
+      "url": "https://github.com/xifan2333/wlrec"
     }
   ]
 }
