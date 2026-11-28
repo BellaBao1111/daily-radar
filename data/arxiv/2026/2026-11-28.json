@@ -1,0 +1,190 @@
+{
+  "2611.34884v1": {
+    "authors": [
+      "Yujia Zeng",
+      "Yuxin Chen",
+      "Yuzhen Song",
+      "Runhan Huang",
+      "Chensheng Peng"
+    ],
+    "category": "cs.CV",
+    "summary": "Dexterity is, at its core, finger-level control, yet existing dexterous manipulation and human-object interaction (HOI) generation methods rarely let one specify how an interaction is performed: five-fingered hands are often reduced to grippers, or finger usage is copied from individual human demonstrations. We present FineDex, a framework that makes finger-level intent both expressible and execut",
+    "title": "FineDex: Bridging Fine-Grained Human-Object Interaction Generation to Dexterous Humanoid Manipulation",
+    "url": "http://arxiv.org/abs/2611.34884v1"
+  },
+  "2611.34894v1": {
+    "authors": [
+      "Ziyue Peng",
+      "Yanxi Hu",
+      "Junyoung Kim",
+      "Andrew Chen",
+      "Jin Yang"
+    ],
+    "category": "cs.CV",
+    "summary": "How an object deforms when it hits the ground reveals what it is made of. From a single real video of a drop, we estimate a deformable object's density-normalized stiffness $E/ρ$, and its yield stress $σ_Y/ρ$ when the impact causes plastic deformation, with a feed-forward predictor trained only in simulation. Real videos carry no material labels, so such predictors are developed and validated on s",
+    "title": "What a Drop Reveals: Sim-to-Real Material Estimation for Deformable Objects from Video",
+    "url": "http://arxiv.org/abs/2611.34894v1"
+  },
+  "2611.34899v1": {
+    "authors": [
+      "Rikard Vinge",
+      "Miguel A. Belenguer-Plomer",
+      "Isabelle Wittmann",
+      "Octavian Dumitru",
+      "Michele Lazzarini"
+    ],
+    "category": "cs.CV",
+    "summary": "This work presents a novel application of Earth Observation (EO) embeddings for Maritime Domain Awareness (MDA) from the perspective of the geospatial foundation model TerraMind. By operating directly on compressed latent-space representations rather than on the original Sentinel-1 imagery, this approach directly addresses the data gravity bottleneck that increasingly constrains operational EO pro",
+    "title": "Enhancing Maritime Domain Awareness using Latent Space Representations",
+    "url": "http://arxiv.org/abs/2611.34899v1"
+  },
+  "2611.34903v1": {
+    "authors": [
+      "Tianru Zhang",
+      "Mayank Nautiyal",
+      "Hugo Eidmann",
+      "Prashant Singh",
+      "Ekta Vats"
+    ],
+    "category": "cs.CV",
+    "summary": "Processing long videos with multimodal large language models (MLLMs) is prohibitively expensive, making informative frame selection essential for accurate video understanding. The default uniform sampling often misses task-relevant keyframes, while recent training-free selectors instead pick frames by how well each one matches the question under an image-text alignment (ITA) score. However, we sho",
+    "title": "ProbFaS: Probabilistic Video Frame Selection for MLLMs via Multi-Fidelity Calibration",
+    "url": "http://arxiv.org/abs/2611.34903v1"
+  },
+  "2611.34907v1": {
+    "authors": [
+      "Shaoteng Liu",
+      "Shuai Yang",
+      "Wei Huang",
+      "Luozhou Wang",
+      "Song Han"
+    ],
+    "category": "cs.CV",
+    "summary": "Real-time autoregressive video generators stream minutes of video and accept new prompts on the fly, but struggle to keep people, objects, and places consistent over a long interactive story. Agent systems provide such memory for offline multi-shot generation, yet they read the whole script in advance, plan each shot before generating it, and regenerate failed shots, which a live stream does not a",
+    "title": "Agentic LongLive: Asynchronous Agentic Memory for Long Video Generation",
+    "url": "http://arxiv.org/abs/2611.34907v1"
+  },
+  "2611.34912v1": {
+    "authors": [
+      "Jiachen An",
+      "Sijie Zhao",
+      "Le Li",
+      "Hongyu Liu",
+      "Zhiyuan Li"
+    ],
+    "category": "cs.CV",
+    "summary": "While video diffusion models have grown faster and increasingly streamable, the video VAE remains a primary latency bottleneck across interactive generation and editing pipelines. Existing VAEs and their acceleration methods rely mainly on heavy convolutions or full frame attention, and most focus only on decoding, leaving encoding costly for streaming conditional generation and editing. This rais",
+    "title": "LiveVAE: Causal Window Attention Makes Efficient Streaming Video VAE",
+    "url": "http://arxiv.org/abs/2611.34912v1"
+  },
+  "2611.34914v1": {
+    "authors": [
+      "Agelos Kratimenos",
+      "Kostas Daniilidis",
+      "Evangelos Chatzipantazis"
+    ],
+    "category": "cs.CV",
+    "summary": "Vision-language-action models (VLAs) are capable low-level controllers, but they tie where objects go to the layouts they were trained on: when objects are moved or obstacles block the way, they carry them to the wrong place or into collisions. Fine-tuning on new layouts needs robot data for each one and erodes skills the model already has. We introduce Cairn, which keeps the VLA frozen and steers",
+    "title": "Cairn: Object-Centric 3D Trajectory Priors for Steering Frozen VLAs",
+    "url": "http://arxiv.org/abs/2611.34914v1"
+  },
+  "2611.34929v1": {
+    "authors": [
+      "Baihan Yang",
+      "Xin Lin",
+      "Yufan Wei",
+      "Baiang Li",
+      "Yuheng Liu"
+    ],
+    "category": "cs.CV",
+    "summary": "Diffusion models have shown strong potential for image matting by transferring generative priors learned from large-scale pretraining. However, existing approaches largely rely on latent diffusion models, whose compressed representations and VAE-based reconstruction introduce a mismatch with the high-frequency precision required for matting. We present PixelMatte, a framework that adapts pretraine",
+    "title": "High-Fidelity Image Matting with Pixel-Space Diffusion Transformers",
+    "url": "http://arxiv.org/abs/2611.34929v1"
+  },
+  "2611.34931v1": {
+    "authors": [
+      "Agelos Kratimenos",
+      "Yile Hua",
+      "Kostas Daniilidis"
+    ],
+    "category": "cs.CV",
+    "summary": "A single casual video leaves a moving scene under-determined: a point seen once from each place can slide toward or away from the camera and still match every frame. We constrain the reconstruction with the structure of the motion itself. Building on DynMF, we model a scene's motion as a handful of SE(3) trajectories, each rigid, and let every point follow one of them alone, never a blend. DynMF2 ",
+    "title": "DynMF2: Rigid Motion Factorization by Expectation-Maximization for Monocular 4D Reconstruction and Motion Segmentation",
+    "url": "http://arxiv.org/abs/2611.34931v1"
+  },
+  "2611.34935v1": {
+    "authors": [
+      "Xueyang Yu",
+      "Yifan Jing",
+      "Taiming Lu",
+      "Linrong Cai",
+      "Zhipeng Cai"
+    ],
+    "category": "cs.CV",
+    "summary": "Language models think in words; then multimodal models might think in images. We test whether a generated helper improves the answer to a visual question. A model describes the helper it needs and then answers using the original and generated images together. Across 13 vision-language model and generator pairs, generation lowers mean accuracy by 3.7 percentage points, with declines on nine of ten ",
+    "title": "Can image generation help visual reasoning? An empirical study",
+    "url": "http://arxiv.org/abs/2611.34935v1"
+  },
+  "2611.34939v1": {
+    "authors": [
+      "Roy Or-El",
+      "Jeong Joon Park",
+      "Ira Kemelmacher-Shlizerman"
+    ],
+    "category": "cs.CV",
+    "summary": "We present MEMO (a Mesh for Every MOment), a method that reconstructs the geometry of complete dynamic scenes, captured by multiple synchronized cameras, and extracts a mesh at every frame. Existing dynamic Gaussian splatting methods either model appearance alone or target isolated objects segmented by foreground masks, and all of them recover meshes by TSDF fusion or Poisson reconstruction, whose",
+    "title": "A Mesh for Every Moment",
+    "url": "http://arxiv.org/abs/2611.34939v1"
+  },
+  "2611.34940v1": {
+    "authors": [
+      "Yipengjing Sun",
+      "Chenyang Wang",
+      "Boyao Zhou",
+      "Jiapeng Zhu",
+      "Ka Leong Cheng"
+    ],
+    "category": "cs.CV",
+    "summary": "We present LuxAvatar, a feed-forward framework for real-time head avatar animation and relighting from a single portrait. To achieve both 3D controllability and complex facial light transport, we factorize avatar synthesis into an animatable 3D intrinsic Gaussian proxy and a causal autoregressive neural shader. This proxy disentangles canonical geometry and reflectance attributes, rapidly rasteriz",
+    "title": "LuxAvatar: Real-Time Relightable Head Avatars via Causal Neural Shading of 3D Intrinsic Proxies",
+    "url": "http://arxiv.org/abs/2611.34940v1"
+  },
+  "2611.34941v1": {
+    "authors": [
+      "Ji Xie",
+      "Yanhao Jia",
+      "Xiangpeng Yang",
+      "Martin Q. Ma",
+      "Sihan Xu"
+    ],
+    "category": "cs.CV",
+    "summary": "Image editing models can follow a wide range of instructions, but video editing models still lag behind, limited in part by the difficulty of collecting paired source and edited videos. Is it possible to transfer advanced image editing capabilities to video editors without new paired videos? We introduce Image-to-Video Transfer (I2VT), which improves pretrained video editors and expands them to ne",
+    "title": "Improving and Expanding Video Editing Capabilities Without Videos",
+    "url": "http://arxiv.org/abs/2611.34941v1"
+  },
+  "2611.34943v1": {
+    "authors": [
+      "Xuweiyi Chen",
+      "Jin Yao",
+      "Linzhan Mou",
+      "Lei Gong",
+      "Di Liu"
+    ],
+    "category": "cs.CV",
+    "summary": "A general-purpose Vision-Language Model (VLM) has surpassed expert vision models in many domains such as object detection and video recognition. However, point correspondence is known to be challenging for VLMs since it goes beyond object-level recognition: it requires pixel-level localization of the same physical surface point across observations, even when appearance changes or the point disappe",
+    "title": "Tracking Any Point with Agentic Visual Reasoning",
+    "url": "http://arxiv.org/abs/2611.34943v1"
+  },
+  "2611.34944v1": {
+    "authors": [
+      "Weijie Lyu",
+      "Zhixin Shu",
+      "Yuntian Ke",
+      "Ming-Hsuan Yang"
+    ],
+    "category": "cs.CV",
+    "summary": "Camera-controlled video generation re-renders a video along a target camera trajectory, yet moving the camera around an object, the most natural way to change the viewpoint of an object-centric scene, remains difficult. Existing methods condition either on camera parameters, which are scale-ambiguous in monocular video, or on explicit geometry such as warped point clouds or depth, which breaks dow",
+    "title": "AnyCam: Anything Can Represent Camera for Video Generation",
+    "url": "http://arxiv.org/abs/2611.34944v1"
+  }
+}
