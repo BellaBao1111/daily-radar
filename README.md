@@ -4,10 +4,11 @@ A small bot that keeps a daily log of what is happening in tech: the Hacker News
 front page, fast-rising new GitHub repositories, and fresh arXiv papers. Each run
 picks a random subset of sources, so coverage varies from day to day.
 
-**18** daily digests so far · snapshots: hn 13, github 13, arxiv 14
+**19** daily digests so far · snapshots: hn 13, github 13, arxiv 15
 
 ## Recent digests
 
+- [2026-11-28](digests/2026/2026-11-28.md)
 - [2026-11-27](digests/2026/2026-11-27.md)
 - [2026-11-26](digests/2026/2026-11-26.md)
 - [2026-11-25](digests/2026/2026-11-25.md)
@@ -21,11 +22,10 @@ picks a random subset of sources, so coverage varies from day to day.
 - [2026-11-17](digests/2026/2026-11-17.md)
 - [2026-11-16](digests/2026/2026-11-16.md)
 - [2026-11-15](digests/2026/2026-11-15.md)
-- [2026-11-14](digests/2026/2026-11-14.md)
 
 ## Trending on Hacker News this week
 
-`one` ×6 · `rust` ×6 · `without` ×6 · `security` ×6 · `over` ×5 · `first` ×5 · `again` ×5 · `getting` ×5 · `windows` ×5 · `models` ×5 · `shit` ×5 · `now` ×5 · `mcp` ×4 · `send` ×4 · `fun` ×4
+`one` ×6 · `security` ×6 · `first` ×5 · `again` ×5 · `models` ×5 · `shit` ×5 · `now` ×5 · `send` ×4 · `over` ×4 · `rust` ×4 · `fun` ×4 · `browser` ×4 · `without` ×4 · `getting` ×4 · `coding` ×4
 
 ## How it works
 
