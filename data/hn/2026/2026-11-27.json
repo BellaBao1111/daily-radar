@@ -1,10 +1,52 @@
 {
+  "50631823": {
+    "author": "gregsadetsky",
+    "comments": 10,
+    "points": 43,
+    "title": "Build your own amp modeler: $78 DIY pedal kit from TONE3000",
+    "url": "https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit"
+  },
+  "50633531": {
+    "author": "mv4",
+    "comments": 58,
+    "points": 56,
+    "title": "Show HN: Analysis of Hacker News predictions since 2008",
+    "url": "https://hnpredictions.com/"
+  },
   "50636931": {
     "author": "Petiver",
     "comments": 43,
     "points": 167,
     "title": "Curiosity Is No Solo Act",
     "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/"
+  },
+  "50638593": {
+    "author": "benbreen",
+    "comments": 4,
+    "points": 43,
+    "title": "Lydian Chromatic Concept of Tonal Organization",
+    "url": "https://en.wikipedia.org/wiki/Lydian_Chromatic_Concept_of_Tonal_Organization"
+  },
+  "50643158": {
+    "author": "dr_red_dog",
+    "comments": 195,
+    "points": 319,
+    "title": "GPT 6.2 Astra Solves a Historical Mystery",
+    "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical"
+  },
+  "50644213": {
+    "author": "zdw",
+    "comments": 3,
+    "points": 4,
+    "title": "Cyberpunk Television Shows",
+    "url": "https://shellzine.net/cyberpunk-television/"
+  },
+  "50647400": {
+    "author": "libraryofbabel",
+    "comments": 4,
+    "points": 28,
+    "title": "Atlantic 1866: information and shipping in the age of the telegraph",
+    "url": "https://atlantic-1866.com/"
   },
   "50649040": {
     "author": "MassPikeMike",
@@ -54,6 +96,20 @@
     "points": 397,
     "title": "AMD-specific fork of llama.cpp",
     "url": "https://devnull.land/amd-specific-llama-cpp"
+  },
+  "50657346": {
+    "author": "sheepscreek",
+    "comments": 10,
+    "points": 54,
+    "title": "The Balatro Timeline",
+    "url": "https://localthunk.com/blog/balatro-timeline-3aarh"
+  },
+  "50657392": {
+    "author": "Bender",
+    "comments": 56,
+    "points": 184,
+    "title": "First images of the impact of DART asteroid deflection experiment",
+    "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/"
   },
   "50657530": {
     "author": "iantongeorge",
@@ -132,6 +188,13 @@
     "title": "The Cutthroat Business of Shipwrecks",
     "url": "https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/"
   },
+  "50662313": {
+    "author": "o4c",
+    "comments": 50,
+    "points": 135,
+    "title": "Citroën Hydraulic System",
+    "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html"
+  },
   "50663089": {
     "author": "todsacerdoti",
     "comments": 187,
@@ -208,5 +271,152 @@
     "points": 53,
     "title": "Counseling for mental health decreases likelihood of protesting by 34%–39%",
     "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219"
+  },
+  "50667371": {
+    "author": "tylermw",
+    "comments": 11,
+    "points": 77,
+    "title": "Rayshader 1.0: Exit the Matrix",
+    "url": "https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html"
+  },
+  "50667726": {
+    "author": "mday404",
+    "comments": 114,
+    "points": 326,
+    "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+    "url": "https://bouncemarket.minhanhday.com/"
+  },
+  "50667989": {
+    "author": "_tk_",
+    "comments": 76,
+    "points": 180,
+    "title": "False computer-checked proofs",
+    "url": "https://cr.yp.to/proofs/falseccp.html"
+  },
+  "50668145": {
+    "author": "scanr",
+    "comments": 226,
+    "points": 431,
+    "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+    "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer"
+  },
+  "50669673": {
+    "author": "ziofill",
+    "comments": 31,
+    "points": 103,
+    "title": "Show HN: DragDropMath – Learn math by feel",
+    "url": "https://dragdropmath.com/"
+  },
+  "50669765": {
+    "author": "MickyTheMouse",
+    "comments": 76,
+    "points": 233,
+    "title": "Convex skills send the user's app idea to a remote server without telling them",
+    "url": "https://github.com/convex/convex-backend-skill/issues/64"
+  },
+  "50670340": {
+    "author": "only_in_america",
+    "comments": 27,
+    "points": 61,
+    "title": "Scrapheap America",
+    "url": "https://dansinker.com/posts/2026-11-20-scrapheap/"
+  },
+  "50670443": {
+    "author": "runtimenotes",
+    "comments": 10,
+    "points": 40,
+    "title": "Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10",
+    "url": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/"
+  },
+  "50670757": {
+    "author": "brandonb",
+    "comments": 255,
+    "points": 385,
+    "title": "Michael Nielsen took down his book on neural nets",
+    "url": "https://neuralnetworksanddeeplearning.com/"
+  },
+  "50670841": {
+    "author": "ok123456",
+    "comments": 11,
+    "points": 57,
+    "title": "The AT&T Unix PC (3B1) VM",
+    "url": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/"
+  },
+  "50670855": {
+    "author": "DeepLogin",
+    "comments": 152,
+    "points": 264,
+    "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+    "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform"
+  },
+  "50671275": {
+    "author": "ingve",
+    "comments": 7,
+    "points": 34,
+    "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+    "url": "https://github.com/skeeto/prospero"
+  },
+  "50671619": {
+    "author": "KillerDiller",
+    "comments": 10,
+    "points": 15,
+    "title": "Quad9 Blocks Nginx2root.com",
+    "url": "https://quad9.net/?url=nginx2root.com#domain-tester"
+  },
+  "50671651": {
+    "author": "arvindell",
+    "comments": 10,
+    "points": 26,
+    "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+    "url": "https://sessiongraph.ai/"
+  },
+  "50672008": {
+    "author": "rbanffy",
+    "comments": 13,
+    "points": 74,
+    "title": "9/UX: a Macintosh-inspired desktop for 9front",
+    "url": "https://progrium.github.io/9ux/"
+  },
+  "50672142": {
+    "author": "emschwartz",
+    "comments": 41,
+    "points": 57,
+    "title": "Source Control from Hell",
+    "url": "https://frantic.im/git/"
+  },
+  "50672521": {
+    "author": "mmcclure",
+    "comments": 11,
+    "points": 32,
+    "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
+    "url": "https://tabernet.es/"
+  },
+  "50672565": {
+    "author": "ComputedCamp995",
+    "comments": 18,
+    "points": 81,
+    "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+    "url": "https://research.google/blog/supercharging-transformer-residual-connections/"
+  },
+  "50672829": {
+    "author": "magoghm",
+    "comments": 3,
+    "points": 11,
+    "title": "Painting 1990s anime scenes in Python",
+    "url": "https://www.fofr.ai/greenhouse-after-the-typhoon"
+  },
+  "50672835": {
+    "author": "sedatk",
+    "comments": 3,
+    "points": 23,
+    "title": "Passkey blues",
+    "url": "https://ssg.dev/passkey-blues/"
+  },
+  "50673444": {
+    "author": "motionlessveloc",
+    "comments": 0,
+    "points": 12,
+    "title": "Alaska seized his plane over some beers. He is asking the Supreme Court for help",
+    "url": "https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/"
   }
 }
