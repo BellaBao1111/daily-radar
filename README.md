@@ -25,7 +25,7 @@ picks a random subset of sources, so coverage varies from day to day.
 
 ## Trending on Hacker News this week
 
-`rust` ×6 · `security` ×6 · `again` ×5 · `windows` ×5 · `models` ×5 · `shit` ×5 · `now` ×5 · `without` ×5 · `mcp` ×4 · `one` ×4 · `over` ×4 · `fun` ×4 · `first` ×4 · `llms` ×4 · `getting` ×4
+`one` ×6 · `rust` ×6 · `without` ×6 · `security` ×6 · `over` ×5 · `first` ×5 · `again` ×5 · `getting` ×5 · `windows` ×5 · `models` ×5 · `shit` ×5 · `now` ×5 · `mcp` ×4 · `send` ×4 · `fun` ×4
 
 ## How it works
 
